@@ -1,0 +1,235 @@
+{
+  "name": "Miami (Fla.) Hurricanes - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/MIAMI/miami-fla-hurricanes/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Harlond Beverly",
+          "injury": {
+            "area": "Back:"
+          }
+        },
+        "values": [
+          "5",
+          "G",
+          "6-5",
+          "195",
+          "Soph",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Deng Gak",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-11",
+          "220",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Filippos Gkogkos",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-3",
+          "193",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bensley Joseph",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-1",
+          "195",
+          "Fr",
+          "Arlington, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kameron McGusty",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-5",
+          "190",
+          "Sr",
+          "Katy, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Miller",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-7",
+          "195",
+          "Jr",
+          "Middleburg, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Rodney Miller Jr.",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "C",
+          "7-0",
+          "235",
+          "Sr",
+          "Laurelton, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Charlie Moore",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "5-11",
+          "180",
+          "Sr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Thomas Oosterbroek",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-7",
+          "235",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Wooga Poplar",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "6-5",
+          "195",
+          "Fr",
+          "Philadelphia, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jakai Robinson",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "13",
+          "G",
+          "6-4",
+          "200",
+          "Fr",
+          "Ossining, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sam Waardenburg",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-10",
+          "225",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Anthony Walker",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-9",
+          "215",
+          "Soph",
+          "Baltimore, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Wong",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "185",
+          "Soph",
+          "Piscataway, NJ"
+        ]
+      }
+    ]
+  }
+}

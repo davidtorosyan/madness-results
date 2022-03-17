@@ -1,0 +1,273 @@
+{
+  "name": "Texas Southern Tigers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/TEXSO/texas-southern-tigers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Galen Alexander",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-6",
+          "220",
+          "Sr",
+          "Breaux Bridge, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Davon Barnes",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "F",
+          "6-5",
+          "215",
+          "Fr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Grayson Carter",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-10",
+          "225",
+          "Jr",
+          "Dallas, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bryson Etienne",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-3",
+          "190",
+          "Sr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kehlin Farooq",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-5",
+          "180",
+          "Soph",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Gilliam",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-6",
+          "175",
+          "Sr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kolby Granger",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-5",
+          "180",
+          "Fr",
+          "Missouri City, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brison Gresham",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "F",
+          "6-9",
+          "240",
+          "Sr",
+          "New Orleans, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "PJ Henry",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "5-10",
+          "175",
+          "Jr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin Hopkins",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-5",
+          "205",
+          "Sr",
+          "Huntsville, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Jones",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-0",
+          "165",
+          "Sr",
+          "Baton Rouge, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "A.J. Lawson",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-5",
+          "215",
+          "Sr",
+          "Bryan, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andrew Malveaux III",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "G",
+          "5-10",
+          "170",
+          "Jr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joirdon Karl Nicholas",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-9",
+          "220",
+          "Sr",
+          "Pearland, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Shaqir O'Neal",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-7",
+          "185",
+          "Fr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Yahuza Rasas",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "F",
+          "6-7",
+          "200",
+          "Sr",
+          "St. Louis, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Walker III",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-9",
+          "200",
+          "Sr",
+          "Houston, TX"
+        ]
+      }
+    ]
+  }
+}

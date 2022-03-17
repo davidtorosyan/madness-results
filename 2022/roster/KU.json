@@ -1,0 +1,297 @@
+{
+  "name": "Kansas Jayhawks - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/KANSAS/kansas-jayhawks/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "KJ Adams Jr.",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-7",
+          "225",
+          "Fr",
+          "Austin, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ochai Agbaji",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-5",
+          "215",
+          "Sr",
+          "Kansas City, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Christian Braun",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-6",
+          "218",
+          "Jr",
+          "Burlington, KS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zach Clemence",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-10",
+          "225",
+          "Fr",
+          "San Antonio, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Coleman-Lands",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "6-4",
+          "190",
+          "Sr",
+          "Indianapolis, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kyle Cuffe Jr.",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "5",
+          "G",
+          "6-2",
+          "180",
+          "Fr",
+          "Harlem, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dajuan Harris Jr.",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-1",
+          "170",
+          "Soph",
+          "Columbia, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Jankovich",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-5",
+          "190",
+          "Jr",
+          "Dallas, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mitch Lightfoot",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "44",
+          "F",
+          "6-8",
+          "225",
+          "Sr",
+          "Gilbert, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cam Martin",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "31",
+          "F",
+          "6-9",
+          "230",
+          "Sr",
+          "Yukon, OK"
+        ]
+      },
+      {
+        "player": {
+          "name": "Remy Martin",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-0",
+          "175",
+          "Sr",
+          "Chatsworth, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Charlie McCarthy",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-2",
+          "195",
+          "Fr",
+          "Rancho Mirage, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "David McCormack",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-10",
+          "250",
+          "Sr",
+          "Norfolk, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bobby Pettiford",
+          "injury": {
+            "area": "Abdomen:"
+          }
+        },
+        "values": [
+          "0",
+          "G",
+          "6-1",
+          "190",
+          "Fr",
+          "Durham, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Teahan",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-4",
+          "195",
+          "Sr",
+          "Leawood, KS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dillon Wilhite",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "15",
+          "F",
+          "6-9",
+          "240",
+          "Fr",
+          "San Diego, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Wilson",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-8",
+          "225",
+          "Soph",
+          "Denton, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joseph Yesufu",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-0",
+          "180",
+          "Soph",
+          "Bolingbrook, IL"
+        ]
+      }
+    ]
+  }
+}

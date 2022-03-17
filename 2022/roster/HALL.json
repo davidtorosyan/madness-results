@@ -1,0 +1,253 @@
+{
+  "name": "Seton Hall Pirates - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/SETON/seton-hall-pirates/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Bryce Aiken",
+          "injury": {
+            "area": "Concussion:"
+          }
+        },
+        "values": [
+          "1",
+          "G",
+          "6-0",
+          "180",
+          "Sr",
+          "Randolph, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Myles Cale",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-6",
+          "210",
+          "Sr",
+          "Middletown, DE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ryan Conway",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-1",
+          "180",
+          "Fr",
+          "Baltimore, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sylwester Granda",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "30",
+          "G",
+          "6-4",
+          "190",
+          "Soph",
+          "Brooklyn, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jamir Harris",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-2",
+          "195",
+          "Sr",
+          "North Brunswick, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tray Jackson",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-10",
+          "210",
+          "Jr",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jahari Long",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "25",
+          "G",
+          "6-5",
+          "200",
+          "Soph",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ike Obiagu",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "C",
+          "7-2",
+          "265",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Powell",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "G",
+          "6-5",
+          "220",
+          "Fr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jared Rhoden",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-6",
+          "210",
+          "Sr",
+          "Baldwin, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kadary Richmond",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-6",
+          "200",
+          "Soph",
+          "Brooklyn, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyrese Samuel",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-10",
+          "230",
+          "Jr",
+          "Montreal, PQ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jo Smith",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-9",
+          "200",
+          "Soph",
+          "Selma, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Weston",
+          "injury": {
+            "area": "Ankle:"
+          }
+        },
+        "values": [
+          "20",
+          "G",
+          "6-5",
+          "200",
+          "Fr",
+          "Brooklyn, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alexis Yetna",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-8",
+          "225",
+          "Sr",
+          "\u2014"
+        ]
+      }
+    ]
+  }
+}

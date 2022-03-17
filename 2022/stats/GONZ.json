@@ -1,0 +1,933 @@
+{
+  "name": "Gonzaga Bulldogs - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/GONZAG/gonzaga-bulldogs/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Drew Timme",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "29",
+            "27.5",
+            "17.5",
+            "200",
+            "340",
+            "58.8",
+            "7",
+            "25",
+            "28.0",
+            "101",
+            "145",
+            "69.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chet Holmgren",
+            "position": "C"
+          },
+          "values": [
+            "29",
+            "28",
+            "26.8",
+            "14.2",
+            "153",
+            "251",
+            "61.0",
+            "40",
+            "97",
+            "41.2",
+            "67",
+            "89",
+            "75.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Julian Strawther",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "28",
+            "26.6",
+            "12.3",
+            "128",
+            "246",
+            "52.0",
+            "53",
+            "134",
+            "39.6",
+            "49",
+            "68",
+            "72.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Andrew Nembhard",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "31.4",
+            "11.7",
+            "129",
+            "280",
+            "46.1",
+            "42",
+            "115",
+            "36.5",
+            "40",
+            "46",
+            "87.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Rasir Bolton",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "26.8",
+            "11.2",
+            "111",
+            "221",
+            "50.2",
+            "57",
+            "122",
+            "46.7",
+            "45",
+            "56",
+            "80.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Anton Watson",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "0",
+            "18.3",
+            "7.7",
+            "81",
+            "145",
+            "55.9",
+            "5",
+            "21",
+            "23.8",
+            "57",
+            "78",
+            "73.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nolan Hickman",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "0",
+            "17.6",
+            "5.4",
+            "61",
+            "136",
+            "44.9",
+            "24",
+            "74",
+            "32.4",
+            "10",
+            "15",
+            "66.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Hunter Sallis",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "0",
+            "14",
+            "4.4",
+            "54",
+            "97",
+            "55.7",
+            "5",
+            "19",
+            "26.3",
+            "16",
+            "22",
+            "72.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ben Gregg",
+            "position": "F"
+          },
+          "values": [
+            "16",
+            "0",
+            "6.4",
+            "2.5",
+            "17",
+            "46",
+            "37.0",
+            "4",
+            "13",
+            "30.8",
+            "2",
+            "7",
+            "28.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kaden Perry",
+            "position": "F"
+          },
+          "values": [
+            "8",
+            "0",
+            "6.4",
+            "1.8",
+            "7",
+            "9",
+            "77.8",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "3",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matthew Lang",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "1",
+            "3.3",
+            "1.1",
+            "7",
+            "13",
+            "53.8",
+            "3",
+            "9",
+            "33.3",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Martynas Arlauskas",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "0",
+            "3.4",
+            "0.8",
+            "4",
+            "9",
+            "44.4",
+            "0",
+            "0",
+            "\u2014",
+            "4",
+            "7",
+            "57.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Will Graves",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "1",
+            "1.8",
+            "0.7",
+            "3",
+            "10",
+            "30.0",
+            "3",
+            "9",
+            "33.3",
+            "2",
+            "2",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joe Few",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "0",
+            "1.7",
+            "0.1",
+            "0",
+            "8",
+            "0.0",
+            "0",
+            "4",
+            "0.0",
+            "1",
+            "2",
+            "50.0"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Chet Holmgren",
+            "position": "C"
+          },
+          "values": [
+            "29",
+            "28",
+            "47",
+            "230",
+            "277",
+            "9.6",
+            "24",
+            "0.80",
+            "104",
+            "3.60"
+          ]
+        },
+        {
+          "player": {
+            "name": "Drew Timme",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "29",
+            "48",
+            "134",
+            "182",
+            "6.3",
+            "7",
+            "0.20",
+            "25",
+            "0.90"
+          ]
+        },
+        {
+          "player": {
+            "name": "Julian Strawther",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "28",
+            "36",
+            "123",
+            "159",
+            "5.5",
+            "17",
+            "0.60",
+            "6",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Anton Watson",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "0",
+            "40",
+            "91",
+            "131",
+            "4.5",
+            "38",
+            "1.30",
+            "10",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Andrew Nembhard",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "13",
+            "81",
+            "94",
+            "3.2",
+            "47",
+            "1.60",
+            "4",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Rasir Bolton",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "8",
+            "66",
+            "74",
+            "2.6",
+            "18",
+            "0.60",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kaden Perry",
+            "position": "F"
+          },
+          "values": [
+            "8",
+            "0",
+            "6",
+            "12",
+            "18",
+            "2.3",
+            "0",
+            "0.00",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Hunter Sallis",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "0",
+            "18",
+            "43",
+            "61",
+            "2.1",
+            "18",
+            "0.60",
+            "4",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ben Gregg",
+            "position": "F"
+          },
+          "values": [
+            "16",
+            "0",
+            "13",
+            "21",
+            "34",
+            "2.1",
+            "3",
+            "0.20",
+            "8",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nolan Hickman",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "0",
+            "2",
+            "43",
+            "45",
+            "1.6",
+            "18",
+            "0.60",
+            "6",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matthew Lang",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "1",
+            "2",
+            "12",
+            "14",
+            "0.9",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joe Few",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "0",
+            "1",
+            "7",
+            "8",
+            "0.7",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Martynas Arlauskas",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "0",
+            "5",
+            "6",
+            "11",
+            "0.7",
+            "1",
+            "0.10",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Will Graves",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "1",
+            "3",
+            "1",
+            "4",
+            "0.3",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Andrew Nembhard",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "165",
+            "5.7",
+            "51",
+            "1.8",
+            "3.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Drew Timme",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "29",
+            "79",
+            "2.7",
+            "72",
+            "2.5",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Rasir Bolton",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "68",
+            "2.3",
+            "38",
+            "1.3",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Anton Watson",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "0",
+            "56",
+            "1.9",
+            "35",
+            "1.2",
+            "1.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chet Holmgren",
+            "position": "C"
+          },
+          "values": [
+            "29",
+            "28",
+            "53",
+            "1.8",
+            "58",
+            "2.0",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nolan Hickman",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "0",
+            "40",
+            "1.4",
+            "22",
+            "0.8",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Julian Strawther",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "28",
+            "29",
+            "1.0",
+            "26",
+            "0.9",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Hunter Sallis",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "0",
+            "19",
+            "0.7",
+            "21",
+            "0.7",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ben Gregg",
+            "position": "F"
+          },
+          "values": [
+            "16",
+            "0",
+            "10",
+            "0.6",
+            "5",
+            "0.3",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matthew Lang",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "1",
+            "4",
+            "0.3",
+            "2",
+            "0.1",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joe Few",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "0",
+            "4",
+            "0.3",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kaden Perry",
+            "position": "F"
+          },
+          "values": [
+            "8",
+            "0",
+            "1",
+            "0.1",
+            "4",
+            "0.5",
+            "0.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Will Graves",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "1",
+            "0",
+            "0.0",
+            "1",
+            "0.1",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Martynas Arlauskas",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "0",
+            "0",
+            "0.0",
+            "2",
+            "0.1",
+            "0.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

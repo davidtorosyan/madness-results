@@ -1,0 +1,247 @@
+{
+  "name": "Marquette Golden Eagles - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/MARQET/marquette-golden-eagles/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Cameron Brown",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-1",
+          "190",
+          "Fr",
+          "Plano, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brendan Carney",
+          "injury": null
+        },
+        "values": [
+          "41",
+          "G",
+          "6-2",
+          "190",
+          "Soph",
+          "Menlo Park, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Greg Elliott",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-3",
+          "180",
+          "Jr",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Emarion Ellis",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-5",
+          "185",
+          "Fr",
+          "Davenport, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Oso Ighodaro",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-9",
+          "215",
+          "Fr",
+          "Chandler, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keeyan Itejere",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "40",
+          "F",
+          "6-9",
+          "205",
+          "Fr",
+          "Knightdale, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kam Jones",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-4",
+          "185",
+          "Fr",
+          "Cordova, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "David Joplin",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-7",
+          "215",
+          "Fr",
+          "Brookfield, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Kennedy",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "F",
+          "6-6",
+          "190",
+          "Soph",
+          "Mequon, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Kolek",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-3",
+          "190",
+          "Fr",
+          "Cumberland, RI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kur Kuath",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-10",
+          "215",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin Lewis",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-7",
+          "245",
+          "Fr",
+          "Baltimore, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Stevie Mitchell",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-2",
+          "190",
+          "Fr",
+          "Reading, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Darryl Morsell",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "G",
+          "6-5",
+          "205",
+          "Sr",
+          "Baltimore, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Olivier-Maxence Prosper",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-8",
+          "220",
+          "Fr",
+          "Montreal, PQ"
+        ]
+      }
+    ]
+  }
+}

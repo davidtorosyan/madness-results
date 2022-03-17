@@ -1,0 +1,933 @@
+{
+  "name": "Eastern Kentucky Colonels - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/EKY/eastern-kentucky-colonels/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jomaru Brown",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "3",
+            "19.1",
+            "12.2",
+            "119",
+            "311",
+            "38.3",
+            "33",
+            "105",
+            "31.4",
+            "83",
+            "105",
+            "79.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Michael Moreno",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "22",
+            "26.5",
+            "11.7",
+            "138",
+            "312",
+            "44.2",
+            "67",
+            "187",
+            "35.8",
+            "21",
+            "31",
+            "67.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devontae Blanton",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "19",
+            "28.4",
+            "11.1",
+            "118",
+            "269",
+            "43.9",
+            "23",
+            "57",
+            "40.4",
+            "62",
+            "76",
+            "81.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Curt Lewis",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "18",
+            "25",
+            "9.7",
+            "100",
+            "260",
+            "38.5",
+            "51",
+            "150",
+            "34.0",
+            "30",
+            "55",
+            "54.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cooper Robb",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "30",
+            "31.7",
+            "9.6",
+            "107",
+            "265",
+            "40.4",
+            "63",
+            "172",
+            "36.6",
+            "22",
+            "33",
+            "66.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Braxton Beverly",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "14",
+            "23.1",
+            "9.5",
+            "54",
+            "156",
+            "34.6",
+            "36",
+            "98",
+            "36.7",
+            "18",
+            "27",
+            "66.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jannson Williams",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "13",
+            "17.2",
+            "8.0",
+            "65",
+            "148",
+            "43.9",
+            "32",
+            "93",
+            "34.4",
+            "29",
+            "39",
+            "74.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Russhard Cruickshank",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "19",
+            "24.6",
+            "7.1",
+            "78",
+            "204",
+            "38.2",
+            "49",
+            "130",
+            "37.7",
+            "14",
+            "14",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Michael Wardy",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "3",
+            "10.6",
+            "4.7",
+            "53",
+            "72",
+            "73.6",
+            "0",
+            "0",
+            "\u2014",
+            "12",
+            "22",
+            "54.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tariq Balogun",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "10",
+            "14.3",
+            "4.0",
+            "33",
+            "57",
+            "57.9",
+            "0",
+            "1",
+            "0.0",
+            "22",
+            "40",
+            "55.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "DaShawn Jackson",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "1",
+            "8.8",
+            "2.5",
+            "14",
+            "41",
+            "34.1",
+            "7",
+            "27",
+            "25.9",
+            "7",
+            "11",
+            "63.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Iran Bennett",
+            "position": "F"
+          },
+          "values": [
+            "10",
+            "2",
+            "6.3",
+            "1.2",
+            "6",
+            "14",
+            "42.9",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Reeves-Young",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "1.2",
+            "0.6",
+            "1",
+            "5",
+            "20.0",
+            "1",
+            "4",
+            "25.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Minter",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "1",
+            "4.8",
+            "0.3",
+            "1",
+            "8",
+            "12.5",
+            "1",
+            "4",
+            "25.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Devontae Blanton",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "19",
+            "55",
+            "126",
+            "181",
+            "6.2",
+            "32",
+            "1.10",
+            "7",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Michael Moreno",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "22",
+            "66",
+            "110",
+            "176",
+            "5.7",
+            "42",
+            "1.40",
+            "15",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Curt Lewis",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "18",
+            "36",
+            "115",
+            "151",
+            "5.2",
+            "36",
+            "1.20",
+            "4",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cooper Robb",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "30",
+            "34",
+            "105",
+            "139",
+            "4.5",
+            "50",
+            "1.60",
+            "7",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jannson Williams",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "13",
+            "32",
+            "56",
+            "88",
+            "3.7",
+            "13",
+            "0.50",
+            "26",
+            "1.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Michael Wardy",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "3",
+            "36",
+            "23",
+            "59",
+            "2.4",
+            "12",
+            "0.50",
+            "19",
+            "0.80"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tariq Balogun",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "10",
+            "15",
+            "29",
+            "44",
+            "2.0",
+            "3",
+            "0.10",
+            "28",
+            "1.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jomaru Brown",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "3",
+            "13",
+            "42",
+            "55",
+            "1.9",
+            "50",
+            "1.70",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Iran Bennett",
+            "position": "F"
+          },
+          "values": [
+            "10",
+            "2",
+            "8",
+            "9",
+            "17",
+            "1.7",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Russhard Cruickshank",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "19",
+            "20",
+            "31",
+            "51",
+            "1.6",
+            "32",
+            "1.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Braxton Beverly",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "14",
+            "12",
+            "15",
+            "27",
+            "1.6",
+            "23",
+            "1.40",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "DaShawn Jackson",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "1",
+            "9",
+            "11",
+            "20",
+            "1.2",
+            "12",
+            "0.70",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Minter",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "1",
+            "0",
+            "5",
+            "5",
+            "0.4",
+            "2",
+            "0.20",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Reeves-Young",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Braxton Beverly",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "14",
+            "59",
+            "3.5",
+            "25",
+            "1.5",
+            "2.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devontae Blanton",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "19",
+            "85",
+            "2.9",
+            "44",
+            "1.5",
+            "1.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Russhard Cruickshank",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "19",
+            "91",
+            "2.9",
+            "37",
+            "1.2",
+            "2.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cooper Robb",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "30",
+            "72",
+            "2.3",
+            "40",
+            "1.3",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Michael Moreno",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "22",
+            "52",
+            "1.7",
+            "23",
+            "0.7",
+            "2.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jomaru Brown",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "3",
+            "45",
+            "1.6",
+            "49",
+            "1.7",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Curt Lewis",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "18",
+            "42",
+            "1.4",
+            "50",
+            "1.7",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jannson Williams",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "13",
+            "13",
+            "0.5",
+            "23",
+            "1.0",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "DaShawn Jackson",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "1",
+            "6",
+            "0.4",
+            "10",
+            "0.6",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Michael Wardy",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "3",
+            "7",
+            "0.3",
+            "16",
+            "0.6",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Minter",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "1",
+            "4",
+            "0.3",
+            "3",
+            "0.3",
+            "1.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tariq Balogun",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "10",
+            "6",
+            "0.3",
+            "15",
+            "0.7",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Iran Bennett",
+            "position": "F"
+          },
+          "values": [
+            "10",
+            "2",
+            "1",
+            "0.1",
+            "3",
+            "0.3",
+            "0.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Reeves-Young",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "0",
+            "0.0",
+            "1",
+            "0.2",
+            "0.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

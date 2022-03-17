@@ -1,0 +1,245 @@
+{
+  "name": "Iowa Hawkeyes - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/IOWA/iowa-hawkeyes/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Austin Ash",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-3",
+          "180",
+          "Sr",
+          "Cedar Rapids, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Bohannon",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-1",
+          "175",
+          "Sr",
+          "Marion, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Carter Kingsbury",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-4",
+          "225",
+          "Fr",
+          "Ponca, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Luc Laketa",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-4",
+          "180",
+          "Fr",
+          "Concord, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Connor McCaffery",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-5",
+          "205",
+          "Sr",
+          "Iowa City, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Patrick McCaffery",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-9",
+          "200",
+          "Soph",
+          "Iowa City, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Riley Mulvey",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "C",
+          "6-11",
+          "245",
+          "Fr",
+          "Rotterdam, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keegan Murray",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-8",
+          "225",
+          "Soph",
+          "Cedar Rapids, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kris Murray",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-8",
+          "225",
+          "Soph",
+          "Cedar Rapids, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Josh Ogundele",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-11",
+          "265",
+          "Soph",
+          "Worcester, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tony Perkins",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-4",
+          "210",
+          "Soph",
+          "Indiananpolis, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Filip Rebraca",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "F",
+          "6-9",
+          "230",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Payton Sandfort",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-7",
+          "215",
+          "Fr",
+          "Waukee, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joe Toussaint",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-0",
+          "190",
+          "Jr",
+          "Bronx, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ahron Ulis",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-3",
+          "195",
+          "Soph",
+          "Chicago, IL"
+        ]
+      }
+    ]
+  }
+}

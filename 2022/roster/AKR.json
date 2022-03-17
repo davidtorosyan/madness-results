@@ -1,0 +1,247 @@
+{
+  "name": "Akron Zips - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/AKRON/akron-zips/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Ali Ali",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-8",
+          "196",
+          "Soph",
+          "Kendallville, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aziz Bandaogo",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "C",
+          "7-0",
+          "215",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Xavier Castaneda",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-1",
+          "188",
+          "Jr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Garvin Clarke",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-0",
+          "184",
+          "Fr",
+          "Euclid, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mikal Dawson",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-5",
+          "222",
+          "Soph",
+          "Huntington, WV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Ford",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "\u2014",
+          "\u2014",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Enrique Freeman",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-7",
+          "206",
+          "Soph",
+          "Cleveland, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nate Johnson",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-3",
+          "204",
+          "Fr",
+          "Liberty Township, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sekou Kalle",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-10",
+          "224",
+          "Fr",
+          "Louisville, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Pat Mayfield",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-5",
+          "185",
+          "Fr",
+          "Elgin, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kobe Mitchell",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-2",
+          "190",
+          "Fr",
+          "Cadiz, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Greg Tribble",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-1",
+          "195",
+          "Soph",
+          "Cincinnati, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bryan Trimble Jr.",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "4",
+          "G",
+          "6-2",
+          "203",
+          "Jr",
+          "Kansas City, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Evan Wilson",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-2",
+          "200",
+          "Fr",
+          "Noblesville, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Wynn",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-6",
+          "204",
+          "Jr",
+          "Albany, NY"
+        ]
+      }
+    ]
+  }
+}

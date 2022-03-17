@@ -1,0 +1,273 @@
+{
+  "name": "Tennessee Tech Golden Eagles - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/TNTECH/tennessee-tech-golden-eagles/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Caleb Christopher",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "G",
+          "6-1",
+          "180",
+          "Soph",
+          "Carson, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jr. Clay",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-0",
+          "170",
+          "Jr",
+          "Chattanooga, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keishawn Davidson",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-2",
+          "175",
+          "Soph",
+          "Murfreesboro, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mamoudou Diarra",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-9",
+          "225",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "CJ Gettelfinger",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-4",
+          "185",
+          "Soph",
+          "Knoxville, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bailey Gilliam",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-1",
+          "175",
+          "Fr",
+          "Cookeville, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Shandon Goldman",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-10",
+          "225",
+          "Sr",
+          "Evansville, AR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Austin Harvell",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-6",
+          "215",
+          "Fr",
+          "Athens, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Marcus Hopkins",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "C",
+          "7-0",
+          "230",
+          "Jr",
+          "Oakland, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Nelson-Ododa",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-9",
+          "180",
+          "Fr",
+          "Winder, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Pettway",
+          "injury": null
+        },
+        "values": [
+          "50",
+          "G",
+          "6-3",
+          "190",
+          "Sr",
+          "Safford, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dane Quest",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-6",
+          "190",
+          "Soph",
+          "Toronto, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Daniel Ramsey",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-9",
+          "235",
+          "Soph",
+          "Cordele, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Stayton",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-8",
+          "205",
+          "Fr",
+          "Murfreesboro, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Amadou Sylla",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-8",
+          "235",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kenny White Jr.",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-7",
+          "205",
+          "Fr",
+          "Madisonville, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Diante Wood",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-4",
+          "210",
+          "Soph",
+          "Anniston, AL"
+        ]
+      }
+    ]
+  }
+}

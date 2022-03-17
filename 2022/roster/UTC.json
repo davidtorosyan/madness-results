@@ -1,0 +1,259 @@
+{
+  "name": "Chattanooga Mocs - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/CHATT/chattanooga-mocs/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Josh Ayeni",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-7",
+          "215",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Darius Banks",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-6",
+          "215",
+          "Sr",
+          "St. Petersburg, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Randy Brady",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-5",
+          "215",
+          "Fr",
+          "Chattanooga, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "A.J. Caldwell",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-5",
+          "200",
+          "Jr",
+          "Sarasota, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Silvio De Sousa",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-9",
+          "250",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Avery Diggs",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "C",
+          "6-10",
+          "255",
+          "Sr",
+          "Brandon, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaden Frazier",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-9",
+          "215",
+          "Fr",
+          "Pulaski, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "KC Hankton",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-7",
+          "215",
+          "Jr",
+          "Charlotte, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "David Jean-Baptiste",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-1",
+          "195",
+          "Sr",
+          "Miami, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Grant Ledford",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "G",
+          "6-5",
+          "215",
+          "Soph",
+          "Knoxville, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jacob Radaker",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-9",
+          "222",
+          "Fr",
+          "Jefferson, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ashton Smith",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "5-8",
+          "163",
+          "Soph",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Malachi Smith",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-4",
+          "205",
+          "Soph",
+          "Belleville, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tada Stricklen",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "5-11",
+          "162",
+          "Soph",
+          "Corinth, MS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Johnny Taylor Jr.",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-3",
+          "184",
+          "Fr",
+          "Ocoee, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jamaal Walker",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-5",
+          "194",
+          "Fr",
+          "Chattanooga, TN"
+        ]
+      }
+    ]
+  }
+}

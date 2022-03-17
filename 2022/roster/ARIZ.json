@@ -1,0 +1,245 @@
+{
+  "name": "Northern Arizona Lumberjacks - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/NAU/northern-arizona-lumberjacks/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Ajang Aguek",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-8",
+          "190",
+          "Soph",
+          "Glendale, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Wynton Brown",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-8",
+          "215",
+          "Fr",
+          "Bellflower, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Diego Campisano",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-5",
+          "210",
+          "Fr",
+          "San Diego, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Colin Carey",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-5",
+          "190",
+          "Fr",
+          "Peoria, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Cone",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "5-11",
+          "175",
+          "Soph",
+          "Walkertown, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jay Green",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-5",
+          "205",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keith Haymon",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-7",
+          "200",
+          "Soph",
+          "Cypress, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jayden Jackson",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-4",
+          "195",
+          "Fr",
+          "Milwaukee, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Lewis",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-6",
+          "205",
+          "Soph",
+          "Little Elm, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Carter Mahaney",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-2",
+          "175",
+          "Fr",
+          "Lafayette, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nik Mains",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-8",
+          "205",
+          "Jr",
+          "Scottsdale, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ezekiel Richards",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "C",
+          "6-10",
+          "230",
+          "Soph",
+          "Oak Park, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Spencer Roberts",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-8",
+          "240",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mason Stark",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-2",
+          "170",
+          "Jr",
+          "Chandler, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Carson Towt",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-7",
+          "230",
+          "Fr",
+          "Gilbert, AZ"
+        ]
+      }
+    ]
+  }
+}

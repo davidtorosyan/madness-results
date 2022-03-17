@@ -1,0 +1,219 @@
+{
+  "name": "Iowa State Cyclones - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/IOWAST/iowa-state-cyclones/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Carter Boothe",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-0",
+          "200",
+          "Sr",
+          "Leon, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Izaiah Brockington",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-4",
+          "196",
+          "Sr",
+          "Philadelphia, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "George Conditt IV",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-9",
+          "234",
+          "Sr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tristan Enaruna",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-8",
+          "220",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Caleb Grill",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "198",
+          "Jr",
+          "Wichita, KS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyrese Hunter",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-0",
+          "178",
+          "Fr",
+          "Racine, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tre Jackson",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-0",
+          "185",
+          "Jr",
+          "Columbia, SC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Robert Jones",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-9",
+          "245",
+          "Jr",
+          "Prior Lake, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Gabe Kalscheur",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-4",
+          "198",
+          "Sr",
+          "Edina, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tre King",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "0",
+          "F",
+          "6-9",
+          "225",
+          "Jr",
+          "Lexington, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aljaz Kunc",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-8",
+          "215",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eric Steyer",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-5",
+          "180",
+          "Sr",
+          "Ames, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaden Walker",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-5",
+          "200",
+          "Soph",
+          "Lawrenceville, GA"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "team": {
+    "index": 12,
+    "name": "Michigan State",
+    "abbrev": "MSU",
+    "seed": 7,
+    "safe_abbrev": "MSU"
+  },
+  "players": [
+    {
+      "name": "Jaden Akins",
+      "injury": null,
+      "info": {
+        "number": 3,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 180,
+        "school_class": "Fr",
+        "hometown": "Farmington, MI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 1,
+          "minutes_per_game": 14.7
+        },
+        "scoring": {
+          "points_per_game": 3.5,
+          "field_goals_made": 42,
+          "field_goals_attempted": 106,
+          "field_goal_percentage": 39.6,
+          "three_point_field_goals_made": 18,
+          "three_point_field_goals_attempted": 48,
+          "three_point_field_goal_percentage": 37.5,
+          "free_throws_made": 17,
+          "free_throws_attempted": 28,
+          "free_throw_percentage": 60.7
+        },
+        "defense": {
+          "offensive_rebounds": 23,
+          "defensive_rebounds": 60,
+          "total_rebounds": 83,
+          "rebounds_per_game": 2.4,
+          "total_steals": 22,
+          "steals_per_game": 0.6,
+          "total_blocks": 9,
+          "blocks_per_game": 0.3
+        },
+        "assists": {
+          "total_assists": 25,
+          "assists_per_game": 0.7,
+          "turnovers": 24,
+          "turnovers_per_game": 0.7,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Marcus Bingham Jr.",
+      "injury": null,
+      "info": {
+        "number": 30,
+        "position": "F",
+        "height": "7-0",
+        "height_inches": 84,
+        "weight_pounds": 230,
+        "school_class": "Sr",
+        "hometown": "Grand Rapids, MI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 33,
+          "games_started": 30,
+          "minutes_per_game": 18.5
+        },
+        "scoring": {
+          "points_per_game": 9.2,
+          "field_goals_made": 118,
+          "field_goals_attempted": 218,
+          "field_goal_percentage": 54.1,
+          "three_point_field_goals_made": 15,
+          "three_point_field_goals_attempted": 37,
+          "three_point_field_goal_percentage": 40.5,
+          "free_throws_made": 52,
+          "free_throws_attempted": 71,
+          "free_throw_percentage": 73.2
+        },
+        "defense": {
+          "offensive_rebounds": 50,
+          "defensive_rebounds": 151,
+          "total_rebounds": 201,
+          "rebounds_per_game": 6.1,
+          "total_steals": 28,
+          "steals_per_game": 0.8,
+          "total_blocks": 72,
+          "blocks_per_game": 2.2
+        },
+        "assists": {
+          "total_assists": 9,
+          "assists_per_game": 0.3,
+          "turnovers": 41,
+          "turnovers_per_game": 1.2,
+          "assists_per_turnover": 0.2
+        }
+      }
+    },
+    {
+      "name": "Pierre Brooks",
+      "injury": null,
+      "info": {
+        "number": 1,
+        "position": "G",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 225,
+        "school_class": "Fr",
+        "hometown": "Detroit, MI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 23,
+          "games_started": 0,
+          "minutes_per_game": 3.8
+        },
+        "scoring": {
+          "points_per_game": 1.0,
+          "field_goals_made": 6,
+          "field_goals_attempted": 19,
+          "field_goal_percentage": 31.6,
+          "three_point_field_goals_made": 2,
+          "three_point_field_goals_attempted": 11,
+          "three_point_field_goal_percentage": 18.2,
+          "free_throws_made": 9,
+          "free_throws_attempted": 13,
+          "free_throw_percentage": 69.2
+        },
+        "defense": {
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 8,
+          "total_rebounds": 10,
+          "rebounds_per_game": 0.4,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 4,
+          "assists_per_game": 0.2,
+          "turnovers": 7,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 0.6
+        }
+      }
+    },
+    {
+      "name": "Gabe Brown",
+      "injury": null,
+      "info": {
+        "number": 44,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 215,
+        "school_class": "Sr",
+        "hometown": "Ypsilanti, MI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 34,
+          "minutes_per_game": 28.6
+        },
+        "scoring": {
+          "points_per_game": 11.4,
+          "field_goals_made": 132,
+          "field_goals_attempted": 313,
+          "field_goal_percentage": 42.2,
+          "three_point_field_goals_made": 66,
+          "three_point_field_goals_attempted": 177,
+          "three_point_field_goal_percentage": 37.3,
+          "free_throws_made": 58,
+          "free_throws_attempted": 64,
+          "free_throw_percentage": 90.6
+        },
+        "defense": {
+          "offensive_rebounds": 30,
+          "defensive_rebounds": 103,
+          "total_rebounds": 133,
+          "rebounds_per_game": 3.9,
+          "total_steals": 25,
+          "steals_per_game": 0.7,
+          "total_blocks": 9,
+          "blocks_per_game": 0.3
+        },
+        "assists": {
+          "total_assists": 38,
+          "assists_per_game": 1.1,
+          "turnovers": 35,
+          "turnovers_per_game": 1.0,
+          "assists_per_turnover": 1.1
+        }
+      }
+    },
+    {
+      "name": "Maliq Carr",
+      "injury": null,
+      "info": {
+        "number": 15,
+        "position": "F",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 245,
+        "school_class": "Fr",
+        "hometown": "Oak Park, MI"
+      },
+      "stats": null
+    },
+    {
+      "name": "Max Christie",
+      "injury": null,
+      "info": {
+        "number": 5,
+        "position": "G",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 190,
+        "school_class": "Fr",
+        "hometown": "Arlington Heights, IL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 33,
+          "games_started": 33,
+          "minutes_per_game": 31.0
+        },
+        "scoring": {
+          "points_per_game": 9.5,
+          "field_goals_made": 107,
+          "field_goals_attempted": 279,
+          "field_goal_percentage": 38.4,
+          "three_point_field_goals_made": 38,
+          "three_point_field_goals_attempted": 117,
+          "three_point_field_goal_percentage": 32.5,
+          "free_throws_made": 61,
+          "free_throws_attempted": 74,
+          "free_throw_percentage": 82.4
+        },
+        "defense": {
+          "offensive_rebounds": 27,
+          "defensive_rebounds": 89,
+          "total_rebounds": 116,
+          "rebounds_per_game": 3.5,
+          "total_steals": 17,
+          "steals_per_game": 0.5,
+          "total_blocks": 16,
+          "blocks_per_game": 0.5
+        },
+        "assists": {
+          "total_assists": 48,
+          "assists_per_game": 1.5,
+          "turnovers": 50,
+          "turnovers_per_game": 1.5,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Keon Coleman",
+      "injury": null,
+      "info": {
+        "number": 40,
+        "position": "F",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 210,
+        "school_class": "Fr",
+        "hometown": "Opelousas, LA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 6,
+          "games_started": 0,
+          "minutes_per_game": 1.3
+        },
+        "scoring": {
+          "points_per_game": 0.8,
+          "field_goals_made": 2,
+          "field_goals_attempted": 5,
+          "field_goal_percentage": 40.0,
+          "three_point_field_goals_made": 1,
+          "three_point_field_goals_attempted": 2,
+          "three_point_field_goal_percentage": 50.0,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 0,
+          "total_rebounds": 1,
+          "rebounds_per_game": 0.2,
+          "total_steals": 3,
+          "steals_per_game": 0.5,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 3,
+          "turnovers_per_game": 0.5,
+          "assists_per_turnover": 0.0
+        }
+      }
+    },
+    {
+      "name": "Malik Hall",
+      "injury": null,
+      "info": {
+        "number": 25,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 225,
+        "school_class": "Jr",
+        "hometown": "Aurora, IL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 7,
+          "minutes_per_game": 22.1
+        },
+        "scoring": {
+          "points_per_game": 9.4,
+          "field_goals_made": 120,
+          "field_goals_attempted": 227,
+          "field_goal_percentage": 52.9,
+          "three_point_field_goals_made": 29,
+          "three_point_field_goals_attempted": 65,
+          "three_point_field_goal_percentage": 44.6,
+          "free_throws_made": 49,
+          "free_throws_attempted": 71,
+          "free_throw_percentage": 69.0
+        },
+        "defense": {
+          "offensive_rebounds": 52,
+          "defensive_rebounds": 106,
+          "total_rebounds": 158,
+          "rebounds_per_game": 4.6,
+          "total_steals": 21,
+          "steals_per_game": 0.6,
+          "total_blocks": 7,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 37,
+          "assists_per_game": 1.1,
+          "turnovers": 47,
+          "turnovers_per_game": 1.4,
+          "assists_per_turnover": 0.8
+        }
+      }
+    },
+    {
+      "name": "Joey Hauser",
+      "injury": null,
+      "info": {
+        "number": 10,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 230,
+        "school_class": "Sr",
+        "hometown": "Stevens Point, WI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 33,
+          "games_started": 27,
+          "minutes_per_game": 21.8
+        },
+        "scoring": {
+          "points_per_game": 6.7,
+          "field_goals_made": 72,
+          "field_goals_attempted": 167,
+          "field_goal_percentage": 43.1,
+          "three_point_field_goals_made": 35,
+          "three_point_field_goals_attempted": 88,
+          "three_point_field_goal_percentage": 39.8,
+          "free_throws_made": 43,
+          "free_throws_attempted": 50,
+          "free_throw_percentage": 86.0
+        },
+        "defense": {
+          "offensive_rebounds": 48,
+          "defensive_rebounds": 125,
+          "total_rebounds": 173,
+          "rebounds_per_game": 5.2,
+          "total_steals": 10,
+          "steals_per_game": 0.3,
+          "total_blocks": 6,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 53,
+          "assists_per_game": 1.6,
+          "turnovers": 42,
+          "turnovers_per_game": 1.3,
+          "assists_per_turnover": 1.3
+        }
+      }
+    },
+    {
+      "name": "A.J. Hoggard",
+      "injury": null,
+      "info": {
+        "number": 11,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 210,
+        "school_class": "Soph",
+        "hometown": "Coatesville, PA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 6,
+          "minutes_per_game": 20.2
+        },
+        "scoring": {
+          "points_per_game": 6.8,
+          "field_goals_made": 88,
+          "field_goals_attempted": 204,
+          "field_goal_percentage": 43.1,
+          "three_point_field_goals_made": 7,
+          "three_point_field_goals_attempted": 30,
+          "three_point_field_goal_percentage": 23.3,
+          "free_throws_made": 47,
+          "free_throws_attempted": 75,
+          "free_throw_percentage": 62.7
+        },
+        "defense": {
+          "offensive_rebounds": 14,
+          "defensive_rebounds": 62,
+          "total_rebounds": 76,
+          "rebounds_per_game": 2.2,
+          "total_steals": 25,
+          "steals_per_game": 0.7,
+          "total_blocks": 16,
+          "blocks_per_game": 0.5
+        },
+        "assists": {
+          "total_assists": 168,
+          "assists_per_game": 4.9,
+          "turnovers": 67,
+          "turnovers_per_game": 2.0,
+          "assists_per_turnover": 2.5
+        }
+      }
+    },
+    {
+      "name": "Steven Izzo",
+      "injury": null,
+      "info": {
+        "number": 13,
+        "position": "G",
+        "height": "5-8",
+        "height_inches": 68,
+        "weight_pounds": 150,
+        "school_class": "Jr",
+        "hometown": "East Lansing, MI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 8,
+          "games_started": 0,
+          "minutes_per_game": 0.8
+        },
+        "scoring": {
+          "points_per_game": 0.0,
+          "field_goals_made": 0,
+          "field_goals_attempted": 1,
+          "field_goal_percentage": 0.0,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "total_rebounds": 0,
+          "rebounds_per_game": 0.0,
+          "total_steals": 1,
+          "steals_per_game": 0.1,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 0,
+          "turnovers_per_game": 0.0,
+          "assists_per_turnover": null
+        }
+      }
+    },
+    {
+      "name": "Julius Marble II",
+      "injury": null,
+      "info": {
+        "number": 34,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 245,
+        "school_class": "Jr",
+        "hometown": "Dallas, TX"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 4,
+          "minutes_per_game": 14.6
+        },
+        "scoring": {
+          "points_per_game": 6.5,
+          "field_goals_made": 86,
+          "field_goals_attempted": 140,
+          "field_goal_percentage": 61.4,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 48,
+          "free_throws_attempted": 63,
+          "free_throw_percentage": 76.2
+        },
+        "defense": {
+          "offensive_rebounds": 29,
+          "defensive_rebounds": 89,
+          "total_rebounds": 118,
+          "rebounds_per_game": 3.5,
+          "total_steals": 12,
+          "steals_per_game": 0.4,
+          "total_blocks": 18,
+          "blocks_per_game": 0.5
+        },
+        "assists": {
+          "total_assists": 8,
+          "assists_per_game": 0.2,
+          "turnovers": 41,
+          "turnovers_per_game": 1.2,
+          "assists_per_turnover": 0.2
+        }
+      }
+    },
+    {
+      "name": "Peter Nwoke",
+      "injury": null,
+      "info": {
+        "number": 35,
+        "position": "F",
+        "height": "6-7",
+        "height_inches": 79,
+        "weight_pounds": 215,
+        "school_class": "Fr",
+        "hometown": "Lagos, AC"
+      },
+      "stats": null
+    },
+    {
+      "name": "Michael Peterson",
+      "injury": null,
+      "info": {
+        "number": 20,
+        "position": "G",
+        "height": "6-7",
+        "height_inches": 79,
+        "weight_pounds": 205,
+        "school_class": "Sr",
+        "hometown": "Rockford, MI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 9,
+          "games_started": 0,
+          "minutes_per_game": 1.0
+        },
+        "scoring": {
+          "points_per_game": 0.0,
+          "field_goals_made": 0,
+          "field_goals_attempted": 2,
+          "field_goal_percentage": 0.0,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 2,
+          "total_rebounds": 2,
+          "rebounds_per_game": 0.2,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 1,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 1,
+          "turnovers_per_game": 0.1,
+          "assists_per_turnover": 0.0
+        }
+      }
+    },
+    {
+      "name": "Mady Sissoko",
+      "injury": null,
+      "info": {
+        "number": 22,
+        "position": "C",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 235,
+        "school_class": "Soph",
+        "hometown": null
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 0,
+          "minutes_per_game": 4.5
+        },
+        "scoring": {
+          "points_per_game": 1.1,
+          "field_goals_made": 12,
+          "field_goals_attempted": 19,
+          "field_goal_percentage": 63.2,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 9,
+          "free_throws_attempted": 21,
+          "free_throw_percentage": 42.9
+        },
+        "defense": {
+          "offensive_rebounds": 8,
+          "defensive_rebounds": 22,
+          "total_rebounds": 30,
+          "rebounds_per_game": 1.0,
+          "total_steals": 1,
+          "steals_per_game": 0.0,
+          "total_blocks": 13,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.0,
+          "turnovers": 8,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 0.1
+        }
+      }
+    },
+    {
+      "name": "Davis Smith",
+      "injury": null,
+      "info": {
+        "number": 14,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 160,
+        "school_class": "Soph",
+        "hometown": "Atlanta, GA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 12,
+          "games_started": 0,
+          "minutes_per_game": 1.5
+        },
+        "scoring": {
+          "points_per_game": 0.0,
+          "field_goals_made": 0,
+          "field_goals_attempted": 2,
+          "field_goal_percentage": 0.0,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 0,
+          "free_throws_attempted": 1,
+          "free_throw_percentage": 0.0
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 1,
+          "total_rebounds": 1,
+          "rebounds_per_game": 0.1,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.1,
+          "turnovers": 1,
+          "turnovers_per_game": 0.1,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Tyson Walker",
+      "injury": {
+        "area": "Ankle"
+      },
+      "info": {
+        "number": 2,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 175,
+        "school_class": "Jr",
+        "hometown": "Westbury, NY"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 28,
+          "minutes_per_game": 22.4
+        },
+        "scoring": {
+          "points_per_game": 8.1,
+          "field_goals_made": 99,
+          "field_goals_attempted": 233,
+          "field_goal_percentage": 42.5,
+          "three_point_field_goals_made": 33,
+          "three_point_field_goals_attempted": 67,
+          "three_point_field_goal_percentage": 49.3,
+          "free_throws_made": 46,
+          "free_throws_attempted": 57,
+          "free_throw_percentage": 80.7
+        },
+        "defense": {
+          "offensive_rebounds": 5,
+          "defensive_rebounds": 39,
+          "total_rebounds": 44,
+          "rebounds_per_game": 1.3,
+          "total_steals": 33,
+          "steals_per_game": 1.0,
+          "total_blocks": 5,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 145,
+          "assists_per_game": 4.3,
+          "turnovers": 65,
+          "turnovers_per_game": 1.9,
+          "assists_per_turnover": 2.2
+        }
+      }
+    },
+    {
+      "name": "Jason Whitens",
+      "injury": null,
+      "info": {
+        "number": 43,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 210,
+        "school_class": "Sr",
+        "hometown": "Powers, MI"
+      },
+      "stats": null
+    }
+  ]
+}

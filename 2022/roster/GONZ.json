@@ -1,0 +1,277 @@
+{
+  "name": "Gonzaga Bulldogs - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/GONZAG/gonzaga-bulldogs/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Martynas Arlauskas",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-7",
+          "205",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Rasir Bolton",
+          "injury": null
+        },
+        "values": [
+          "45",
+          "G",
+          "6-3",
+          "185",
+          "Sr",
+          "Petersburg, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Colby Brooks",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-7",
+          "210",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Abe Eagle",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "F",
+          "6-9",
+          "225",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joe Few",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-0",
+          "160",
+          "Fr",
+          "Spokane, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Will Graves",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "G",
+          "6-5",
+          "185",
+          "Sr",
+          "Eugene, OR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ben Gregg",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-10",
+          "225",
+          "Fr",
+          "Clackamas, OR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dominick Harris",
+          "injury": {
+            "area": "Foot:"
+          }
+        },
+        "values": [
+          "55",
+          "G",
+          "6-3",
+          "190",
+          "Soph",
+          "Murrieta, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nolan Hickman",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-2",
+          "185",
+          "Fr",
+          "Seattle, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chet Holmgren",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "C",
+          "7-0",
+          "195",
+          "Fr",
+          "Minnehaha, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matthew Lang",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-3",
+          "185",
+          "Sr",
+          "Portland, OR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andrew Nembhard",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-5",
+          "193",
+          "Sr",
+          "Aurora, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kaden Perry",
+          "injury": {
+            "area": "Back:"
+          }
+        },
+        "values": [
+          "20",
+          "F",
+          "6-9",
+          "225",
+          "Fr",
+          "Battle Ground, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Hunter Sallis",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-5",
+          "175",
+          "Fr",
+          "Omaha, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Julian Strawther",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-7",
+          "205",
+          "Soph",
+          "Las Vegas, NV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Drew Timme",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-10",
+          "235",
+          "Jr",
+          "Richardson, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Anton Watson",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-8",
+          "225",
+          "Jr",
+          "Spokane, WA"
+        ]
+      }
+    ]
+  }
+}

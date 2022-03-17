@@ -1,0 +1,217 @@
+{
+  "name": "Virginia Tech Hokies - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/VATECH/virginia-tech-hokies/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Nahiem Alleyne",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-4",
+          "195",
+          "Jr",
+          "Buford, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keve Aluma",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-9",
+          "235",
+          "Sr",
+          "Berlin, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Hunter Cattoor",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-3",
+          "200",
+          "Jr",
+          "Orlando, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Haynes",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "F",
+          "6-8",
+          "250",
+          "Fr",
+          "Ft. Lauderdale, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Camden Johnson",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-1",
+          "175",
+          "Fr",
+          "Waxhaw, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Lynn Kidd",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "C",
+          "6-10",
+          "240",
+          "Soph",
+          "Gainesville, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Darius Maddox",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-5",
+          "185",
+          "Soph",
+          "Bowie, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Storm Murphy",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-0",
+          "185",
+          "Sr",
+          "Middleton, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justyn Mutts",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-7",
+          "230",
+          "Sr",
+          "Millville, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "David N'Guessan",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-9",
+          "205",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Ojiako",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "C",
+          "6-10",
+          "245",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sean Pedulla",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-1",
+          "190",
+          "Fr",
+          "Edmond, OK"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ben Varga",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "5-10",
+          "170",
+          "Fr",
+          "Louisville, KY"
+        ]
+      }
+    ]
+  }
+}

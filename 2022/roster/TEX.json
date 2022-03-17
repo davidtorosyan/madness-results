@@ -1,0 +1,249 @@
+{
+  "name": "Texas Longhorns - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/TEXAS/texas-longhorns/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Timmy Allen",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "F",
+          "6-6",
+          "210",
+          "Sr",
+          "Mesa, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Devin Askew",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-3",
+          "195",
+          "Soph",
+          "Sacramento, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Avery Benson",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-4",
+          "195",
+          "Sr",
+          "Springdale, AR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Christian Bishop",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-7",
+          "220",
+          "Sr",
+          "Lee's Summit, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cole Bott",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-6",
+          "195",
+          "Fr",
+          "Highlands Ranch, CO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Marcus Carr",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-2",
+          "190",
+          "Sr",
+          "Toronto, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brock Cunningham",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "F",
+          "6-6",
+          "210",
+          "Jr",
+          "Austin, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dylan Disu",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-9",
+          "225",
+          "Jr",
+          "Pflugerville, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jase Febres",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-5",
+          "190",
+          "Sr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andrew Jones",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-4",
+          "190",
+          "Sr",
+          "Irving, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tristen Licon",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-0",
+          "185",
+          "Sr",
+          "El Paso, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tre Mitchell",
+          "injury": {
+            "area": "Personal:"
+          }
+        },
+        "values": [
+          "33",
+          "F",
+          "6-9",
+          "220",
+          "Jr",
+          "Pittsburgh, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Gavin Perryman",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "G",
+          "6-1",
+          "185",
+          "Fr",
+          "Dallas, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Courtney Ramey",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-3",
+          "185",
+          "Sr",
+          "St. Louis, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaylon Tyson",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "20",
+          "G",
+          "6-7",
+          "210",
+          "Fr",
+          "Plano, TX"
+        ]
+      }
+    ]
+  }
+}

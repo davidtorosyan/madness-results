@@ -1,0 +1,251 @@
+{
+  "name": "Creighton Bluejays - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/CREIGH/creighton-bluejays/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Trey Alexander",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-4",
+          "185",
+          "Fr",
+          "Oklahoma City, OK"
+        ]
+      },
+      {
+        "player": {
+          "name": "Rati Andronikashvili",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-4",
+          "186",
+          "Fr",
+          "Tbilisi, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Christofilis",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "15",
+          "G",
+          "6-3",
+          "196",
+          "Fr",
+          "Seattle, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Devin Davis",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-0",
+          "180",
+          "Soph",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keyshawn Feazell",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-9",
+          "230",
+          "Sr",
+          "New Hebron, MS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ryan Hawkins",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "F",
+          "6-7",
+          "222",
+          "Sr",
+          "Atlantic, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ryan Kalkbrenner",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "C",
+          "7-1",
+          "256",
+          "Soph",
+          "St. Louis, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Arthur Kaluma",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-7",
+          "220",
+          "Fr",
+          "Glendale, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Modestas Kancleris",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "F",
+          "6-9",
+          "208",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mason Miller",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-8",
+          "187",
+          "Fr",
+          "Germantown, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Shereef Mitchell",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "4",
+          "G",
+          "6-0",
+          "174",
+          "Jr",
+          "Omaha, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ryan Nembhard",
+          "injury": {
+            "area": "Wrist:"
+          }
+        },
+        "values": [
+          "2",
+          "G",
+          "6-0",
+          "167",
+          "Fr",
+          "Aurora, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alex O'Connell",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-6",
+          "185",
+          "Sr",
+          "Roswell, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sami Osmani",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-4",
+          "196",
+          "Soph",
+          "Oak Lawn, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zander Yates",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-7",
+          "206",
+          "Fr",
+          "Germantown, TN"
+        ]
+      }
+    ]
+  }
+}

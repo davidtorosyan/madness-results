@@ -1,0 +1,245 @@
+{
+  "name": "Davidson Wildcats - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/DAVID/davidson-wildcats/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Nelson Boachie-Yiadom",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-8",
+          "220",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Luka Brajkovic",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-10",
+          "250",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ben Craig",
+          "injury": null
+        },
+        "values": [
+          "40",
+          "G",
+          "6-1",
+          "190",
+          "Sr",
+          "Montreat, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Drew Dibble",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "5-11",
+          "185",
+          "Sr",
+          "Nashville, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Ford",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-5",
+          "200",
+          "Fr",
+          "Huntersville, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Grant Huffman",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-3",
+          "185",
+          "Soph",
+          "Aurora, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Jones",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-5",
+          "210",
+          "Jr",
+          "Woodbury, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Katsock",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "G",
+          "6-6",
+          "190",
+          "Fr",
+          "Washington, DC"
+        ]
+      },
+      {
+        "player": {
+          "name": "David Kristensen",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-10",
+          "210",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Emory Lanier",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "180",
+          "Soph",
+          "Atlanta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Hyunjung Lee",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-7",
+          "210",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Foster Loyer",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-0",
+          "175",
+          "Jr",
+          "Clarkston, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sam Mennenga",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-9",
+          "245",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Styrmir Thrastarson",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-7",
+          "200",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Desmond Watson",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-5",
+          "200",
+          "Fr",
+          "Columbus, OH"
+        ]
+      }
+    ]
+  }
+}

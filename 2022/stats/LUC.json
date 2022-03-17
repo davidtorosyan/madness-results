@@ -1,0 +1,879 @@
+{
+  "name": "Loyola Chicago Ramblers - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/LOYCHI/loyola-chicago-ramblers/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Lucas Williamson",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "31.8",
+            "14.0",
+            "143",
+            "317",
+            "45.1",
+            "72",
+            "182",
+            "39.6",
+            "90",
+            "119",
+            "75.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Braden Norris",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "32.6",
+            "10.3",
+            "102",
+            "230",
+            "44.3",
+            "64",
+            "147",
+            "43.5",
+            "51",
+            "65",
+            "78.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Schwieger",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "2",
+            "20.1",
+            "9.2",
+            "106",
+            "236",
+            "44.9",
+            "46",
+            "117",
+            "39.3",
+            "37",
+            "46",
+            "80.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Aher Uguak",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "28.9",
+            "9.1",
+            "99",
+            "194",
+            "51.0",
+            "24",
+            "71",
+            "33.8",
+            "61",
+            "87",
+            "70.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Marquise Kennedy",
+            "position": "G"
+          },
+          "values": [
+            "23",
+            "19",
+            "22.4",
+            "8.1",
+            "63",
+            "139",
+            "45.3",
+            "11",
+            "42",
+            "26.2",
+            "49",
+            "68",
+            "72.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Knight",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "13",
+            "17.5",
+            "7.7",
+            "108",
+            "171",
+            "63.2",
+            "0",
+            "1",
+            "0.0",
+            "30",
+            "41",
+            "73.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tate Hall",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "10",
+            "21.9",
+            "5.7",
+            "67",
+            "137",
+            "48.9",
+            "27",
+            "68",
+            "39.7",
+            "21",
+            "30",
+            "70.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jacob Hutson",
+            "position": "C"
+          },
+          "values": [
+            "30",
+            "19",
+            "12.6",
+            "5.1",
+            "60",
+            "124",
+            "48.4",
+            "6",
+            "19",
+            "31.6",
+            "28",
+            "51",
+            "54.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tom Welch",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "0",
+            "8.6",
+            "3.6",
+            "44",
+            "74",
+            "59.5",
+            "4",
+            "14",
+            "28.6",
+            "13",
+            "19",
+            "68.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Clemons",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "3",
+            "10",
+            "2.5",
+            "22",
+            "52",
+            "42.3",
+            "18",
+            "45",
+            "40.0",
+            "6",
+            "9",
+            "66.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Saint Thomas",
+            "position": "F"
+          },
+          "values": [
+            "26",
+            "0",
+            "6.5",
+            "1.8",
+            "16",
+            "40",
+            "40.0",
+            "9",
+            "29",
+            "31.0",
+            "7",
+            "8",
+            "87.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Will Alcock",
+            "position": "F"
+          },
+          "values": [
+            "11",
+            "0",
+            "2.7",
+            "1.5",
+            "6",
+            "11",
+            "54.5",
+            "4",
+            "7",
+            "57.1",
+            "1",
+            "2",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ty Johnson",
+            "position": "G"
+          },
+          "values": [
+            "13",
+            "0",
+            "3.9",
+            "0.8",
+            "4",
+            "14",
+            "28.6",
+            "0",
+            "3",
+            "0.0",
+            "3",
+            "7",
+            "42.9"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Lucas Williamson",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "25",
+            "135",
+            "160",
+            "5.0",
+            "41",
+            "1.30",
+            "9",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Aher Uguak",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "42",
+            "97",
+            "139",
+            "4.5",
+            "19",
+            "0.60",
+            "9",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tate Hall",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "10",
+            "27",
+            "115",
+            "142",
+            "4.4",
+            "30",
+            "0.90",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Knight",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "13",
+            "42",
+            "89",
+            "131",
+            "4.1",
+            "15",
+            "0.50",
+            "30",
+            "0.90"
+          ]
+        },
+        {
+          "player": {
+            "name": "Marquise Kennedy",
+            "position": "G"
+          },
+          "values": [
+            "23",
+            "19",
+            "15",
+            "80",
+            "95",
+            "4.1",
+            "27",
+            "1.20",
+            "6",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Braden Norris",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "8",
+            "79",
+            "87",
+            "2.8",
+            "34",
+            "1.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Schwieger",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "2",
+            "8",
+            "79",
+            "87",
+            "2.7",
+            "19",
+            "0.60",
+            "7",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jacob Hutson",
+            "position": "C"
+          },
+          "values": [
+            "30",
+            "19",
+            "25",
+            "38",
+            "63",
+            "2.1",
+            "6",
+            "0.20",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tom Welch",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "0",
+            "17",
+            "31",
+            "48",
+            "1.7",
+            "8",
+            "0.30",
+            "8",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Saint Thomas",
+            "position": "F"
+          },
+          "values": [
+            "26",
+            "0",
+            "3",
+            "24",
+            "27",
+            "1.0",
+            "9",
+            "0.30",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Will Alcock",
+            "position": "F"
+          },
+          "values": [
+            "11",
+            "0",
+            "3",
+            "4",
+            "7",
+            "0.6",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ty Johnson",
+            "position": "G"
+          },
+          "values": [
+            "13",
+            "0",
+            "2",
+            "5",
+            "7",
+            "0.5",
+            "4",
+            "0.30",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Clemons",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "3",
+            "1",
+            "12",
+            "13",
+            "0.5",
+            "8",
+            "0.30",
+            "1",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Braden Norris",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "122",
+            "3.9",
+            "66",
+            "2.1",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lucas Williamson",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "95",
+            "3.0",
+            "63",
+            "2.0",
+            "1.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Marquise Kennedy",
+            "position": "G"
+          },
+          "values": [
+            "23",
+            "19",
+            "46",
+            "2.0",
+            "30",
+            "1.3",
+            "1.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Aher Uguak",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "53",
+            "1.7",
+            "44",
+            "1.4",
+            "1.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tate Hall",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "10",
+            "40",
+            "1.3",
+            "34",
+            "1.1",
+            "1.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Schwieger",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "2",
+            "35",
+            "1.1",
+            "40",
+            "1.3",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Knight",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "13",
+            "24",
+            "0.8",
+            "33",
+            "1.0",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jacob Hutson",
+            "position": "C"
+          },
+          "values": [
+            "30",
+            "19",
+            "21",
+            "0.7",
+            "27",
+            "0.9",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Clemons",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "3",
+            "15",
+            "0.6",
+            "8",
+            "0.3",
+            "1.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Saint Thomas",
+            "position": "F"
+          },
+          "values": [
+            "26",
+            "0",
+            "12",
+            "0.5",
+            "6",
+            "0.2",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tom Welch",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "0",
+            "12",
+            "0.4",
+            "12",
+            "0.4",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ty Johnson",
+            "position": "G"
+          },
+          "values": [
+            "13",
+            "0",
+            "4",
+            "0.3",
+            "6",
+            "0.5",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Will Alcock",
+            "position": "F"
+          },
+          "values": [
+            "11",
+            "0",
+            "1",
+            "0.1",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        }
+      ]
+    }
+  ]
+}

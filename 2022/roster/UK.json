@@ -1,0 +1,261 @@
+{
+  "name": "Eastern Kentucky Colonels - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/EKY/eastern-kentucky-colonels/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Tariq Balogun",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-10",
+          "237",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Iran Bennett",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-10",
+          "322",
+          "Jr",
+          "Durham, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Braxton Beverly",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "10",
+          "G",
+          "5-10",
+          "185",
+          "Sr",
+          "Vicco, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Devontae Blanton",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-6",
+          "214",
+          "Fr",
+          "Macedonia, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jomaru Brown",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-2",
+          "186",
+          "Jr",
+          "Raleigh, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Russhard Cruickshank",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-0",
+          "172",
+          "Sr",
+          "Milwaukee, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "DaShawn Jackson",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-3",
+          "196",
+          "Fr",
+          "Lexington, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Curt Lewis",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-5",
+          "222",
+          "Fr",
+          "Louisville, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Minter",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "5-11",
+          "175",
+          "Soph",
+          "Richmond, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Moreno",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-7",
+          "225",
+          "Soph",
+          "Georgetown, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Wade Pelfrey",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "5-11",
+          "167",
+          "Fr",
+          "Hazard, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Reeves-Young",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-3",
+          "170",
+          "Fr",
+          "Brooklyn, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cooper Robb",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-1",
+          "184",
+          "Jr",
+          "Georgetown, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trevin Wade",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "5-11",
+          "166",
+          "Jr",
+          "Marietta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Wardy",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-7",
+          "203",
+          "Jr",
+          "Lincoln, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jannson Williams",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-9",
+          "221",
+          "Sr",
+          "Newnan, GA"
+        ]
+      }
+    ]
+  }
+}

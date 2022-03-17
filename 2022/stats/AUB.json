@@ -1,0 +1,1095 @@
+{
+  "name": "Auburn Tigers - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/AUBURN/auburn-tigers/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jabari Smith",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "28.4",
+            "17.1",
+            "174",
+            "398",
+            "43.7",
+            "74",
+            "173",
+            "42.8",
+            "124",
+            "152",
+            "81.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "K.D. Johnson",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "29",
+            "27.4",
+            "12.3",
+            "126",
+            "327",
+            "38.5",
+            "42",
+            "143",
+            "29.4",
+            "101",
+            "141",
+            "71.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Wendell Green Jr.",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "5",
+            "26.6",
+            "12.1",
+            "129",
+            "354",
+            "36.4",
+            "57",
+            "178",
+            "32.0",
+            "72",
+            "86",
+            "83.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Walker Kessler",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "25.7",
+            "11.7",
+            "157",
+            "251",
+            "62.5",
+            "10",
+            "49",
+            "20.4",
+            "50",
+            "83",
+            "60.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Allen Flanigan",
+            "position": "G"
+          },
+          "values": [
+            "20",
+            "18",
+            "24.3",
+            "6.2",
+            "44",
+            "108",
+            "40.7",
+            "8",
+            "38",
+            "21.1",
+            "28",
+            "44",
+            "63.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jaylin Williams",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "0",
+            "13.9",
+            "5.4",
+            "64",
+            "140",
+            "45.7",
+            "11",
+            "46",
+            "23.9",
+            "27",
+            "33",
+            "81.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devan Cambridge",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "14",
+            "19.9",
+            "5.4",
+            "63",
+            "156",
+            "40.4",
+            "19",
+            "82",
+            "23.2",
+            "23",
+            "34",
+            "67.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zep Jasper",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "23.2",
+            "5.1",
+            "48",
+            "137",
+            "35.0",
+            "26",
+            "68",
+            "38.2",
+            "30",
+            "38",
+            "78.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dylan Cardwell",
+            "position": "C"
+          },
+          "values": [
+            "32",
+            "0",
+            "11.7",
+            "3.1",
+            "48",
+            "69",
+            "69.6",
+            "0",
+            "1",
+            "0.0",
+            "4",
+            "10",
+            "40.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lior Berman",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "0",
+            "8.9",
+            "2.2",
+            "16",
+            "39",
+            "41.0",
+            "8",
+            "17",
+            "47.1",
+            "0",
+            "1",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Moore",
+            "position": "F"
+          },
+          "values": [
+            "23",
+            "0",
+            "7.9",
+            "1.8",
+            "16",
+            "36",
+            "44.4",
+            "0",
+            "5",
+            "0.0",
+            "10",
+            "15",
+            "66.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carter Sobera",
+            "position": "G"
+          },
+          "values": [
+            "4",
+            "0",
+            "1.3",
+            "0.8",
+            "1",
+            "1",
+            "100.0",
+            "0",
+            "0",
+            "\u2014",
+            "1",
+            "3",
+            "33.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Preston Cook",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "0",
+            "1.2",
+            "0.8",
+            "5",
+            "7",
+            "71.4",
+            "3",
+            "4",
+            "75.0",
+            "1",
+            "2",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chandler Leopard",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "1.2",
+            "0.7",
+            "2",
+            "5",
+            "40.0",
+            "2",
+            "5",
+            "40.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Babatunde Akingbola",
+            "position": "C"
+          },
+          "values": [
+            "5",
+            "0",
+            "3.6",
+            "0.4",
+            "1",
+            "6",
+            "16.7",
+            "0",
+            "3",
+            "0.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chase Maasdorp",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "1.1",
+            "0.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "1",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ty Cressman",
+            "position": "F"
+          },
+          "values": [
+            "2",
+            "0",
+            "1",
+            "0.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Walker Kessler",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "82",
+            "180",
+            "262",
+            "8.2",
+            "36",
+            "1.10",
+            "144",
+            "4.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jabari Smith",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "24",
+            "199",
+            "223",
+            "7.0",
+            "37",
+            "1.20",
+            "32",
+            "1.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Wendell Green Jr.",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "5",
+            "18",
+            "103",
+            "121",
+            "3.8",
+            "50",
+            "1.60",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devan Cambridge",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "14",
+            "53",
+            "56",
+            "109",
+            "3.5",
+            "18",
+            "0.60",
+            "9",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Allen Flanigan",
+            "position": "G"
+          },
+          "values": [
+            "20",
+            "18",
+            "10",
+            "55",
+            "65",
+            "3.3",
+            "13",
+            "0.70",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dylan Cardwell",
+            "position": "C"
+          },
+          "values": [
+            "32",
+            "0",
+            "50",
+            "47",
+            "97",
+            "3.0",
+            "18",
+            "0.60",
+            "40",
+            "1.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "K.D. Johnson",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "29",
+            "18",
+            "71",
+            "89",
+            "2.8",
+            "63",
+            "2.00",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jaylin Williams",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "0",
+            "31",
+            "52",
+            "83",
+            "2.7",
+            "8",
+            "0.30",
+            "16",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Moore",
+            "position": "F"
+          },
+          "values": [
+            "23",
+            "0",
+            "19",
+            "15",
+            "34",
+            "1.5",
+            "8",
+            "0.30",
+            "4",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zep Jasper",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "12",
+            "27",
+            "39",
+            "1.3",
+            "23",
+            "0.80",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Babatunde Akingbola",
+            "position": "C"
+          },
+          "values": [
+            "5",
+            "0",
+            "0",
+            "5",
+            "5",
+            "1.0",
+            "0",
+            "0.00",
+            "3",
+            "0.60"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carter Sobera",
+            "position": "G"
+          },
+          "values": [
+            "4",
+            "0",
+            "0",
+            "4",
+            "4",
+            "1.0",
+            "1",
+            "0.30",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lior Berman",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "0",
+            "8",
+            "6",
+            "14",
+            "0.8",
+            "5",
+            "0.30",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Preston Cook",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "0",
+            "1",
+            "3",
+            "4",
+            "0.2",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chandler Leopard",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0.1",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ty Cressman",
+            "position": "F"
+          },
+          "values": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chase Maasdorp",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Wendell Green Jr.",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "5",
+            "161",
+            "5.0",
+            "72",
+            "2.3",
+            "2.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zep Jasper",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "64",
+            "2.1",
+            "23",
+            "0.8",
+            "2.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jabari Smith",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "60",
+            "1.9",
+            "57",
+            "1.8",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "K.D. Johnson",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "29",
+            "45",
+            "1.4",
+            "57",
+            "1.8",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Allen Flanigan",
+            "position": "G"
+          },
+          "values": [
+            "20",
+            "18",
+            "26",
+            "1.3",
+            "43",
+            "2.2",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jaylin Williams",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "0",
+            "27",
+            "0.9",
+            "30",
+            "1.0",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Walker Kessler",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "29",
+            "0.9",
+            "35",
+            "1.1",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devan Cambridge",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "14",
+            "21",
+            "0.7",
+            "23",
+            "0.7",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dylan Cardwell",
+            "position": "C"
+          },
+          "values": [
+            "32",
+            "0",
+            "18",
+            "0.6",
+            "9",
+            "0.3",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Moore",
+            "position": "F"
+          },
+          "values": [
+            "23",
+            "0",
+            "6",
+            "0.3",
+            "15",
+            "0.7",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lior Berman",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "0",
+            "6",
+            "0.3",
+            "3",
+            "0.2",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Babatunde Akingbola",
+            "position": "C"
+          },
+          "values": [
+            "5",
+            "0",
+            "1",
+            "0.2",
+            "2",
+            "0.4",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chase Maasdorp",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "1",
+            "0.1",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Preston Cook",
+            "position": "G"
+          },
+          "values": [
+            "17",
+            "0",
+            "2",
+            "0.1",
+            "2",
+            "0.1",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chandler Leopard",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carter Sobera",
+            "position": "G"
+          },
+          "values": [
+            "4",
+            "0",
+            "0",
+            "0.0",
+            "1",
+            "0.3",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ty Cressman",
+            "position": "F"
+          },
+          "values": [
+            "2",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        }
+      ]
+    }
+  ]
+}

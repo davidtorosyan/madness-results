@@ -1,0 +1,279 @@
+{
+  "name": "Delaware Fightin' Blue Hens - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/DEL/delaware-fightin-blue-hens/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Ryan Allen",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-2",
+          "200",
+          "Sr",
+          "Bowie, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kevin Anderson",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-5",
+          "205",
+          "Sr",
+          "Williamsport, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Gianmarco Arletti",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-6",
+          "205",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ebby Asamoah",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-4",
+          "200",
+          "Jr",
+          "Rockville, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andrew Carr",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-9",
+          "210",
+          "Soph",
+          "West Chester, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Logan Curtis",
+          "injury": {
+            "area": "Ankle:"
+          }
+        },
+        "values": [
+          "3",
+          "G",
+          "6-3",
+          "185",
+          "Soph",
+          "Baltimore, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jyare Davis",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-7",
+          "215",
+          "Fr",
+          "Newark, DE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Reggie Gardner",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-3",
+          "175",
+          "Sr",
+          "Bowie, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Davis Long",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-2",
+          "185",
+          "Sr",
+          "Brookeville, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Johnny McCoy",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "10",
+          "G",
+          "6-5",
+          "190",
+          "Jr",
+          "Mansfield, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jameer Nelson Jr.",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-1",
+          "200",
+          "Jr",
+          "Haverford, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aleks Novakovich",
+          "injury": {
+            "area": "Lower Body:"
+          }
+        },
+        "values": [
+          "15",
+          "F",
+          "6-9",
+          "230",
+          "Jr",
+          "Hobart, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Anthony Ochefu",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-8",
+          "240",
+          "Sr",
+          "West Chester, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "O.D. Ogunbo",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-8",
+          "205",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dylan Painter",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "F",
+          "6-10",
+          "235",
+          "Sr",
+          "Hershey, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Wes Peterson",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-6",
+          "180",
+          "Fr",
+          "Arlington, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Fred Rullo IV",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "5-11",
+          "165",
+          "Jr",
+          "Newtown Square, PA"
+        ]
+      }
+    ]
+  }
+}

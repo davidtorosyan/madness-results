@@ -1,0 +1,648 @@
+{
+  "team": {
+    "index": 25,
+    "name": "Virginia Tech",
+    "abbrev": "VT",
+    "seed": 11,
+    "safe_abbrev": "VT"
+  },
+  "players": [
+    {
+      "name": "Nahiem Alleyne",
+      "injury": null,
+      "info": {
+        "number": 4,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 195,
+        "school_class": "Jr",
+        "hometown": "Buford, GA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 35,
+          "minutes_per_game": 31.1
+        },
+        "scoring": {
+          "points_per_game": 9.8,
+          "field_goals_made": 115,
+          "field_goals_attempted": 302,
+          "field_goal_percentage": 38.1,
+          "three_point_field_goals_made": 62,
+          "three_point_field_goals_attempted": 166,
+          "three_point_field_goal_percentage": 37.3,
+          "free_throws_made": 50,
+          "free_throws_attempted": 59,
+          "free_throw_percentage": 84.7
+        },
+        "defense": {
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 95,
+          "total_rebounds": 99,
+          "rebounds_per_game": 2.8,
+          "total_steals": 24,
+          "steals_per_game": 0.7,
+          "total_blocks": 1,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 53,
+          "assists_per_game": 1.5,
+          "turnovers": 41,
+          "turnovers_per_game": 1.2,
+          "assists_per_turnover": 1.3
+        }
+      }
+    },
+    {
+      "name": "Keve Aluma",
+      "injury": null,
+      "info": {
+        "number": 22,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 235,
+        "school_class": "Sr",
+        "hometown": "Berlin, MD"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 35,
+          "minutes_per_game": 30.9
+        },
+        "scoring": {
+          "points_per_game": 15.8,
+          "field_goals_made": 213,
+          "field_goals_attempted": 399,
+          "field_goal_percentage": 53.4,
+          "three_point_field_goals_made": 25,
+          "three_point_field_goals_attempted": 75,
+          "three_point_field_goal_percentage": 33.3,
+          "free_throws_made": 101,
+          "free_throws_attempted": 129,
+          "free_throw_percentage": 78.3
+        },
+        "defense": {
+          "offensive_rebounds": 72,
+          "defensive_rebounds": 157,
+          "total_rebounds": 229,
+          "rebounds_per_game": 6.5,
+          "total_steals": 26,
+          "steals_per_game": 0.7,
+          "total_blocks": 32,
+          "blocks_per_game": 0.9
+        },
+        "assists": {
+          "total_assists": 68,
+          "assists_per_game": 1.9,
+          "turnovers": 62,
+          "turnovers_per_game": 1.8,
+          "assists_per_turnover": 1.1
+        }
+      }
+    },
+    {
+      "name": "Hunter Cattoor",
+      "injury": null,
+      "info": {
+        "number": 0,
+        "position": "G",
+        "height": "6-3",
+        "height_inches": 75,
+        "weight_pounds": 200,
+        "school_class": "Jr",
+        "hometown": "Orlando, FL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 35,
+          "minutes_per_game": 32.9
+        },
+        "scoring": {
+          "points_per_game": 10.0,
+          "field_goals_made": 117,
+          "field_goals_attempted": 271,
+          "field_goal_percentage": 43.2,
+          "three_point_field_goals_made": 82,
+          "three_point_field_goals_attempted": 196,
+          "three_point_field_goal_percentage": 41.8,
+          "free_throws_made": 33,
+          "free_throws_attempted": 46,
+          "free_throw_percentage": 71.7
+        },
+        "defense": {
+          "offensive_rebounds": 12,
+          "defensive_rebounds": 130,
+          "total_rebounds": 142,
+          "rebounds_per_game": 4.1,
+          "total_steals": 38,
+          "steals_per_game": 1.1,
+          "total_blocks": 6,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 72,
+          "assists_per_game": 2.1,
+          "turnovers": 33,
+          "turnovers_per_game": 0.9,
+          "assists_per_turnover": 2.2
+        }
+      }
+    },
+    {
+      "name": "Jalen Haynes",
+      "injury": null,
+      "info": {
+        "number": 11,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 250,
+        "school_class": "Fr",
+        "hometown": "Ft. Lauderdale, FL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 9,
+          "games_started": 0,
+          "minutes_per_game": 2.7
+        },
+        "scoring": {
+          "points_per_game": 0.8,
+          "field_goals_made": 3,
+          "field_goals_attempted": 7,
+          "field_goal_percentage": 42.9,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 1,
+          "free_throws_attempted": 3,
+          "free_throw_percentage": 33.3
+        },
+        "defense": {
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 2,
+          "total_rebounds": 5,
+          "rebounds_per_game": 0.6,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 2,
+          "turnovers_per_game": 0.2,
+          "assists_per_turnover": 0.0
+        }
+      }
+    },
+    {
+      "name": "Camden Johnson",
+      "injury": null,
+      "info": {
+        "number": 10,
+        "position": "G",
+        "height": "6-1",
+        "height_inches": 73,
+        "weight_pounds": 175,
+        "school_class": "Fr",
+        "hometown": "Waxhaw, NC"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 10,
+          "games_started": 0,
+          "minutes_per_game": 1.8
+        },
+        "scoring": {
+          "points_per_game": 0.3,
+          "field_goals_made": 1,
+          "field_goals_attempted": 3,
+          "field_goal_percentage": 33.3,
+          "three_point_field_goals_made": 1,
+          "three_point_field_goals_attempted": 2,
+          "three_point_field_goal_percentage": 50.0,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 2,
+          "total_rebounds": 2,
+          "rebounds_per_game": 0.2,
+          "total_steals": 2,
+          "steals_per_game": 0.2,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.1,
+          "turnovers": 0,
+          "turnovers_per_game": 0.0,
+          "assists_per_turnover": null
+        }
+      }
+    },
+    {
+      "name": "Lynn Kidd",
+      "injury": null,
+      "info": {
+        "number": 15,
+        "position": "C",
+        "height": "6-10",
+        "height_inches": 82,
+        "weight_pounds": 240,
+        "school_class": "Soph",
+        "hometown": "Gainesville, FL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 10,
+          "games_started": 0,
+          "minutes_per_game": 2.5
+        },
+        "scoring": {
+          "points_per_game": 0.7,
+          "field_goals_made": 3,
+          "field_goals_attempted": 8,
+          "field_goal_percentage": 37.5,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 1,
+          "free_throws_attempted": 1,
+          "free_throw_percentage": 100.0
+        },
+        "defense": {
+          "offensive_rebounds": 6,
+          "defensive_rebounds": 5,
+          "total_rebounds": 11,
+          "rebounds_per_game": 1.1,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 2,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 3,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 0.0
+        }
+      }
+    },
+    {
+      "name": "Darius Maddox",
+      "injury": null,
+      "info": {
+        "number": 13,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 185,
+        "school_class": "Soph",
+        "hometown": "Bowie, MD"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 0,
+          "minutes_per_game": 16.7
+        },
+        "scoring": {
+          "points_per_game": 6.4,
+          "field_goals_made": 80,
+          "field_goals_attempted": 154,
+          "field_goal_percentage": 51.9,
+          "three_point_field_goals_made": 40,
+          "three_point_field_goals_attempted": 77,
+          "three_point_field_goal_percentage": 51.9,
+          "free_throws_made": 25,
+          "free_throws_attempted": 31,
+          "free_throw_percentage": 80.6
+        },
+        "defense": {
+          "offensive_rebounds": 16,
+          "defensive_rebounds": 49,
+          "total_rebounds": 65,
+          "rebounds_per_game": 1.9,
+          "total_steals": 11,
+          "steals_per_game": 0.3,
+          "total_blocks": 8,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 19,
+          "assists_per_game": 0.5,
+          "turnovers": 20,
+          "turnovers_per_game": 0.6,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Storm Murphy",
+      "injury": null,
+      "info": {
+        "number": 5,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 185,
+        "school_class": "Sr",
+        "hometown": "Middleton, WI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 35,
+          "minutes_per_game": 26.9
+        },
+        "scoring": {
+          "points_per_game": 8.1,
+          "field_goals_made": 105,
+          "field_goals_attempted": 242,
+          "field_goal_percentage": 43.4,
+          "three_point_field_goals_made": 53,
+          "three_point_field_goals_attempted": 148,
+          "three_point_field_goal_percentage": 35.8,
+          "free_throws_made": 19,
+          "free_throws_attempted": 26,
+          "free_throw_percentage": 73.1
+        },
+        "defense": {
+          "offensive_rebounds": 9,
+          "defensive_rebounds": 56,
+          "total_rebounds": 65,
+          "rebounds_per_game": 1.9,
+          "total_steals": 14,
+          "steals_per_game": 0.4,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 99,
+          "assists_per_game": 2.8,
+          "turnovers": 56,
+          "turnovers_per_game": 1.6,
+          "assists_per_turnover": 1.8
+        }
+      }
+    },
+    {
+      "name": "Justyn Mutts",
+      "injury": null,
+      "info": {
+        "number": 25,
+        "position": "F",
+        "height": "6-7",
+        "height_inches": 79,
+        "weight_pounds": 230,
+        "school_class": "Sr",
+        "hometown": "Millville, NJ"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 35,
+          "minutes_per_game": 29.7
+        },
+        "scoring": {
+          "points_per_game": 10.1,
+          "field_goals_made": 143,
+          "field_goals_attempted": 267,
+          "field_goal_percentage": 53.6,
+          "three_point_field_goals_made": 16,
+          "three_point_field_goals_attempted": 47,
+          "three_point_field_goal_percentage": 34.0,
+          "free_throws_made": 53,
+          "free_throws_attempted": 79,
+          "free_throw_percentage": 67.1
+        },
+        "defense": {
+          "offensive_rebounds": 82,
+          "defensive_rebounds": 178,
+          "total_rebounds": 260,
+          "rebounds_per_game": 7.4,
+          "total_steals": 42,
+          "steals_per_game": 1.2,
+          "total_blocks": 34,
+          "blocks_per_game": 1.0
+        },
+        "assists": {
+          "total_assists": 118,
+          "assists_per_game": 3.4,
+          "turnovers": 93,
+          "turnovers_per_game": 2.7,
+          "assists_per_turnover": 1.3
+        }
+      }
+    },
+    {
+      "name": "David N'Guessan",
+      "injury": null,
+      "info": {
+        "number": 1,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 205,
+        "school_class": "Soph",
+        "hometown": null
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 0,
+          "minutes_per_game": 13.5
+        },
+        "scoring": {
+          "points_per_game": 3.7,
+          "field_goals_made": 51,
+          "field_goals_attempted": 105,
+          "field_goal_percentage": 48.6,
+          "three_point_field_goals_made": 4,
+          "three_point_field_goals_attempted": 15,
+          "three_point_field_goal_percentage": 26.7,
+          "free_throws_made": 23,
+          "free_throws_attempted": 44,
+          "free_throw_percentage": 52.3
+        },
+        "defense": {
+          "offensive_rebounds": 32,
+          "defensive_rebounds": 66,
+          "total_rebounds": 98,
+          "rebounds_per_game": 2.8,
+          "total_steals": 10,
+          "steals_per_game": 0.3,
+          "total_blocks": 21,
+          "blocks_per_game": 0.6
+        },
+        "assists": {
+          "total_assists": 24,
+          "assists_per_game": 0.7,
+          "turnovers": 17,
+          "turnovers_per_game": 0.5,
+          "assists_per_turnover": 1.4
+        }
+      }
+    },
+    {
+      "name": "John Ojiako",
+      "injury": null,
+      "info": {
+        "number": 21,
+        "position": "C",
+        "height": "6-10",
+        "height_inches": 82,
+        "weight_pounds": 245,
+        "school_class": "Jr",
+        "hometown": null
+      },
+      "stats": {
+        "overall": {
+          "games_played": 20,
+          "games_started": 0,
+          "minutes_per_game": 6.3
+        },
+        "scoring": {
+          "points_per_game": 2.4,
+          "field_goals_made": 19,
+          "field_goals_attempted": 32,
+          "field_goal_percentage": 59.4,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 9,
+          "free_throws_attempted": 11,
+          "free_throw_percentage": 81.8
+        },
+        "defense": {
+          "offensive_rebounds": 19,
+          "defensive_rebounds": 19,
+          "total_rebounds": 38,
+          "rebounds_per_game": 1.9,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 7,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 2,
+          "assists_per_game": 0.1,
+          "turnovers": 7,
+          "turnovers_per_game": 0.4,
+          "assists_per_turnover": 0.3
+        }
+      }
+    },
+    {
+      "name": "Sean Pedulla",
+      "injury": null,
+      "info": {
+        "number": 3,
+        "position": "G",
+        "height": "6-1",
+        "height_inches": 73,
+        "weight_pounds": 190,
+        "school_class": "Fr",
+        "hometown": "Edmond, OK"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 35,
+          "games_started": 0,
+          "minutes_per_game": 12.6
+        },
+        "scoring": {
+          "points_per_game": 5.0,
+          "field_goals_made": 59,
+          "field_goals_attempted": 136,
+          "field_goal_percentage": 43.4,
+          "three_point_field_goals_made": 31,
+          "three_point_field_goals_attempted": 70,
+          "three_point_field_goal_percentage": 44.3,
+          "free_throws_made": 26,
+          "free_throws_attempted": 30,
+          "free_throw_percentage": 86.7
+        },
+        "defense": {
+          "offensive_rebounds": 6,
+          "defensive_rebounds": 34,
+          "total_rebounds": 40,
+          "rebounds_per_game": 1.1,
+          "total_steals": 21,
+          "steals_per_game": 0.6,
+          "total_blocks": 1,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 47,
+          "assists_per_game": 1.3,
+          "turnovers": 31,
+          "turnovers_per_game": 0.9,
+          "assists_per_turnover": 1.5
+        }
+      }
+    },
+    {
+      "name": "Ben Varga",
+      "injury": null,
+      "info": {
+        "number": 14,
+        "position": "G",
+        "height": "5-10",
+        "height_inches": 70,
+        "weight_pounds": 170,
+        "school_class": "Fr",
+        "hometown": "Louisville, KY"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 9,
+          "games_started": 0,
+          "minutes_per_game": 1.9
+        },
+        "scoring": {
+          "points_per_game": 0.3,
+          "field_goals_made": 1,
+          "field_goals_attempted": 8,
+          "field_goal_percentage": 12.5,
+          "three_point_field_goals_made": 1,
+          "three_point_field_goals_attempted": 6,
+          "three_point_field_goal_percentage": 16.7,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "total_rebounds": 0,
+          "rebounds_per_game": 0.0,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.1,
+          "turnovers": 0,
+          "turnovers_per_game": 0.0,
+          "assists_per_turnover": null
+        }
+      }
+    }
+  ]
+}

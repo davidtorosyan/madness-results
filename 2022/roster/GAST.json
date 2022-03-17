@@ -1,0 +1,275 @@
+{
+  "name": "Georgia State Panthers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/GAST/georgia-state-panthers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Corey Allen",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-2",
+          "195",
+          "Sr",
+          "Ypsilanti, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kalik Brooks",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-5",
+          "190",
+          "Jr",
+          "Alpharetta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jamall Clyce",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-6",
+          "195",
+          "Fr",
+          "Richmond Hill, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ja'Heim Hudson",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-7",
+          "230",
+          "Fr",
+          "Marietta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Evan Johnson",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "5-11",
+          "165",
+          "Soph",
+          "Durham, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joe Jones III",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "C",
+          "6-9",
+          "230",
+          "Soph",
+          "Buffalo, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chien-Hao Ma",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-7",
+          "180",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Collin Moore",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-4",
+          "205",
+          "Soph",
+          "North Little Rock, AR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eliel Nsoseme",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-8",
+          "235",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nelson Phillips",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "10",
+          "G",
+          "6-4",
+          "190",
+          "Jr",
+          "Warner Robins, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zach Pina",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "G",
+          "6-0",
+          "165",
+          "Jr",
+          "Peachtree City, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Rawls",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-1",
+          "180",
+          "Jr",
+          "Chattanooga, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin Roberts",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "5-10",
+          "170",
+          "Sr",
+          "Indianapolis, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kaleb Scott",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "F",
+          "6-6",
+          "235",
+          "Soph",
+          "Fuquay-Varina, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Danny Stubbs",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-0",
+          "174",
+          "Fr",
+          "Austell, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Thomas",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-10",
+          "230",
+          "Jr",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kane Williams",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-4",
+          "190",
+          "Sr",
+          "Douglasville, GA"
+        ]
+      }
+    ]
+  }
+}

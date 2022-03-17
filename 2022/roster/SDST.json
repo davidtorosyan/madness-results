@@ -1,0 +1,217 @@
+{
+  "name": "South Dakota State Jackrabbits - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/SDAKST/south-dakota-state-jackrabbits/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Luke Appel",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-8",
+          "240",
+          "Jr",
+          "Marshalltown, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alex Arians",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-4",
+          "200",
+          "Jr",
+          "Madison, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt Dentlinger",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-8",
+          "240",
+          "Jr",
+          "Arcadia, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Charlie Easley",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-2",
+          "185",
+          "Soph",
+          "Lincoln, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aaron Fiegen",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-7",
+          "200",
+          "Soph",
+          "Madison, SD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Noah Freidel",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-4",
+          "200",
+          "Soph",
+          "Tea, SD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaylon Gentry",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "5-9",
+          "175",
+          "Jr",
+          "Brown Deer, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Broden Lien",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-8",
+          "235",
+          "Fr",
+          "Flom, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zeke Mayo",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "179",
+          "Fr",
+          "Lawrence, KS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt Mims",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-0",
+          "175",
+          "Soph",
+          "Cedar Rapids, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Baylor Scheierman",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-6",
+          "205",
+          "Soph",
+          "Aurora, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Douglas Wilson",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-7",
+          "220",
+          "Sr",
+          "Des Moines, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "David Wingett",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-7",
+          "210",
+          "Soph",
+          "Winnebago, NE"
+        ]
+      }
+    ]
+  }
+}

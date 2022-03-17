@@ -1,0 +1,259 @@
+{
+  "name": "Saint Mary's Gaels - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/MARYCA/saint-marys-gaels/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Yigit Arcan",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "170",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Luke Barrett",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "G",
+          "6-6",
+          "200",
+          "Soph",
+          "Piedmont, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Leemet Bockler",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-7",
+          "215",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kyle Bowen",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-8",
+          "222",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Judah Brown",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-6",
+          "220",
+          "Soph",
+          "Bermuda Dunes, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Quinn Clinton",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "190",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alex Ducas",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "G",
+          "6-7",
+          "220",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dan Fotu",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "F",
+          "6-7",
+          "222",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Howell",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-6",
+          "195",
+          "Fr",
+          "San Diego, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Logan Johnson",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-2",
+          "177",
+          "Sr",
+          "Mountain View, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tommy Kuhse",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-2",
+          "185",
+          "Sr",
+          "Mesa, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Augustas Marciulionis",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-4",
+          "195",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jabe Mullins",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-6",
+          "192",
+          "Soph",
+          "Snoqualmie, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mitchell Saxen",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "C",
+          "6-10",
+          "242",
+          "Soph",
+          "Seattle, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matthias Tass",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "F",
+          "6-10",
+          "245",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt van Komen",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "C",
+          "7-4",
+          "250",
+          "Jr",
+          "Pleasant Grove, UT"
+        ]
+      }
+    ]
+  }
+}

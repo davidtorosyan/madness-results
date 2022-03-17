@@ -1,0 +1,321 @@
+{
+  "name": "Richmond Spiders - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/RICH/richmond-spiders/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Gabe Arizin",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-4",
+          "190",
+          "Jr",
+          "West Chester, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dji Bailey",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-5",
+          "180",
+          "Soph",
+          "Wilson, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Burton",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-7",
+          "215",
+          "Jr",
+          "Uxbridge, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nathan Cayo",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-7",
+          "225",
+          "Sr",
+          "Montreal, PQ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Connor Crabtree",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-6",
+          "200",
+          "Jr",
+          "Hillsborough, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Malcolm Dread",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "12",
+          "G",
+          "6-4",
+          "210",
+          "Fr",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Gaitley",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "G",
+          "6-4",
+          "190",
+          "Sr",
+          "Haverford, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jacob Gilyard",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "5-9",
+          "160",
+          "Sr",
+          "Kansas City, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Grant Golden",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-10",
+          "255",
+          "Sr",
+          "Winchester, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt Grace",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-9",
+          "230",
+          "Sr",
+          "Hamilton, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andre Gustavson",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-5",
+          "205",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Souleymane Koureissi",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-9",
+          "215",
+          "Sr",
+          "Harlem, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sullivan Kulju",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-6",
+          "220",
+          "Sr",
+          "New Berlin, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jason Nelson",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "1",
+          "G",
+          "5-10",
+          "175",
+          "Fr",
+          "Richmond, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aidan Noyes",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "35",
+          "F",
+          "6-7",
+          "190",
+          "Fr",
+          "Cincinnati, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Marcus Randolph",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-5",
+          "195",
+          "Fr",
+          "Willingboro, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nick Sherod",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-4",
+          "220",
+          "Sr",
+          "Richmond, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Quentin Southall",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-3",
+          "180",
+          "Soph",
+          "Alexandria, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Liam Weaver",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "G",
+          "6-2",
+          "190",
+          "Fr",
+          "Kansas City, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Wilson",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-0",
+          "165",
+          "Soph",
+          "Pittsburgh, PA"
+        ]
+      }
+    ]
+  }
+}

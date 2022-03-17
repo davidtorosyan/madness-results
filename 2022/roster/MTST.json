@@ -1,0 +1,273 @@
+{
+  "name": "Montana State Bobcats - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/MONST/montana-state-bobcats/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Amin Adamu",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-5",
+          "190",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Carter Ash",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-0",
+          "165",
+          "Fr",
+          "Bozeman, MT"
+        ]
+      },
+      {
+        "player": {
+          "name": "RaeQuan Battle",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-5",
+          "190",
+          "Soph",
+          "Tulalip, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jubrile Belo",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-9",
+          "240",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Xavier Bishop",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "5-8",
+          "165",
+          "Sr",
+          "Springfield, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Borja Fernandez",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-7",
+          "230",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mareng Gatkuoth",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-6",
+          "180",
+          "Soph",
+          "Anchorage, AK"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nick Gazelas",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-4",
+          "180",
+          "Soph",
+          "Humble, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alex Germer",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-8",
+          "190",
+          "Fr",
+          "Missoula, MT"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sam Lecholat",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-7",
+          "215",
+          "Fr",
+          "Sheridan, WY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Patrick McMahon",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-7",
+          "190",
+          "Fr",
+          "Palmer, AK"
+        ]
+      },
+      {
+        "player": {
+          "name": "Abdul Mohamed",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-7",
+          "205",
+          "Sr",
+          "Ottawa, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Great Osobor",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-8",
+          "245",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Patterson",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-8",
+          "190",
+          "Fr",
+          "Snoqualmie, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jasper Reinalda",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "C",
+          "7-3",
+          "275",
+          "Fr",
+          "Corvallis, OR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaac Spears",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-4",
+          "170",
+          "Fr",
+          "Las Vegas, NV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kellen Tynes",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-3",
+          "175",
+          "Fr",
+          "\u2014"
+        ]
+      }
+    ]
+  }
+}

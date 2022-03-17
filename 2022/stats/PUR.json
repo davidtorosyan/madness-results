@@ -1,0 +1,933 @@
+{
+  "name": "Purdue Boilermakers - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/PURDUE/purdue-boilermakers/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jaden Ivey",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "31",
+            "31.3",
+            "17.4",
+            "189",
+            "409",
+            "46.2",
+            "58",
+            "163",
+            "35.6",
+            "139",
+            "189",
+            "73.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zach Edey",
+            "position": "C"
+          },
+          "values": [
+            "34",
+            "30",
+            "19.1",
+            "14.6",
+            "199",
+            "304",
+            "65.5",
+            "0",
+            "0",
+            "\u2014",
+            "97",
+            "150",
+            "64.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trevion Williams",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "4",
+            "19.8",
+            "11.7",
+            "163",
+            "300",
+            "54.3",
+            "5",
+            "13",
+            "38.5",
+            "66",
+            "113",
+            "58.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sasha Stefanovic",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "34",
+            "30.5",
+            "10.7",
+            "110",
+            "276",
+            "39.9",
+            "82",
+            "210",
+            "39.0",
+            "61",
+            "70",
+            "87.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mason Gillis",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "22",
+            "23.6",
+            "6.5",
+            "65",
+            "128",
+            "50.8",
+            "36",
+            "82",
+            "43.9",
+            "28",
+            "34",
+            "82.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Eric Hunter Jr.",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "16",
+            "25.5",
+            "6.4",
+            "78",
+            "160",
+            "48.8",
+            "32",
+            "68",
+            "47.1",
+            "28",
+            "43",
+            "65.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Newman",
+            "position": "G"
+          },
+          "values": [
+            "23",
+            "1",
+            "13.1",
+            "5.0",
+            "34",
+            "106",
+            "32.1",
+            "27",
+            "83",
+            "32.5",
+            "19",
+            "24",
+            "79.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Thompson",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "20",
+            "16.8",
+            "4.2",
+            "45",
+            "106",
+            "42.5",
+            "35",
+            "84",
+            "41.7",
+            "18",
+            "23",
+            "78.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Caleb Furst",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "12",
+            "14.8",
+            "3.9",
+            "44",
+            "78",
+            "56.4",
+            "9",
+            "24",
+            "37.5",
+            "25",
+            "36",
+            "69.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ethan Morton",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "0",
+            "14.8",
+            "2.4",
+            "29",
+            "61",
+            "47.5",
+            "13",
+            "30",
+            "43.3",
+            "11",
+            "16",
+            "68.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matt Frost",
+            "position": "F"
+          },
+          "values": [
+            "8",
+            "0",
+            "1.9",
+            "0.5",
+            "1",
+            "5",
+            "20.0",
+            "0",
+            "0",
+            "\u2014",
+            "2",
+            "2",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carson Barrett",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "2.1",
+            "0.5",
+            "2",
+            "6",
+            "33.3",
+            "0",
+            "2",
+            "0.0",
+            "0",
+            "1",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chase Martin",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "1.9",
+            "0.3",
+            "1",
+            "5",
+            "20.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "3",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Wulbrun",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "1.8",
+            "0.2",
+            "0",
+            "2",
+            "0.0",
+            "0",
+            "1",
+            "0.0",
+            "2",
+            "2",
+            "100.0"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Zach Edey",
+            "position": "C"
+          },
+          "values": [
+            "34",
+            "30",
+            "105",
+            "159",
+            "264",
+            "7.8",
+            "9",
+            "0.30",
+            "42",
+            "1.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trevion Williams",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "4",
+            "81",
+            "169",
+            "250",
+            "7.4",
+            "34",
+            "1.00",
+            "22",
+            "0.60"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jaden Ivey",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "31",
+            "23",
+            "138",
+            "161",
+            "4.9",
+            "31",
+            "0.90",
+            "19",
+            "0.60"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mason Gillis",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "22",
+            "42",
+            "101",
+            "143",
+            "4.8",
+            "9",
+            "0.30",
+            "7",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Caleb Furst",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "12",
+            "36",
+            "67",
+            "103",
+            "3.3",
+            "4",
+            "0.10",
+            "8",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sasha Stefanovic",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "34",
+            "6",
+            "76",
+            "82",
+            "2.4",
+            "13",
+            "0.40",
+            "6",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Newman",
+            "position": "G"
+          },
+          "values": [
+            "23",
+            "1",
+            "3",
+            "42",
+            "45",
+            "2.0",
+            "9",
+            "0.40",
+            "5",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Eric Hunter Jr.",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "16",
+            "17",
+            "49",
+            "66",
+            "1.9",
+            "22",
+            "0.60",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ethan Morton",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "0",
+            "7",
+            "43",
+            "50",
+            "1.5",
+            "19",
+            "0.60",
+            "6",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Thompson",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "20",
+            "8",
+            "24",
+            "32",
+            "0.9",
+            "5",
+            "0.10",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carson Barrett",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "2",
+            "3",
+            "5",
+            "0.6",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matt Frost",
+            "position": "F"
+          },
+          "values": [
+            "8",
+            "0",
+            "3",
+            "0",
+            "3",
+            "0.4",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chase Martin",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "0",
+            "2",
+            "2",
+            "0.3",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Wulbrun",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0.1",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jaden Ivey",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "31",
+            "104",
+            "3.2",
+            "82",
+            "2.5",
+            "1.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trevion Williams",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "4",
+            "104",
+            "3.1",
+            "71",
+            "2.1",
+            "1.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sasha Stefanovic",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "34",
+            "107",
+            "3.1",
+            "42",
+            "1.2",
+            "2.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Eric Hunter Jr.",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "16",
+            "65",
+            "1.9",
+            "40",
+            "1.2",
+            "1.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ethan Morton",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "0",
+            "49",
+            "1.4",
+            "16",
+            "0.5",
+            "3.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zach Edey",
+            "position": "C"
+          },
+          "values": [
+            "34",
+            "30",
+            "43",
+            "1.3",
+            "57",
+            "1.7",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Thompson",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "20",
+            "35",
+            "1.0",
+            "16",
+            "0.5",
+            "2.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mason Gillis",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "22",
+            "27",
+            "0.9",
+            "24",
+            "0.8",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Newman",
+            "position": "G"
+          },
+          "values": [
+            "23",
+            "1",
+            "16",
+            "0.7",
+            "12",
+            "0.5",
+            "1.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Caleb Furst",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "12",
+            "13",
+            "0.4",
+            "19",
+            "0.6",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chase Martin",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "1",
+            "0.1",
+            "2",
+            "0.3",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carson Barrett",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "1",
+            "0.1",
+            "4",
+            "0.5",
+            "0.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Wulbrun",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matt Frost",
+            "position": "F"
+          },
+          "values": [
+            "8",
+            "0",
+            "0",
+            "0.0",
+            "1",
+            "0.1",
+            "0.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

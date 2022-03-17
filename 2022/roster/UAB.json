@@ -1,0 +1,261 @@
+{
+  "name": "UAB Blazers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/UAB/uab-blazers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Justin Brown",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-6",
+          "208",
+          "Sr",
+          "Atlanta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "KJ Buffen",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-7",
+          "230",
+          "Jr",
+          "Gainesville, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jon Coleman",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "5-10",
+          "165",
+          "Soph",
+          "Little Rock, AR"
+        ]
+      },
+      {
+        "player": {
+          "name": "AD Diedhiou",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-10",
+          "240",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ryan Donohoo",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-0",
+          "180",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Ertel",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-2",
+          "190",
+          "Sr",
+          "Indianapolis, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Rongie Gordon",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-8",
+          "225",
+          "Fr",
+          "Montgomery, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Quan Jackson",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-4",
+          "190",
+          "Sr",
+          "Tallahassee, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trey Jemison",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "C",
+          "7-0",
+          "260",
+          "Jr",
+          "Birmingham, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jamal Johnson",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-4",
+          "195",
+          "Jr",
+          "Birmingham, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Josh LeBlanc Sr.",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "23",
+          "F",
+          "6-7",
+          "230",
+          "Jr",
+          "Baton Rouge, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyreke Locure",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-0",
+          "165",
+          "Soph",
+          "New Orleans, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tavin Lovan",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-4",
+          "210",
+          "Jr",
+          "Franklin, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Elijah Tate",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-3",
+          "185",
+          "Fr",
+          "Baton Rouge, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tony Toney",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-2",
+          "195",
+          "Fr",
+          "Huntsville, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Walker",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "5-11",
+          "170",
+          "Jr",
+          "Port Washington, NY"
+        ]
+      }
+    ]
+  }
+}

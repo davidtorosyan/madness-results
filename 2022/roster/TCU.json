@@ -1,0 +1,249 @@
+{
+  "name": "TCU Horned Frogs - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/TCU/tcu-horned-frogs/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Damion Baugh",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-4",
+          "195",
+          "Jr",
+          "Nashville, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "JaKobe Coles",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-7",
+          "225",
+          "Fr",
+          "Denton, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Xavier Cork",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-9",
+          "228",
+          "Soph",
+          "Sulphur Springs, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cole Despie",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "G",
+          "6-3",
+          "180",
+          "Fr",
+          "San Jose, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Souleymane Doumbia",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "C",
+          "6-11",
+          "235",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Maxwell Evans",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "33",
+          "G",
+          "6-2",
+          "200",
+          "Sr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Francisco Farabello",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-3",
+          "178",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Darius Ford",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "5-10",
+          "142",
+          "Fr",
+          "Fort Worth, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eddie Lampkin Jr.",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "C",
+          "6-11",
+          "268",
+          "Fr",
+          "Katy, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mike Miles Jr.",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "195",
+          "Soph",
+          "Highland Hills, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Emanuel Miller",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-7",
+          "215",
+          "Jr",
+          "Scarborough, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chuck O'Bannon Jr.",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-6",
+          "215",
+          "Sr",
+          "Las Vegas, NV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Micah Peavy",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-7",
+          "215",
+          "Soph",
+          "Cibolo, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Shahada Wells",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "13",
+          "G",
+          "6-0",
+          "180",
+          "Jr",
+          "Amarillo, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Harrison Young",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "5-11",
+          "170",
+          "Sr",
+          "\u2014"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,879 @@
+{
+  "name": "Villanova Wildcats - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/NOVA/villanova-wildcats/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Collin Gillespie",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "33",
+            "33.9",
+            "15.9",
+            "167",
+            "377",
+            "44.3",
+            "98",
+            "232",
+            "42.2",
+            "93",
+            "104",
+            "89.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Justin Moore",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "34.6",
+            "15.0",
+            "164",
+            "411",
+            "39.9",
+            "70",
+            "202",
+            "34.7",
+            "82",
+            "112",
+            "73.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jermaine Samuels",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "32",
+            "29",
+            "10.4",
+            "120",
+            "267",
+            "44.9",
+            "23",
+            "92",
+            "25.0",
+            "79",
+            "104",
+            "76.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Caleb Daniels",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "2",
+            "26.3",
+            "10.1",
+            "103",
+            "231",
+            "44.6",
+            "51",
+            "130",
+            "39.2",
+            "47",
+            "55",
+            "85.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Slater",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "30.2",
+            "9.1",
+            "101",
+            "200",
+            "50.5",
+            "30",
+            "88",
+            "34.1",
+            "69",
+            "79",
+            "87.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Eric Dixon",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "24.9",
+            "9.1",
+            "113",
+            "226",
+            "50.0",
+            "13",
+            "27",
+            "48.1",
+            "61",
+            "73",
+            "83.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Longino",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "0",
+            "8.7",
+            "1.8",
+            "16",
+            "49",
+            "32.7",
+            "8",
+            "26",
+            "30.8",
+            "8",
+            "8",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Arcidiacono",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "0",
+            "10.3",
+            "1.8",
+            "12",
+            "43",
+            "27.9",
+            "9",
+            "33",
+            "27.3",
+            "20",
+            "22",
+            "90.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Bryan Antoine",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "0",
+            "10.3",
+            "1.5",
+            "8",
+            "33",
+            "24.2",
+            "4",
+            "22",
+            "18.2",
+            "4",
+            "4",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nnanna Njoku",
+            "position": "F"
+          },
+          "values": [
+            "7",
+            "0",
+            "3.4",
+            "0.9",
+            "3",
+            "6",
+            "50.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dhamir Cosby-Roundtree",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "6.2",
+            "0.8",
+            "1",
+            "4",
+            "25.0",
+            "0",
+            "0",
+            "\u2014",
+            "3",
+            "4",
+            "75.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Patterson",
+            "position": "F"
+          },
+          "values": [
+            "14",
+            "0",
+            "4.2",
+            "0.6",
+            "4",
+            "11",
+            "36.4",
+            "1",
+            "3",
+            "33.3",
+            "0",
+            "1",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kevin Voigt",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "1",
+            "0.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Eric Dixon",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "105",
+            "103",
+            "208",
+            "6.3",
+            "25",
+            "0.80",
+            "15",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jermaine Samuels",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "32",
+            "59",
+            "147",
+            "206",
+            "6.2",
+            "26",
+            "0.80",
+            "23",
+            "0.70"
+          ]
+        },
+        {
+          "player": {
+            "name": "Justin Moore",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "24",
+            "139",
+            "163",
+            "5.1",
+            "33",
+            "1.00",
+            "13",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Collin Gillespie",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "33",
+            "15",
+            "112",
+            "127",
+            "3.8",
+            "35",
+            "1.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Slater",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "32",
+            "90",
+            "122",
+            "3.7",
+            "37",
+            "1.10",
+            "12",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Caleb Daniels",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "2",
+            "17",
+            "87",
+            "104",
+            "3.5",
+            "21",
+            "0.70",
+            "7",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dhamir Cosby-Roundtree",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "7",
+            "7",
+            "14",
+            "2.3",
+            "0",
+            "0.00",
+            "1",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nnanna Njoku",
+            "position": "F"
+          },
+          "values": [
+            "7",
+            "0",
+            "6",
+            "8",
+            "14",
+            "2.0",
+            "0",
+            "0.00",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Bryan Antoine",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "0",
+            "3",
+            "19",
+            "22",
+            "1.4",
+            "5",
+            "0.30",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Arcidiacono",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "0",
+            "4",
+            "31",
+            "35",
+            "1.2",
+            "10",
+            "0.30",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Patterson",
+            "position": "F"
+          },
+          "values": [
+            "14",
+            "0",
+            "8",
+            "6",
+            "14",
+            "1.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Longino",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "0",
+            "8",
+            "14",
+            "22",
+            "0.8",
+            "14",
+            "0.50",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kevin Voigt",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Collin Gillespie",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "33",
+            "110",
+            "3.3",
+            "57",
+            "1.7",
+            "1.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Justin Moore",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "69",
+            "2.2",
+            "42",
+            "1.3",
+            "1.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Slater",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "55",
+            "1.7",
+            "41",
+            "1.2",
+            "1.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jermaine Samuels",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "32",
+            "48",
+            "1.5",
+            "45",
+            "1.4",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Eric Dixon",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "45",
+            "1.4",
+            "48",
+            "1.5",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Caleb Daniels",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "2",
+            "25",
+            "0.8",
+            "40",
+            "1.3",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dhamir Cosby-Roundtree",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "4",
+            "0.7",
+            "2",
+            "0.3",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chris Arcidiacono",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "0",
+            "21",
+            "0.7",
+            "12",
+            "0.4",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Longino",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "0",
+            "11",
+            "0.4",
+            "16",
+            "0.6",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Bryan Antoine",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "0",
+            "7",
+            "0.4",
+            "2",
+            "0.1",
+            "3.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Patterson",
+            "position": "F"
+          },
+          "values": [
+            "14",
+            "0",
+            "3",
+            "0.2",
+            "3",
+            "0.2",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kevin Voigt",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nnanna Njoku",
+            "position": "F"
+          },
+          "values": [
+            "7",
+            "0",
+            "0",
+            "0.0",
+            "2",
+            "0.3",
+            "0.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

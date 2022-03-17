@@ -1,0 +1,879 @@
+{
+  "name": "Creighton Bluejays - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/CREIGH/creighton-bluejays/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Ryan Hawkins",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "34.5",
+            "13.9",
+            "165",
+            "374",
+            "44.1",
+            "75",
+            "209",
+            "35.9",
+            "53",
+            "66",
+            "80.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Kalkbrenner",
+            "position": "C"
+          },
+          "values": [
+            "33",
+            "33",
+            "29",
+            "13.0",
+            "168",
+            "260",
+            "64.6",
+            "3",
+            "12",
+            "25.0",
+            "89",
+            "123",
+            "72.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alex O'Connell",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "33",
+            "32.1",
+            "11.5",
+            "137",
+            "331",
+            "41.4",
+            "62",
+            "191",
+            "32.5",
+            "45",
+            "56",
+            "80.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Nembhard",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "27",
+            "34.8",
+            "11.3",
+            "115",
+            "285",
+            "40.4",
+            "33",
+            "106",
+            "31.1",
+            "41",
+            "56",
+            "73.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Arthur Kaluma",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "28",
+            "25.7",
+            "9.9",
+            "113",
+            "250",
+            "45.2",
+            "22",
+            "86",
+            "25.6",
+            "38",
+            "58",
+            "65.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Alexander",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "11",
+            "26.1",
+            "6.9",
+            "79",
+            "185",
+            "42.7",
+            "16",
+            "59",
+            "27.1",
+            "53",
+            "66",
+            "80.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Shereef Mitchell",
+            "position": "G"
+          },
+          "values": [
+            "6",
+            "0",
+            "16.5",
+            "3.5",
+            "8",
+            "22",
+            "36.4",
+            "0",
+            "5",
+            "0.0",
+            "5",
+            "6",
+            "83.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keyshawn Feazell",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "0",
+            "9.7",
+            "3.1",
+            "44",
+            "78",
+            "56.4",
+            "2",
+            "6",
+            "33.3",
+            "12",
+            "23",
+            "52.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Rati Andronikashvili",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "0",
+            "13.1",
+            "1.9",
+            "17",
+            "73",
+            "23.3",
+            "6",
+            "29",
+            "20.7",
+            "18",
+            "29",
+            "62.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "John Christofilis",
+            "position": "G"
+          },
+          "values": [
+            "13",
+            "0",
+            "3.9",
+            "0.5",
+            "3",
+            "15",
+            "20.0",
+            "1",
+            "11",
+            "9.1",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Modestas Kancleris",
+            "position": "F"
+          },
+          "values": [
+            "13",
+            "0",
+            "2.5",
+            "0.2",
+            "0",
+            "5",
+            "0.0",
+            "0",
+            "1",
+            "0.0",
+            "3",
+            "6",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devin Davis",
+            "position": "G"
+          },
+          "values": [
+            "14",
+            "0",
+            "1.2",
+            "0.2",
+            "1",
+            "4",
+            "25.0",
+            "1",
+            "3",
+            "33.3",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sami Osmani",
+            "position": "G"
+          },
+          "values": [
+            "7",
+            "0",
+            "1.9",
+            "0.0",
+            "0",
+            "5",
+            "0.0",
+            "0",
+            "3",
+            "0.0",
+            "0",
+            "1",
+            "0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Ryan Hawkins",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "54",
+            "204",
+            "258",
+            "7.8",
+            "29",
+            "0.90",
+            "12",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Kalkbrenner",
+            "position": "C"
+          },
+          "values": [
+            "33",
+            "33",
+            "128",
+            "123",
+            "251",
+            "7.6",
+            "14",
+            "0.40",
+            "89",
+            "2.70"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alex O'Connell",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "33",
+            "11",
+            "165",
+            "176",
+            "5.3",
+            "27",
+            "0.80",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Arthur Kaluma",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "28",
+            "31",
+            "117",
+            "148",
+            "5.1",
+            "17",
+            "0.60",
+            "17",
+            "0.60"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Alexander",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "11",
+            "10",
+            "114",
+            "124",
+            "3.8",
+            "22",
+            "0.70",
+            "10",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Nembhard",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "27",
+            "6",
+            "79",
+            "85",
+            "3.1",
+            "34",
+            "1.30",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keyshawn Feazell",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "0",
+            "19",
+            "58",
+            "77",
+            "2.3",
+            "8",
+            "0.20",
+            "10",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Shereef Mitchell",
+            "position": "G"
+          },
+          "values": [
+            "6",
+            "0",
+            "1",
+            "9",
+            "10",
+            "1.7",
+            "5",
+            "0.80",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Rati Andronikashvili",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "0",
+            "4",
+            "26",
+            "30",
+            "1.0",
+            "18",
+            "0.60",
+            "4",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sami Osmani",
+            "position": "G"
+          },
+          "values": [
+            "7",
+            "0",
+            "2",
+            "2",
+            "4",
+            "0.6",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Modestas Kancleris",
+            "position": "F"
+          },
+          "values": [
+            "13",
+            "0",
+            "3",
+            "4",
+            "7",
+            "0.5",
+            "3",
+            "0.20",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "John Christofilis",
+            "position": "G"
+          },
+          "values": [
+            "13",
+            "0",
+            "1",
+            "3",
+            "4",
+            "0.3",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devin Davis",
+            "position": "G"
+          },
+          "values": [
+            "14",
+            "0",
+            "2",
+            "0",
+            "2",
+            "0.1",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Ryan Nembhard",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "27",
+            "119",
+            "4.4",
+            "85",
+            "3.1",
+            "1.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Alexander",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "11",
+            "72",
+            "2.2",
+            "57",
+            "1.7",
+            "1.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alex O'Connell",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "33",
+            "68",
+            "2.1",
+            "61",
+            "1.8",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Hawkins",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "33",
+            "50",
+            "1.5",
+            "58",
+            "1.8",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Shereef Mitchell",
+            "position": "G"
+          },
+          "values": [
+            "6",
+            "0",
+            "8",
+            "1.3",
+            "8",
+            "1.3",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Arthur Kaluma",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "28",
+            "36",
+            "1.2",
+            "73",
+            "2.5",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Rati Andronikashvili",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "0",
+            "36",
+            "1.2",
+            "30",
+            "1.0",
+            "1.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ryan Kalkbrenner",
+            "position": "C"
+          },
+          "values": [
+            "33",
+            "33",
+            "28",
+            "0.8",
+            "47",
+            "1.4",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keyshawn Feazell",
+            "position": "F"
+          },
+          "values": [
+            "33",
+            "0",
+            "16",
+            "0.5",
+            "21",
+            "0.6",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Modestas Kancleris",
+            "position": "F"
+          },
+          "values": [
+            "13",
+            "0",
+            "1",
+            "0.1",
+            "1",
+            "0.1",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sami Osmani",
+            "position": "G"
+          },
+          "values": [
+            "7",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Devin Davis",
+            "position": "G"
+          },
+          "values": [
+            "14",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "John Christofilis",
+            "position": "G"
+          },
+          "values": [
+            "13",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        }
+      ]
+    }
+  ]
+}

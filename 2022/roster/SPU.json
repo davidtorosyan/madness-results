@@ -1,0 +1,245 @@
+{
+  "name": "St. Peter's Peacocks - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/STPETE/st-peters-peacocks/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Daryl Banks III",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-3",
+          "165",
+          "Jr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brent Bland",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-3",
+          "205",
+          "Fr",
+          "Wheatley Heights, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isiah Dasher",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-4",
+          "170",
+          "Sr",
+          "Jersey City, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Oumar Diahame",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-10",
+          "225",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Fousseyni Drame",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-7",
+          "200",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Hassan Drame",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-7",
+          "200",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Doug Edert",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-2",
+          "185",
+          "Jr",
+          "Nutley, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matthew Lee",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-0",
+          "160",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaylen Murray",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "G",
+          "5-11",
+          "175",
+          "Fr",
+          "Putnam, CT"
+        ]
+      },
+      {
+        "player": {
+          "name": "KC Ndefo",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "F",
+          "6-7",
+          "195",
+          "Sr",
+          "Elmont, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jerry Ngopot",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-10",
+          "220",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Latrell Reid",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-3",
+          "185",
+          "Jr",
+          "Willingboro, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Clarence Rupert",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-8",
+          "245",
+          "Fr",
+          "Philadelphia, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Marty Silvera",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-0",
+          "190",
+          "Soph",
+          "Worcester, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mouhamed Sow",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-9",
+          "195",
+          "Fr",
+          "\u2014"
+        ]
+      }
+    ]
+  }
+}

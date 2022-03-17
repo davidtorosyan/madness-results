@@ -1,0 +1,259 @@
+{
+  "name": "Vermont Catamounts - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/UVM/vermont-catamounts/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Sam Alamutu",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-5",
+          "215",
+          "Fr",
+          "Ajax, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eric Beckett",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-4",
+          "225",
+          "Jr",
+          "Ajax, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ryan Davis",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-8",
+          "250",
+          "Sr",
+          "Schaumburg, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aaron Deloney",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-0",
+          "165",
+          "Jr",
+          "Portland, OR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Duncan Demuth",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-8",
+          "210",
+          "Sr",
+          "Seminole, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Robin Duncan",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "6-5",
+          "190",
+          "Sr",
+          "Evansville, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nick Fiorillo",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-7",
+          "210",
+          "Soph",
+          "Scarborough, ME"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kam Gibson",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-3",
+          "190",
+          "Sr",
+          "Cincinnati, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Evan Guillory",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-4",
+          "208",
+          "Fr",
+          "Springfield, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Georges Lefebvre",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-9",
+          "200",
+          "Soph",
+          "Montreal, PQ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin Mazzulla",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-3",
+          "195",
+          "Sr",
+          "Johnston, RI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michel Ndayishimiye",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "5-10",
+          "180",
+          "Fr",
+          "Burlington, VT"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bailey Patella",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-5",
+          "185",
+          "Sr",
+          "Lenox, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Powell",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-6",
+          "220",
+          "Sr",
+          "Albany, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ben Shungu",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-2",
+          "200",
+          "Sr",
+          "South Burlington, VT"
+        ]
+      },
+      {
+        "player": {
+          "name": "Finn Sullivan",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-4",
+          "195",
+          "Sr",
+          "San Diego, CA"
+        ]
+      }
+    ]
+  }
+}

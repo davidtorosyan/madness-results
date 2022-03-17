@@ -1,0 +1,879 @@
+{
+  "name": "Northern Arizona Lumberjacks - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/NAU/northern-arizona-lumberjacks/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jalen Cone",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "31",
+            "34.7",
+            "18.8",
+            "197",
+            "509",
+            "38.7",
+            "93",
+            "264",
+            "35.2",
+            "115",
+            "139",
+            "82.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nik Mains",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "33.2",
+            "11.5",
+            "133",
+            "307",
+            "43.3",
+            "75",
+            "187",
+            "40.1",
+            "26",
+            "32",
+            "81.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Haymon",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "25",
+            "26.8",
+            "9.8",
+            "94",
+            "264",
+            "35.6",
+            "64",
+            "177",
+            "36.2",
+            "22",
+            "40",
+            "55.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carson Towt",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "29.6",
+            "8.4",
+            "109",
+            "224",
+            "48.7",
+            "0",
+            "0",
+            "\u2014",
+            "50",
+            "108",
+            "46.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mason Stark",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "6",
+            "17.5",
+            "5.0",
+            "53",
+            "134",
+            "39.6",
+            "26",
+            "68",
+            "38.2",
+            "24",
+            "29",
+            "82.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ezekiel Richards",
+            "position": "C"
+          },
+          "values": [
+            "31",
+            "19",
+            "17.1",
+            "4.8",
+            "57",
+            "110",
+            "51.8",
+            "0",
+            "0",
+            "\u2014",
+            "35",
+            "43",
+            "81.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jay Green",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "3",
+            "10.8",
+            "3.3",
+            "37",
+            "67",
+            "55.2",
+            "2",
+            "3",
+            "66.7",
+            "17",
+            "34",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jayden Jackson",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "4",
+            "13",
+            "3.1",
+            "17",
+            "53",
+            "32.1",
+            "7",
+            "26",
+            "26.9",
+            "15",
+            "26",
+            "57.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Spencer Roberts",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "4.5",
+            "2.5",
+            "6",
+            "10",
+            "60.0",
+            "0",
+            "0",
+            "\u2014",
+            "3",
+            "4",
+            "75.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Wynton Brown",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "0",
+            "10.6",
+            "2.4",
+            "19",
+            "40",
+            "47.5",
+            "4",
+            "12",
+            "33.3",
+            "10",
+            "22",
+            "45.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ajang Aguek",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "0",
+            "7.7",
+            "2.3",
+            "19",
+            "42",
+            "45.2",
+            "2",
+            "12",
+            "16.7",
+            "18",
+            "24",
+            "75.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Lewis",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "8",
+            "14.5",
+            "2.2",
+            "28",
+            "75",
+            "37.3",
+            "4",
+            "20",
+            "20.0",
+            "7",
+            "15",
+            "46.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carter Mahaney",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "8.4",
+            "0.5",
+            "1",
+            "10",
+            "10.0",
+            "0",
+            "4",
+            "0.0",
+            "2",
+            "2",
+            "100.0"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Carson Towt",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "94",
+            "186",
+            "280",
+            "8.8",
+            "18",
+            "0.60",
+            "10",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nik Mains",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "32",
+            "130",
+            "162",
+            "5.1",
+            "26",
+            "0.80",
+            "15",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ezekiel Richards",
+            "position": "C"
+          },
+          "values": [
+            "31",
+            "19",
+            "42",
+            "77",
+            "119",
+            "3.8",
+            "8",
+            "0.30",
+            "32",
+            "1.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Haymon",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "25",
+            "10",
+            "84",
+            "94",
+            "3.4",
+            "12",
+            "0.40",
+            "4",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Lewis",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "8",
+            "27",
+            "65",
+            "92",
+            "3.0",
+            "9",
+            "0.30",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jalen Cone",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "31",
+            "19",
+            "76",
+            "95",
+            "3.0",
+            "23",
+            "0.70",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Wynton Brown",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "0",
+            "12",
+            "31",
+            "43",
+            "2.0",
+            "8",
+            "0.40",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jayden Jackson",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "4",
+            "11",
+            "24",
+            "35",
+            "1.9",
+            "7",
+            "0.40",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mason Stark",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "6",
+            "6",
+            "48",
+            "54",
+            "1.7",
+            "16",
+            "0.50",
+            "8",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jay Green",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "3",
+            "10",
+            "37",
+            "47",
+            "1.7",
+            "11",
+            "0.40",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ajang Aguek",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "0",
+            "11",
+            "26",
+            "37",
+            "1.5",
+            "3",
+            "0.10",
+            "6",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carter Mahaney",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "0",
+            "7",
+            "7",
+            "0.9",
+            "2",
+            "0.30",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Spencer Roberts",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "0",
+            "5",
+            "5",
+            "0.8",
+            "1",
+            "0.20",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Carson Towt",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "119",
+            "3.7",
+            "63",
+            "2.0",
+            "1.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jalen Cone",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "31",
+            "116",
+            "3.6",
+            "119",
+            "3.7",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nik Mains",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "32",
+            "1.0",
+            "28",
+            "0.9",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Isaiah Lewis",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "8",
+            "27",
+            "0.9",
+            "33",
+            "1.1",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Haymon",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "25",
+            "25",
+            "0.9",
+            "48",
+            "1.7",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jayden Jackson",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "4",
+            "12",
+            "0.7",
+            "15",
+            "0.8",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mason Stark",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "6",
+            "19",
+            "0.6",
+            "16",
+            "0.5",
+            "1.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jay Green",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "3",
+            "18",
+            "0.6",
+            "27",
+            "1.0",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Wynton Brown",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "0",
+            "12",
+            "0.5",
+            "18",
+            "0.8",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ezekiel Richards",
+            "position": "C"
+          },
+          "values": [
+            "31",
+            "19",
+            "12",
+            "0.4",
+            "21",
+            "0.7",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Carter Mahaney",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "3",
+            "0.4",
+            "3",
+            "0.4",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ajang Aguek",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "0",
+            "7",
+            "0.3",
+            "14",
+            "0.6",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Spencer Roberts",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "1",
+            "0.2",
+            "1",
+            "0.2",
+            "1.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

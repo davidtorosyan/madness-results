@@ -1,0 +1,233 @@
+{
+  "name": "North Alabama Lions - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/NALAB/north-alabama-lions/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Deraje Agbaosi",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-8",
+          "205",
+          "Fr",
+          "Union, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jamari Blackmon",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "3",
+          "G",
+          "6-1",
+          "205",
+          "Jr",
+          "Hoover, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "C.J. Brim",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "5-9",
+          "170",
+          "Sr",
+          "Tupelo, MS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Detalian Brown",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-3",
+          "195",
+          "Fr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaac Chatman",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-6",
+          "200",
+          "Jr",
+          "Cordova, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Omar Figueroa",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-0",
+          "165",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Damian Forrest",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-10",
+          "220",
+          "Soph",
+          "Fort Collins, CO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dallas Howell",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-7",
+          "210",
+          "Fr",
+          "Coffee Springs, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aleksa Matic",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-4",
+          "210",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Pape Momar Cisse",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-10",
+          "195",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Daniel Ortiz",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-0",
+          "180",
+          "Fr",
+          "Shreveport, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Will Soucie",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-5",
+          "200",
+          "Fr",
+          "Califon, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sawyer Wright",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "C",
+          "6-8",
+          "210",
+          "Fr",
+          "Tuscumbia, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Payton Youngblood",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-5",
+          "200",
+          "Sr",
+          "Birmingham, AL"
+        ]
+      }
+    ]
+  }
+}

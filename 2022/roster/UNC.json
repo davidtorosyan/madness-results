@@ -1,0 +1,291 @@
+{
+  "name": "North Carolina Tar Heels - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/UNC/north-carolina-tar-heels/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Armando Bacot",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-10",
+          "240",
+          "Jr",
+          "Richmond, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Leaky Black",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-8",
+          "200",
+          "Sr",
+          "Concord, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "RJ Davis",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-0",
+          "175",
+          "Soph",
+          "White Plains, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "D'Marco Dunn",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-4",
+          "185",
+          "Fr",
+          "Tucson, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Duwe Farris",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-6",
+          "215",
+          "Jr",
+          "Charlotte, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dawson Garcia",
+          "injury": {
+            "area": "Personal:"
+          }
+        },
+        "values": [
+          "13",
+          "F",
+          "6-11",
+          "235",
+          "Soph",
+          "Prior Lake, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Anthony Harris",
+          "injury": {
+            "area": "Undisclosed:"
+          }
+        },
+        "values": [
+          "0",
+          "G",
+          "6-4",
+          "195",
+          "Soph",
+          "Woodbridge, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Puff Johnson",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-8",
+          "205",
+          "Soph",
+          "Moon Township, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Rob Landry",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-4",
+          "185",
+          "Soph",
+          "Greensboro, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Creighton Lebo",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-1",
+          "170",
+          "Soph",
+          "Greenville, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Caleb Love",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-4",
+          "195",
+          "Soph",
+          "St. Louis, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brady Manek",
+          "injury": null
+        },
+        "values": [
+          "45",
+          "F",
+          "6-9",
+          "230",
+          "Sr",
+          "Harrah, OK"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ryan McAdoo",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-5",
+          "210",
+          "Sr",
+          "Boca Raton, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin McKoy",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-8",
+          "220",
+          "Jr",
+          "Raleigh, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Will Shaver",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "\u2014",
+          "\u2014",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dontrez Styles",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-6",
+          "210",
+          "Fr",
+          "Kinston, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kerwin Walton",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-5",
+          "210",
+          "Soph",
+          "Hopkins, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jackson Watkins",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-1",
+          "180",
+          "Jr",
+          "Richmond, VA"
+        ]
+      }
+    ]
+  }
+}

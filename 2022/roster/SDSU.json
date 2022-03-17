@@ -1,0 +1,293 @@
+{
+  "name": "San Diego State Aztecs - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/SDGST/san-diego-state-aztecs/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Cade Alger",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-9",
+          "190",
+          "Soph",
+          "Ripon, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aguek Arop",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-6",
+          "220",
+          "Sr",
+          "Omaha, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chad Baker",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-7",
+          "190",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jared Barnett",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-1",
+          "145",
+          "Jr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt Bradley",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-4",
+          "220",
+          "Sr",
+          "San Bernardino, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Broughton",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-4",
+          "190",
+          "Soph",
+          "Ladera Ranch, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Triston Broughton",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "G",
+          "6-4",
+          "190",
+          "Soph",
+          "Ladera Ranch, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Lamont Butler",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-2",
+          "200",
+          "Soph",
+          "Moreno Valley, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tahirou Diabate",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-9",
+          "225",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keith Dinwiddie Jr.",
+          "injury": {
+            "area": "Personal:"
+          }
+        },
+        "values": [
+          "10",
+          "G",
+          "6-0",
+          "185",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keshad Johnson",
+          "injury": {
+            "area": "Ankle:"
+          }
+        },
+        "values": [
+          "0",
+          "F",
+          "6-7",
+          "210",
+          "Jr",
+          "Oakland, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Demarshay Johnson Jr.",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "F",
+          "6-10",
+          "210",
+          "Fr",
+          "Richmond, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaedon LeDee",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "13",
+          "F",
+          "6-9",
+          "240",
+          "Sr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nathan Mensah",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "F",
+          "6-10",
+          "230",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trey Pulliam",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-3",
+          "180",
+          "Sr",
+          "Bryan, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Adam Seiko",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "210",
+          "Sr",
+          "Boston, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joshua Tomaic",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-9",
+          "230",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Max Wilson",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-6",
+          "190",
+          "Fr",
+          "Reston, VA"
+        ]
+      }
+    ]
+  }
+}

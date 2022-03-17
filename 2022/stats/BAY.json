@@ -1,0 +1,1041 @@
+{
+  "name": "Baylor Bears - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/BAYLOR/baylor-bears/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "LJ Cryer",
+            "position": "G"
+          },
+          "values": [
+            "19",
+            "3",
+            "25.8",
+            "13.5",
+            "88",
+            "185",
+            "47.6",
+            "52",
+            "111",
+            "46.8",
+            "28",
+            "36",
+            "77.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Adam Flagler",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "30.7",
+            "13.4",
+            "142",
+            "324",
+            "43.8",
+            "70",
+            "178",
+            "39.3",
+            "35",
+            "47",
+            "74.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "James Akinjo",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "32.7",
+            "13.4",
+            "140",
+            "360",
+            "38.9",
+            "38",
+            "127",
+            "29.9",
+            "85",
+            "103",
+            "82.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kendall Brown",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "27.2",
+            "10.0",
+            "128",
+            "215",
+            "59.5",
+            "14",
+            "36",
+            "38.9",
+            "49",
+            "70",
+            "70.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matthew Mayer",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "22.5",
+            "9.4",
+            "108",
+            "271",
+            "39.9",
+            "38",
+            "124",
+            "30.6",
+            "38",
+            "56",
+            "67.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jeremy Sochan",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "1",
+            "24.6",
+            "8.8",
+            "90",
+            "188",
+            "47.9",
+            "21",
+            "72",
+            "29.2",
+            "46",
+            "80",
+            "57.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jonathan Tchamwa Tchatchoua",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "0",
+            "20.9",
+            "8.4",
+            "88",
+            "130",
+            "67.7",
+            "6",
+            "13",
+            "46.2",
+            "27",
+            "35",
+            "77.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Flo Thamba",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "20.2",
+            "6.2",
+            "71",
+            "133",
+            "53.4",
+            "0",
+            "0",
+            "\u2014",
+            "56",
+            "92",
+            "60.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dale Bonner",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "2",
+            "16.4",
+            "3.0",
+            "30",
+            "89",
+            "33.7",
+            "8",
+            "45",
+            "17.8",
+            "18",
+            "25",
+            "72.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dain Dainja",
+            "position": "F"
+          },
+          "values": [
+            "3",
+            "0",
+            "3",
+            "2.0",
+            "2",
+            "4",
+            "50.0",
+            "0",
+            "0",
+            "\u2014",
+            "2",
+            "3",
+            "66.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Turner",
+            "position": "G"
+          },
+          "values": [
+            "11",
+            "0",
+            "5.9",
+            "1.8",
+            "7",
+            "27",
+            "25.9",
+            "4",
+            "19",
+            "21.1",
+            "2",
+            "4",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mitchell Paul",
+            "position": "G"
+          },
+          "values": [
+            "7",
+            "0",
+            "2",
+            "1.3",
+            "4",
+            "7",
+            "57.1",
+            "0",
+            "1",
+            "0.0",
+            "1",
+            "2",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zach Loveday",
+            "position": "F"
+          },
+          "values": [
+            "11",
+            "0",
+            "3.8",
+            "1.0",
+            "4",
+            "9",
+            "44.4",
+            "2",
+            "5",
+            "40.0",
+            "1",
+            "2",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kijana Love",
+            "position": "G"
+          },
+          "values": [
+            "6",
+            "0",
+            "1.8",
+            "0.5",
+            "1",
+            "4",
+            "25.0",
+            "1",
+            "2",
+            "50.0",
+            "0",
+            "1",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Austin Sacks",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "1.8",
+            "0.0",
+            "0",
+            "2",
+            "0.0",
+            "0",
+            "2",
+            "0.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Langston Love",
+            "position": "G"
+          },
+          "values": [
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jonathan Tchamwa Tchatchoua",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "0",
+            "54",
+            "116",
+            "170",
+            "6.8",
+            "17",
+            "0.70",
+            "9",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jeremy Sochan",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "1",
+            "54",
+            "119",
+            "173",
+            "6.2",
+            "36",
+            "1.30",
+            "19",
+            "0.70"
+          ]
+        },
+        {
+          "player": {
+            "name": "Flo Thamba",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "91",
+            "87",
+            "178",
+            "5.6",
+            "19",
+            "0.60",
+            "33",
+            "1.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matthew Mayer",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "34",
+            "122",
+            "156",
+            "5.0",
+            "38",
+            "1.20",
+            "25",
+            "0.80"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kendall Brown",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "54",
+            "104",
+            "158",
+            "4.9",
+            "31",
+            "1.00",
+            "12",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "James Akinjo",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "13",
+            "70",
+            "83",
+            "2.8",
+            "62",
+            "2.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Adam Flagler",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "18",
+            "47",
+            "65",
+            "2.2",
+            "33",
+            "1.10",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "LJ Cryer",
+            "position": "G"
+          },
+          "values": [
+            "19",
+            "3",
+            "2",
+            "27",
+            "29",
+            "1.5",
+            "15",
+            "0.80",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Turner",
+            "position": "G"
+          },
+          "values": [
+            "11",
+            "0",
+            "8",
+            "5",
+            "13",
+            "1.2",
+            "0",
+            "0.00",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zach Loveday",
+            "position": "F"
+          },
+          "values": [
+            "11",
+            "0",
+            "5",
+            "8",
+            "13",
+            "1.2",
+            "1",
+            "0.10",
+            "4",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dale Bonner",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "2",
+            "14",
+            "17",
+            "31",
+            "1.1",
+            "26",
+            "0.90",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dain Dainja",
+            "position": "F"
+          },
+          "values": [
+            "3",
+            "0",
+            "2",
+            "1",
+            "3",
+            "1.0",
+            "0",
+            "0.00",
+            "1",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mitchell Paul",
+            "position": "G"
+          },
+          "values": [
+            "7",
+            "0",
+            "2",
+            "3",
+            "5",
+            "0.7",
+            "3",
+            "0.40",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kijana Love",
+            "position": "G"
+          },
+          "values": [
+            "6",
+            "0",
+            "0",
+            "2",
+            "2",
+            "0.3",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Austin Sacks",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "1",
+            "0.20",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Langston Love",
+            "position": "G"
+          },
+          "values": [
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "James Akinjo",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "170",
+            "5.7",
+            "90",
+            "3.0",
+            "1.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Adam Flagler",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "29",
+            "89",
+            "3.1",
+            "50",
+            "1.7",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kendall Brown",
+            "position": "G"
+          },
+          "values": [
+            "32",
+            "32",
+            "61",
+            "1.9",
+            "57",
+            "1.8",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jeremy Sochan",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "1",
+            "47",
+            "1.7",
+            "42",
+            "1.5",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "LJ Cryer",
+            "position": "G"
+          },
+          "values": [
+            "19",
+            "3",
+            "32",
+            "1.7",
+            "33",
+            "1.7",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dale Bonner",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "2",
+            "42",
+            "1.4",
+            "24",
+            "0.8",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matthew Mayer",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "33",
+            "1.1",
+            "26",
+            "0.8",
+            "1.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jonathan Tchamwa Tchatchoua",
+            "position": "F"
+          },
+          "values": [
+            "25",
+            "0",
+            "17",
+            "0.7",
+            "29",
+            "1.2",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Turner",
+            "position": "G"
+          },
+          "values": [
+            "11",
+            "0",
+            "5",
+            "0.5",
+            "1",
+            "0.1",
+            "5.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Flo Thamba",
+            "position": "F"
+          },
+          "values": [
+            "32",
+            "32",
+            "9",
+            "0.3",
+            "25",
+            "0.8",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kijana Love",
+            "position": "G"
+          },
+          "values": [
+            "6",
+            "0",
+            "1",
+            "0.2",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Zach Loveday",
+            "position": "F"
+          },
+          "values": [
+            "11",
+            "0",
+            "1",
+            "0.1",
+            "5",
+            "0.5",
+            "0.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Austin Sacks",
+            "position": "F"
+          },
+          "values": [
+            "6",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Mitchell Paul",
+            "position": "G"
+          },
+          "values": [
+            "7",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dain Dainja",
+            "position": "F"
+          },
+          "values": [
+            "3",
+            "0",
+            "0",
+            "0.0",
+            "2",
+            "0.7",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Langston Love",
+            "position": "G"
+          },
+          "values": [
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+          ]
+        }
+      ]
+    }
+  ]
+}

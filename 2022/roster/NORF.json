@@ -1,0 +1,231 @@
+{
+  "name": "Norfolk State Spartans - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/NORFLK/norfolk-state-spartans/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Daryl Anderson",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-6",
+          "185",
+          "Jr",
+          "North Chesterfield, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kris Bankston",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "F",
+          "6-8",
+          "230",
+          "Sr",
+          "Little Rock, AR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andre Bottoms",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-0",
+          "180",
+          "Soph",
+          "Chesapeake, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cahiem Brown",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "G",
+          "6-5",
+          "200",
+          "Jr",
+          "Brooklyn, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joe Bryant Jr.",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-1",
+          "220",
+          "Sr",
+          "Norfolk, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nyzaiah Chambers",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-7",
+          "230",
+          "Jr",
+          "Chesapeake, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Ford",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-8",
+          "235",
+          "Sr",
+          "Chesterfield, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Hawkins",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-2",
+          "185",
+          "Sr",
+          "Bronx, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Christian Ings",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-2",
+          "185",
+          "Jr",
+          "Philadelphia, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyrese Jenkins",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-6",
+          "200",
+          "Jr",
+          "Richmond, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Terrance Jones",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "165",
+          "Soph",
+          "Trenton, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Yoro Sidibe",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "G",
+          "6-7",
+          "220",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dana Tate Jr.",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-7",
+          "220",
+          "Jr",
+          "Boston, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dana Woodley",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-4",
+          "170",
+          "Fr",
+          "Richmond, VA"
+        ]
+      }
+    ]
+  }
+}

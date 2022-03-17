@@ -1,0 +1,275 @@
+{
+  "name": "LSU Tigers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/LSU/lsu-tigers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Adam Benhayoune",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-5",
+          "230",
+          "Fr",
+          "Helotes, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jerrell Colbert",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "C",
+          "6-10",
+          "216",
+          "Fr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Darius Days",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-7",
+          "245",
+          "Sr",
+          "Raleigh, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tari Eason",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-8",
+          "216",
+          "Soph",
+          "Seattle, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Parker Edwards",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-2",
+          "214",
+          "Jr",
+          "Covington, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Egemo",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-0",
+          "166",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bradley Ezewiro",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-8",
+          "246",
+          "Fr",
+          "Torrance, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alex Fudge",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-8",
+          "185",
+          "Fr",
+          "Jacksonville, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eric Gaines",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-2",
+          "150",
+          "Soph",
+          "Lithonia, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Spencer Mays",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-3",
+          "196",
+          "Jr",
+          "Baton Rouge, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Adam Miller",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "44",
+          "G",
+          "6-2",
+          "185",
+          "Soph",
+          "Peoria, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Murray",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-5",
+          "214",
+          "Fr",
+          "Baltimore, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Shareef O'Neal",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-10",
+          "220",
+          "Jr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Xavier Pinson",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "154",
+          "Sr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Efton Reid",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "C",
+          "7-0",
+          "238",
+          "Fr",
+          "Richmond, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mwani Wilkinson",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-5",
+          "206",
+          "Soph",
+          "Las Vegas, NV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justice Williams",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-3",
+          "170",
+          "Fr",
+          "Philadelphia, PA"
+        ]
+      }
+    ]
+  }
+}

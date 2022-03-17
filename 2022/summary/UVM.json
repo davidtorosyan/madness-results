@@ -1,0 +1,690 @@
+{
+  "team": {
+    "index": 7,
+    "name": "Vermont",
+    "abbrev": "UVM",
+    "seed": 13,
+    "safe_abbrev": "UVM"
+  },
+  "players": [
+    {
+      "name": "Sam Alamutu",
+      "injury": null,
+      "info": {
+        "number": 2,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 215,
+        "school_class": "Fr",
+        "hometown": "Ajax, ON"
+      },
+      "stats": null
+    },
+    {
+      "name": "Eric Beckett",
+      "injury": null,
+      "info": {
+        "number": 20,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 225,
+        "school_class": "Jr",
+        "hometown": "Ajax, ON"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 5,
+          "games_started": 0,
+          "minutes_per_game": 6.8
+        },
+        "scoring": {
+          "points_per_game": 3.8,
+          "field_goals_made": 8,
+          "field_goals_attempted": 11,
+          "field_goal_percentage": 72.7,
+          "three_point_field_goals_made": 3,
+          "three_point_field_goals_attempted": 4,
+          "three_point_field_goal_percentage": 75.0,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 4,
+          "total_rebounds": 5,
+          "rebounds_per_game": 1.0,
+          "total_steals": 1,
+          "steals_per_game": 0.2,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.2,
+          "turnovers": 1,
+          "turnovers_per_game": 0.2,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Ryan Davis",
+      "injury": null,
+      "info": {
+        "number": 35,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 250,
+        "school_class": "Sr",
+        "hometown": "Schaumburg, IL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 29,
+          "games_started": 29,
+          "minutes_per_game": 26.3
+        },
+        "scoring": {
+          "points_per_game": 17.2,
+          "field_goals_made": 190,
+          "field_goals_attempted": 322,
+          "field_goal_percentage": 59.0,
+          "three_point_field_goals_made": 41,
+          "three_point_field_goals_attempted": 97,
+          "three_point_field_goal_percentage": 42.3,
+          "free_throws_made": 79,
+          "free_throws_attempted": 101,
+          "free_throw_percentage": 78.2
+        },
+        "defense": {
+          "offensive_rebounds": 40,
+          "defensive_rebounds": 125,
+          "total_rebounds": 165,
+          "rebounds_per_game": 5.7,
+          "total_steals": 7,
+          "steals_per_game": 0.2,
+          "total_blocks": 24,
+          "blocks_per_game": 0.8
+        },
+        "assists": {
+          "total_assists": 39,
+          "assists_per_game": 1.3,
+          "turnovers": 41,
+          "turnovers_per_game": 1.4,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Aaron Deloney",
+      "injury": null,
+      "info": {
+        "number": 1,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 165,
+        "school_class": "Jr",
+        "hometown": "Portland, OR"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 29,
+          "games_started": 0,
+          "minutes_per_game": 15.0
+        },
+        "scoring": {
+          "points_per_game": 7.7,
+          "field_goals_made": 74,
+          "field_goals_attempted": 150,
+          "field_goal_percentage": 49.3,
+          "three_point_field_goals_made": 32,
+          "three_point_field_goals_attempted": 78,
+          "three_point_field_goal_percentage": 41.0,
+          "free_throws_made": 42,
+          "free_throws_attempted": 53,
+          "free_throw_percentage": 79.2
+        },
+        "defense": {
+          "offensive_rebounds": 6,
+          "defensive_rebounds": 31,
+          "total_rebounds": 37,
+          "rebounds_per_game": 1.3,
+          "total_steals": 14,
+          "steals_per_game": 0.5,
+          "total_blocks": 2,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 33,
+          "assists_per_game": 1.1,
+          "turnovers": 17,
+          "turnovers_per_game": 0.6,
+          "assists_per_turnover": 1.9
+        }
+      }
+    },
+    {
+      "name": "Duncan Demuth",
+      "injury": null,
+      "info": {
+        "number": 5,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 210,
+        "school_class": "Sr",
+        "hometown": "Seminole, FL"
+      },
+      "stats": null
+    },
+    {
+      "name": "Robin Duncan",
+      "injury": null,
+      "info": {
+        "number": 55,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 190,
+        "school_class": "Sr",
+        "hometown": "Evansville, IN"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 11,
+          "minutes_per_game": 21.3
+        },
+        "scoring": {
+          "points_per_game": 3.8,
+          "field_goals_made": 50,
+          "field_goals_attempted": 100,
+          "field_goal_percentage": 50.0,
+          "three_point_field_goals_made": 6,
+          "three_point_field_goals_attempted": 28,
+          "three_point_field_goal_percentage": 21.4,
+          "free_throws_made": 16,
+          "free_throws_attempted": 27,
+          "free_throw_percentage": 59.3
+        },
+        "defense": {
+          "offensive_rebounds": 20,
+          "defensive_rebounds": 87,
+          "total_rebounds": 107,
+          "rebounds_per_game": 3.3,
+          "total_steals": 13,
+          "steals_per_game": 0.4,
+          "total_blocks": 5,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 81,
+          "assists_per_game": 2.5,
+          "turnovers": 26,
+          "turnovers_per_game": 0.8,
+          "assists_per_turnover": 3.1
+        }
+      }
+    },
+    {
+      "name": "Nick Fiorillo",
+      "injury": null,
+      "info": {
+        "number": 32,
+        "position": "F",
+        "height": "6-7",
+        "height_inches": 79,
+        "weight_pounds": 210,
+        "school_class": "Soph",
+        "hometown": "Scarborough, ME"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 33,
+          "games_started": 2,
+          "minutes_per_game": 13.2
+        },
+        "scoring": {
+          "points_per_game": 4.2,
+          "field_goals_made": 50,
+          "field_goals_attempted": 119,
+          "field_goal_percentage": 42.0,
+          "three_point_field_goals_made": 24,
+          "three_point_field_goals_attempted": 74,
+          "three_point_field_goal_percentage": 32.4,
+          "free_throws_made": 13,
+          "free_throws_attempted": 18,
+          "free_throw_percentage": 72.2
+        },
+        "defense": {
+          "offensive_rebounds": 17,
+          "defensive_rebounds": 76,
+          "total_rebounds": 93,
+          "rebounds_per_game": 2.8,
+          "total_steals": 8,
+          "steals_per_game": 0.2,
+          "total_blocks": 3,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 28,
+          "assists_per_game": 0.8,
+          "turnovers": 15,
+          "turnovers_per_game": 0.5,
+          "assists_per_turnover": 1.9
+        }
+      }
+    },
+    {
+      "name": "Kam Gibson",
+      "injury": null,
+      "info": {
+        "number": 4,
+        "position": "G",
+        "height": "6-3",
+        "height_inches": 75,
+        "weight_pounds": 190,
+        "school_class": "Sr",
+        "hometown": "Cincinnati, OH"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 24,
+          "games_started": 10,
+          "minutes_per_game": 15.2
+        },
+        "scoring": {
+          "points_per_game": 5.4,
+          "field_goals_made": 44,
+          "field_goals_attempted": 115,
+          "field_goal_percentage": 38.3,
+          "three_point_field_goals_made": 26,
+          "three_point_field_goals_attempted": 74,
+          "three_point_field_goal_percentage": 35.1,
+          "free_throws_made": 16,
+          "free_throws_attempted": 28,
+          "free_throw_percentage": 57.1
+        },
+        "defense": {
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 38,
+          "total_rebounds": 41,
+          "rebounds_per_game": 1.7,
+          "total_steals": 5,
+          "steals_per_game": 0.2,
+          "total_blocks": 1,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 16,
+          "assists_per_game": 0.7,
+          "turnovers": 12,
+          "turnovers_per_game": 0.5,
+          "assists_per_turnover": 1.3
+        }
+      }
+    },
+    {
+      "name": "Evan Guillory",
+      "injury": null,
+      "info": {
+        "number": 0,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 208,
+        "school_class": "Fr",
+        "hometown": "Springfield, MO"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 20,
+          "games_started": 0,
+          "minutes_per_game": 6.1
+        },
+        "scoring": {
+          "points_per_game": 1.6,
+          "field_goals_made": 11,
+          "field_goals_attempted": 23,
+          "field_goal_percentage": 47.8,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 4,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 9,
+          "free_throws_attempted": 14,
+          "free_throw_percentage": 64.3
+        },
+        "defense": {
+          "offensive_rebounds": 10,
+          "defensive_rebounds": 8,
+          "total_rebounds": 18,
+          "rebounds_per_game": 0.9,
+          "total_steals": 2,
+          "steals_per_game": 0.1,
+          "total_blocks": 1,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 4,
+          "assists_per_game": 0.2,
+          "turnovers": 12,
+          "turnovers_per_game": 0.6,
+          "assists_per_turnover": 0.3
+        }
+      }
+    },
+    {
+      "name": "Georges Lefebvre",
+      "injury": null,
+      "info": {
+        "number": 34,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 200,
+        "school_class": "Soph",
+        "hometown": "Montreal, PQ"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 11,
+          "games_started": 0,
+          "minutes_per_game": 2.8
+        },
+        "scoring": {
+          "points_per_game": 1.2,
+          "field_goals_made": 4,
+          "field_goals_attempted": 6,
+          "field_goal_percentage": 66.7,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 5,
+          "free_throws_attempted": 7,
+          "free_throw_percentage": 71.4
+        },
+        "defense": {
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 6,
+          "total_rebounds": 10,
+          "rebounds_per_game": 0.9,
+          "total_steals": 1,
+          "steals_per_game": 0.1,
+          "total_blocks": 1,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.1,
+          "turnovers": 2,
+          "turnovers_per_game": 0.2,
+          "assists_per_turnover": 0.5
+        }
+      }
+    },
+    {
+      "name": "Justin Mazzulla",
+      "injury": null,
+      "info": {
+        "number": 21,
+        "position": "G",
+        "height": "6-3",
+        "height_inches": 75,
+        "weight_pounds": 195,
+        "school_class": "Sr",
+        "hometown": "Johnston, RI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 25,
+          "minutes_per_game": 25.2
+        },
+        "scoring": {
+          "points_per_game": 7.4,
+          "field_goals_made": 87,
+          "field_goals_attempted": 174,
+          "field_goal_percentage": 50.0,
+          "three_point_field_goals_made": 22,
+          "three_point_field_goals_attempted": 65,
+          "three_point_field_goal_percentage": 33.8,
+          "free_throws_made": 42,
+          "free_throws_attempted": 52,
+          "free_throw_percentage": 80.8
+        },
+        "defense": {
+          "offensive_rebounds": 26,
+          "defensive_rebounds": 78,
+          "total_rebounds": 104,
+          "rebounds_per_game": 3.3,
+          "total_steals": 28,
+          "steals_per_game": 0.9,
+          "total_blocks": 5,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 60,
+          "assists_per_game": 1.9,
+          "turnovers": 25,
+          "turnovers_per_game": 0.8,
+          "assists_per_turnover": 2.4
+        }
+      }
+    },
+    {
+      "name": "Michel Ndayishimiye",
+      "injury": null,
+      "info": {
+        "number": 25,
+        "position": "G",
+        "height": "5-10",
+        "height_inches": 70,
+        "weight_pounds": 180,
+        "school_class": "Fr",
+        "hometown": "Burlington, VT"
+      },
+      "stats": null
+    },
+    {
+      "name": "Bailey Patella",
+      "injury": null,
+      "info": {
+        "number": 12,
+        "position": "F",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 185,
+        "school_class": "Sr",
+        "hometown": "Lenox, MA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 1,
+          "minutes_per_game": 8.1
+        },
+        "scoring": {
+          "points_per_game": 1.2,
+          "field_goals_made": 14,
+          "field_goals_attempted": 37,
+          "field_goal_percentage": 37.8,
+          "three_point_field_goals_made": 4,
+          "three_point_field_goals_attempted": 16,
+          "three_point_field_goal_percentage": 25.0,
+          "free_throws_made": 5,
+          "free_throws_attempted": 6,
+          "free_throw_percentage": 83.3
+        },
+        "defense": {
+          "offensive_rebounds": 5,
+          "defensive_rebounds": 24,
+          "total_rebounds": 29,
+          "rebounds_per_game": 1.0,
+          "total_steals": 5,
+          "steals_per_game": 0.2,
+          "total_blocks": 5,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 11,
+          "assists_per_game": 0.4,
+          "turnovers": 9,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 1.2
+        }
+      }
+    },
+    {
+      "name": "Isaiah Powell",
+      "injury": null,
+      "info": {
+        "number": 14,
+        "position": "F",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 220,
+        "school_class": "Sr",
+        "hometown": "Albany, NY"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 29.7
+        },
+        "scoring": {
+          "points_per_game": 8.4,
+          "field_goals_made": 100,
+          "field_goals_attempted": 220,
+          "field_goal_percentage": 45.5,
+          "three_point_field_goals_made": 25,
+          "three_point_field_goals_attempted": 79,
+          "three_point_field_goal_percentage": 31.6,
+          "free_throws_made": 44,
+          "free_throws_attempted": 55,
+          "free_throw_percentage": 80.0
+        },
+        "defense": {
+          "offensive_rebounds": 29,
+          "defensive_rebounds": 172,
+          "total_rebounds": 201,
+          "rebounds_per_game": 6.3,
+          "total_steals": 14,
+          "steals_per_game": 0.4,
+          "total_blocks": 12,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 92,
+          "assists_per_game": 2.9,
+          "turnovers": 62,
+          "turnovers_per_game": 1.9,
+          "assists_per_turnover": 1.5
+        }
+      }
+    },
+    {
+      "name": "Ben Shungu",
+      "injury": null,
+      "info": {
+        "number": 24,
+        "position": "G",
+        "height": "6-2",
+        "height_inches": 74,
+        "weight_pounds": 200,
+        "school_class": "Sr",
+        "hometown": "South Burlington, VT"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 33,
+          "games_started": 33,
+          "minutes_per_game": 30.5
+        },
+        "scoring": {
+          "points_per_game": 16.1,
+          "field_goals_made": 200,
+          "field_goals_attempted": 381,
+          "field_goal_percentage": 52.5,
+          "three_point_field_goals_made": 63,
+          "three_point_field_goals_attempted": 152,
+          "three_point_field_goal_percentage": 41.4,
+          "free_throws_made": 68,
+          "free_throws_attempted": 95,
+          "free_throw_percentage": 71.6
+        },
+        "defense": {
+          "offensive_rebounds": 20,
+          "defensive_rebounds": 129,
+          "total_rebounds": 149,
+          "rebounds_per_game": 4.5,
+          "total_steals": 41,
+          "steals_per_game": 1.2,
+          "total_blocks": 8,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 77,
+          "assists_per_game": 2.3,
+          "turnovers": 59,
+          "turnovers_per_game": 1.8,
+          "assists_per_turnover": 1.3
+        }
+      }
+    },
+    {
+      "name": "Finn Sullivan",
+      "injury": null,
+      "info": {
+        "number": 15,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 195,
+        "school_class": "Sr",
+        "hometown": "San Diego, CA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 31,
+          "games_started": 22,
+          "minutes_per_game": 24.1
+        },
+        "scoring": {
+          "points_per_game": 7.2,
+          "field_goals_made": 78,
+          "field_goals_attempted": 186,
+          "field_goal_percentage": 41.9,
+          "three_point_field_goals_made": 43,
+          "three_point_field_goals_attempted": 122,
+          "three_point_field_goal_percentage": 35.2,
+          "free_throws_made": 25,
+          "free_throws_attempted": 31,
+          "free_throw_percentage": 80.6
+        },
+        "defense": {
+          "offensive_rebounds": 17,
+          "defensive_rebounds": 83,
+          "total_rebounds": 100,
+          "rebounds_per_game": 3.2,
+          "total_steals": 33,
+          "steals_per_game": 1.1,
+          "total_blocks": 16,
+          "blocks_per_game": 0.5
+        },
+        "assists": {
+          "total_assists": 59,
+          "assists_per_game": 1.9,
+          "turnovers": 26,
+          "turnovers_per_game": 0.8,
+          "assists_per_turnover": 2.3
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "urls": {
+    "0": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/GONZAG/gonzaga-bulldogs/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/GONZAG/gonzaga-bulldogs/roster/"
+    },
+    "1": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/GAST/georgia-state-panthers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/GAST/georgia-state-panthers/roster/"
+    },
+    "2": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/BOISE/boise-state-broncos/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/BOISE/boise-state-broncos/roster/"
+    },
+    "3": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MEMP/memphis-tigers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MEMP/memphis-tigers/roster/"
+    },
+    "4": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/UCONN/connecticut-huskies/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/UCONN/connecticut-huskies/roster/"
+    },
+    "5": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/NMEXST/new-mexico-st-aggies/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/NMEXST/new-mexico-st-aggies/roster/"
+    },
+    "6": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/CARK/cent-arkansas-bears/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/CARK/cent-arkansas-bears/roster/"
+    },
+    "7": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/UVM/vermont-catamounts/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/UVM/vermont-catamounts/roster/"
+    },
+    "8": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/NALAB/north-alabama-lions/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/NALAB/north-alabama-lions/roster/"
+    },
+    "9": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/RUT/rutgers-scarlet-knights/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/RUT/rutgers-scarlet-knights/roster/"
+    },
+    "10": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/TXTECH/texas-tech-red-raiders/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/TXTECH/texas-tech-red-raiders/roster/"
+    },
+    "11": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MONST/montana-state-bobcats/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MONST/montana-state-bobcats/roster/"
+    },
+    "12": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MICHST/michigan-state-spartans/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MICHST/michigan-state-spartans/roster/"
+    },
+    "13": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/DAVID/davidson-wildcats/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/DAVID/davidson-wildcats/roster/"
+    },
+    "14": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/DUKE/duke-blue-devils/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/DUKE/duke-blue-devils/roster/"
+    },
+    "15": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/CSFULL/cal-state-fullerton-titans/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/CSFULL/cal-state-fullerton-titans/roster/"
+    },
+    "16": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/BAYLOR/baylor-bears/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/BAYLOR/baylor-bears/roster/"
+    },
+    "17": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/NORFLK/norfolk-state-spartans/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/NORFLK/norfolk-state-spartans/roster/"
+    },
+    "18": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/UNC/north-carolina-tar-heels/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/UNC/north-carolina-tar-heels/roster/"
+    },
+    "19": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MARQET/marquette-golden-eagles/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MARQET/marquette-golden-eagles/roster/"
+    },
+    "20": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MARYCA/saint-marys-gaels/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MARYCA/saint-marys-gaels/roster/"
+    },
+    "21": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/IND/indiana-hoosiers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/IND/indiana-hoosiers/roster/"
+    },
+    "22": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/UCLA/ucla-bruins/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/UCLA/ucla-bruins/roster/"
+    },
+    "23": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/AKRON/akron-zips/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/AKRON/akron-zips/roster/"
+    },
+    "24": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/TEXAS/texas-longhorns/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/TEXAS/texas-longhorns/roster/"
+    },
+    "25": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/VATECH/virginia-tech-hokies/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/VATECH/virginia-tech-hokies/roster/"
+    },
+    "26": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/PURDUE/purdue-boilermakers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/PURDUE/purdue-boilermakers/roster/"
+    },
+    "27": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/YALE/yale-bulldogs/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/YALE/yale-bulldogs/roster/"
+    },
+    "28": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MURYST/murray-state-racers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MURYST/murray-state-racers/roster/"
+    },
+    "29": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/SANFRAN/san-francisco-dons/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/SANFRAN/san-francisco-dons/roster/"
+    },
+    "30": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/EKY/eastern-kentucky-colonels/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/EKY/eastern-kentucky-colonels/roster/"
+    },
+    "31": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/STPETE/st-peters-peacocks/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/STPETE/st-peters-peacocks/roster/"
+    },
+    "32": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/NAU/northern-arizona-lumberjacks/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/NAU/northern-arizona-lumberjacks/roster/"
+    },
+    "33": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/BRYANT/bryant-bulldogs/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/BRYANT/bryant-bulldogs/roster/"
+    },
+    "34": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/SETON/seton-hall-pirates/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/SETON/seton-hall-pirates/roster/"
+    },
+    "35": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/TCU/tcu-horned-frogs/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/TCU/tcu-horned-frogs/roster/"
+    },
+    "36": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/HOU/houston-cougars/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/HOU/houston-cougars/roster/"
+    },
+    "37": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/UAB/uab-blazers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/UAB/uab-blazers/roster/"
+    },
+    "38": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/ILL/illinois-fighting-illini/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/ILL/illinois-fighting-illini/roster/"
+    },
+    "39": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/CHATT/chattanooga-mocs/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/CHATT/chattanooga-mocs/roster/"
+    },
+    "40": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/COLOST/colorado-state-rams/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/COLOST/colorado-state-rams/roster/"
+    },
+    "41": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MICH/michigan-wolverines/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MICH/michigan-wolverines/roster/"
+    },
+    "42": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/TNTECH/tennessee-tech-golden-eagles/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/TNTECH/tennessee-tech-golden-eagles/roster/"
+    },
+    "43": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/LONGWD/longwood-lancers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/LONGWD/longwood-lancers/roster/"
+    },
+    "44": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/OHIOST/ohio-state-buckeyes/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/OHIOST/ohio-state-buckeyes/roster/"
+    },
+    "45": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/LOYCHI/loyola-chicago-ramblers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/LOYCHI/loyola-chicago-ramblers/roster/"
+    },
+    "46": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/NOVA/villanova-wildcats/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/NOVA/villanova-wildcats/roster/"
+    },
+    "47": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/DEL/delaware-fightin-blue-hens/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/DEL/delaware-fightin-blue-hens/roster/"
+    },
+    "48": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/KANSAS/kansas-jayhawks/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/KANSAS/kansas-jayhawks/roster/"
+    },
+    "49": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/TEXSO/texas-southern-tigers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/TEXSO/texas-southern-tigers/roster/"
+    },
+    "50": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/SDGST/san-diego-state-aztecs/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/SDGST/san-diego-state-aztecs/roster/"
+    },
+    "51": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/CREIGH/creighton-bluejays/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/CREIGH/creighton-bluejays/roster/"
+    },
+    "52": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/IOWA/iowa-hawkeyes/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/IOWA/iowa-hawkeyes/roster/"
+    },
+    "53": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/RICH/richmond-spiders/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/RICH/richmond-spiders/roster/"
+    },
+    "54": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/PROV/providence-friars/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/PROV/providence-friars/roster/"
+    },
+    "55": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/SDAKST/south-dakota-state-jackrabbits/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/SDAKST/south-dakota-state-jackrabbits/roster/"
+    },
+    "56": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/LSU/lsu-tigers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/LSU/lsu-tigers/roster/"
+    },
+    "57": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/IOWAST/iowa-state-cyclones/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/IOWAST/iowa-state-cyclones/roster/"
+    },
+    "58": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/WISC/wisconsin-badgers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/WISC/wisconsin-badgers/roster/"
+    },
+    "59": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/COLG/colgate-raiders/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/COLG/colgate-raiders/roster/"
+    },
+    "60": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/USC/southern-california-trojans/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/USC/southern-california-trojans/roster/"
+    },
+    "61": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/MIAMI/miami-fla-hurricanes/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/MIAMI/miami-fla-hurricanes/roster/"
+    },
+    "62": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/AUBURN/auburn-tigers/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/AUBURN/auburn-tigers/roster/"
+    },
+    "63": {
+      "stats": "https://www.cbssports.com/college-basketball/teams/JAXST/jacksonville-state-gamecocks/stats/",
+      "roster": "https://www.cbssports.com/college-basketball/teams/JAXST/jacksonville-state-gamecocks/roster/"
+    }
+  }
+}

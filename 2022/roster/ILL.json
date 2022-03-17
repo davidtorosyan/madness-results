@@ -1,0 +1,249 @@
+{
+  "name": "Illinois Fighting Illini - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/ILL/illinois-fighting-illini/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Benjamin Bosmans-Verdonk",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-8",
+          "235",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kofi Cockburn",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "C",
+          "7-0",
+          "285",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andre Curbelo",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-1",
+          "175",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trent Frazier",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "175",
+          "Sr",
+          "Wellington, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Luke Goode",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-7",
+          "200",
+          "Fr",
+          "Fort Wayne, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jacob Grandison",
+          "injury": {
+            "area": "Shoulder:"
+          }
+        },
+        "values": [
+          "3",
+          "G",
+          "6-6",
+          "210",
+          "Sr",
+          "Oakland, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Coleman Hawkins",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "F",
+          "6-10",
+          "215",
+          "Soph",
+          "Sacramento, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Austin Hutcherson",
+          "injury": {
+            "area": "Back:"
+          }
+        },
+        "values": [
+          "22",
+          "G",
+          "6-6",
+          "190",
+          "Sr",
+          "New York, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Lieb",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "C",
+          "7-0",
+          "220",
+          "Soph",
+          "Deerfield, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "RJ Melendez",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-7",
+          "205",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Omar Payne",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-10",
+          "240",
+          "Jr",
+          "Kissimmee, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alfonso Plummer",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-1",
+          "180",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandin Podziemski",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-5",
+          "200",
+          "Fr",
+          "Muskego, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Connor Serven",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-9",
+          "235",
+          "Soph",
+          "Bushnell, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Da'Monte Williams",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-3",
+          "215",
+          "Sr",
+          "Peoria, IL"
+        ]
+      }
+    ]
+  }
+}

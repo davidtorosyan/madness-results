@@ -1,0 +1,253 @@
+{
+  "name": "Ohio State Buckeyes - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/OHIOST/ohio-state-buckeyes/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Justin Ahrens",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-6",
+          "195",
+          "Sr",
+          "Versailles, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Malaki Branham",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-5",
+          "180",
+          "Fr",
+          "Akron, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eugene Brown III",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-6",
+          "195",
+          "Soph",
+          "Conyers, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joey Brunk",
+          "injury": null
+        },
+        "values": [
+          "50",
+          "C",
+          "6-11",
+          "255",
+          "Sr",
+          "Indianapolis, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kalen Etzler",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-8",
+          "200",
+          "Fr",
+          "Van Wert, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Harrison Hookfin",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "F",
+          "6-6",
+          "195",
+          "Sr",
+          "Cincinnati, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Meechie Johnson Jr.",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-2",
+          "172",
+          "Fr",
+          "Cleveland, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zed Key",
+          "injury": {
+            "area": "Ankle:"
+          }
+        },
+        "values": [
+          "23",
+          "F",
+          "6-8",
+          "245",
+          "Soph",
+          "Bay Shore, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "E.J. Liddell",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "F",
+          "6-7",
+          "240",
+          "Jr",
+          "Belleville, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cedric Russell",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-2",
+          "190",
+          "Sr",
+          "Alexandria, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jimmy Sotos",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-3",
+          "200",
+          "Sr",
+          "Elk Grove Village, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justice Sueing",
+          "injury": {
+            "area": "Abdomen:"
+          }
+        },
+        "values": [
+          "14",
+          "F",
+          "6-7",
+          "215",
+          "Sr",
+          "Honolulu, HI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Seth Towns",
+          "injury": {
+            "area": "Back:"
+          }
+        },
+        "values": [
+          "31",
+          "F",
+          "6-8",
+          "230",
+          "Sr",
+          "Columbus, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jamari Wheeler",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "6-1",
+          "170",
+          "Sr",
+          "Live Oak, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kyle Young",
+          "injury": {
+            "area": "Illness:"
+          }
+        },
+        "values": [
+          "25",
+          "F",
+          "6-8",
+          "225",
+          "Sr",
+          "Canton, OH"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "name": "San Francisco Dons - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/SANFRAN/san-francisco-dons/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Justin Bieker",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-5",
+          "180",
+          "Fr",
+          "Portland, OR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jamaree Bouyea",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "180",
+          "Sr",
+          "Seaside, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jake Cioe",
+          "injury": null
+        },
+        "values": [
+          "45",
+          "G",
+          "6-0",
+          "175",
+          "Fr",
+          "Tuscon, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Maj Dusanic",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-7",
+          "215",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Hawthorne",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-8",
+          "205",
+          "Fr",
+          "Tracy, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Josh Kunen",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-8",
+          "210",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Volodymyr Markovetskyy",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "C",
+          "7-2",
+          "270",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Yauhen Massalski",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "25",
+          "F",
+          "6-9",
+          "240",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zane Meeks",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-9",
+          "220",
+          "Soph",
+          "Prairie Village, KS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ndewedo Newbury",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-7",
+          "238",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Julian Rishwain",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-5",
+          "190",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dzmitry Ryuny",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-9",
+          "205",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Khalil Shabazz",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-0",
+          "170",
+          "Sr",
+          "Seattle, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Gabe Stefanini",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-3",
+          "215",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Patrick Tape",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "F",
+          "6-10",
+          "240",
+          "Sr",
+          "Charlotte, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jonas Visser",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "C",
+          "6-10",
+          "240",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bryce Whitaker",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-0",
+          "170",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      }
+    ]
+  }
+}

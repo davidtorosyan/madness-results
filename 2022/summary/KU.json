@@ -1,0 +1,763 @@
+{
+  "team": {
+    "index": 48,
+    "name": "Kansas",
+    "abbrev": "KU",
+    "seed": 1,
+    "safe_abbrev": "KU"
+  },
+  "players": [
+    {
+      "name": "KJ Adams Jr.",
+      "injury": null,
+      "info": {
+        "number": 24,
+        "position": "F",
+        "height": "6-7",
+        "height_inches": 79,
+        "weight_pounds": 225,
+        "school_class": "Fr",
+        "hometown": "Austin, TX"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 1,
+          "minutes_per_game": 4.9
+        },
+        "scoring": {
+          "points_per_game": 1.2,
+          "field_goals_made": 13,
+          "field_goals_attempted": 24,
+          "field_goal_percentage": 54.2,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 12,
+          "free_throws_attempted": 20,
+          "free_throw_percentage": 60.0
+        },
+        "defense": {
+          "offensive_rebounds": 19,
+          "defensive_rebounds": 9,
+          "total_rebounds": 28,
+          "rebounds_per_game": 0.9,
+          "total_steals": 2,
+          "steals_per_game": 0.1,
+          "total_blocks": 7,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 10,
+          "assists_per_game": 0.3,
+          "turnovers": 6,
+          "turnovers_per_game": 0.2,
+          "assists_per_turnover": 1.7
+        }
+      }
+    },
+    {
+      "name": "Ochai Agbaji",
+      "injury": null,
+      "info": {
+        "number": 30,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 215,
+        "school_class": "Sr",
+        "hometown": "Kansas City, MO"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 33,
+          "games_started": 33,
+          "minutes_per_game": 35.1
+        },
+        "scoring": {
+          "points_per_game": 19.7,
+          "field_goals_made": 228,
+          "field_goals_attempted": 478,
+          "field_goal_percentage": 47.7,
+          "three_point_field_goals_made": 92,
+          "three_point_field_goals_attempted": 227,
+          "three_point_field_goal_percentage": 40.5,
+          "free_throws_made": 102,
+          "free_throws_attempted": 132,
+          "free_throw_percentage": 77.3
+        },
+        "defense": {
+          "offensive_rebounds": 27,
+          "defensive_rebounds": 142,
+          "total_rebounds": 169,
+          "rebounds_per_game": 5.1,
+          "total_steals": 27,
+          "steals_per_game": 0.8,
+          "total_blocks": 14,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 53,
+          "assists_per_game": 1.6,
+          "turnovers": 68,
+          "turnovers_per_game": 2.1,
+          "assists_per_turnover": 0.8
+        }
+      }
+    },
+    {
+      "name": "Christian Braun",
+      "injury": null,
+      "info": {
+        "number": 2,
+        "position": "G",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 218,
+        "school_class": "Jr",
+        "hometown": "Burlington, KS"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 33,
+          "minutes_per_game": 34.0
+        },
+        "scoring": {
+          "points_per_game": 14.6,
+          "field_goals_made": 181,
+          "field_goals_attempted": 360,
+          "field_goal_percentage": 50.3,
+          "three_point_field_goals_made": 43,
+          "three_point_field_goals_attempted": 114,
+          "three_point_field_goal_percentage": 37.7,
+          "free_throws_made": 92,
+          "free_throws_attempted": 123,
+          "free_throw_percentage": 74.8
+        },
+        "defense": {
+          "offensive_rebounds": 51,
+          "defensive_rebounds": 166,
+          "total_rebounds": 217,
+          "rebounds_per_game": 6.4,
+          "total_steals": 36,
+          "steals_per_game": 1.1,
+          "total_blocks": 30,
+          "blocks_per_game": 0.9
+        },
+        "assists": {
+          "total_assists": 89,
+          "assists_per_game": 2.6,
+          "turnovers": 73,
+          "turnovers_per_game": 2.1,
+          "assists_per_turnover": 1.2
+        }
+      }
+    },
+    {
+      "name": "Zach Clemence",
+      "injury": null,
+      "info": {
+        "number": 21,
+        "position": "F",
+        "height": "6-10",
+        "height_inches": 82,
+        "weight_pounds": 225,
+        "school_class": "Fr",
+        "hometown": "San Antonio, TX"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 21,
+          "games_started": 0,
+          "minutes_per_game": 4.9
+        },
+        "scoring": {
+          "points_per_game": 2.3,
+          "field_goals_made": 14,
+          "field_goals_attempted": 33,
+          "field_goal_percentage": 42.4,
+          "three_point_field_goals_made": 6,
+          "three_point_field_goals_attempted": 19,
+          "three_point_field_goal_percentage": 31.6,
+          "free_throws_made": 14,
+          "free_throws_attempted": 28,
+          "free_throw_percentage": 50.0
+        },
+        "defense": {
+          "offensive_rebounds": 15,
+          "defensive_rebounds": 25,
+          "total_rebounds": 40,
+          "rebounds_per_game": 1.9,
+          "total_steals": 7,
+          "steals_per_game": 0.3,
+          "total_blocks": 7,
+          "blocks_per_game": 0.3
+        },
+        "assists": {
+          "total_assists": 7,
+          "assists_per_game": 0.3,
+          "turnovers": 6,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 1.2
+        }
+      }
+    },
+    {
+      "name": "Jalen Coleman-Lands",
+      "injury": null,
+      "info": {
+        "number": 55,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 190,
+        "school_class": "Sr",
+        "hometown": "Indianapolis, IN"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 33,
+          "games_started": 1,
+          "minutes_per_game": 8.9
+        },
+        "scoring": {
+          "points_per_game": 3.9,
+          "field_goals_made": 46,
+          "field_goals_attempted": 98,
+          "field_goal_percentage": 46.9,
+          "three_point_field_goals_made": 26,
+          "three_point_field_goals_attempted": 60,
+          "three_point_field_goal_percentage": 43.3,
+          "free_throws_made": 12,
+          "free_throws_attempted": 16,
+          "free_throw_percentage": 75.0
+        },
+        "defense": {
+          "offensive_rebounds": 8,
+          "defensive_rebounds": 17,
+          "total_rebounds": 25,
+          "rebounds_per_game": 0.8,
+          "total_steals": 7,
+          "steals_per_game": 0.2,
+          "total_blocks": 4,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 13,
+          "assists_per_game": 0.4,
+          "turnovers": 18,
+          "turnovers_per_game": 0.5,
+          "assists_per_turnover": 0.7
+        }
+      }
+    },
+    {
+      "name": "Kyle Cuffe Jr.",
+      "injury": {
+        "area": "Undisclosed"
+      },
+      "info": {
+        "number": 5,
+        "position": "G",
+        "height": "6-2",
+        "height_inches": 74,
+        "weight_pounds": 180,
+        "school_class": "Fr",
+        "hometown": "Harlem, NY"
+      },
+      "stats": null
+    },
+    {
+      "name": "Dajuan Harris Jr.",
+      "injury": null,
+      "info": {
+        "number": 3,
+        "position": "G",
+        "height": "6-1",
+        "height_inches": 73,
+        "weight_pounds": 170,
+        "school_class": "Soph",
+        "hometown": "Columbia, MO"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 33,
+          "minutes_per_game": 29.6
+        },
+        "scoring": {
+          "points_per_game": 5.2,
+          "field_goals_made": 73,
+          "field_goals_attempted": 176,
+          "field_goal_percentage": 41.5,
+          "three_point_field_goals_made": 14,
+          "three_point_field_goals_attempted": 51,
+          "three_point_field_goal_percentage": 27.5,
+          "free_throws_made": 16,
+          "free_throws_attempted": 20,
+          "free_throw_percentage": 80.0
+        },
+        "defense": {
+          "offensive_rebounds": 14,
+          "defensive_rebounds": 34,
+          "total_rebounds": 48,
+          "rebounds_per_game": 1.4,
+          "total_steals": 50,
+          "steals_per_game": 1.5,
+          "total_blocks": 11,
+          "blocks_per_game": 0.3
+        },
+        "assists": {
+          "total_assists": 148,
+          "assists_per_game": 4.4,
+          "turnovers": 49,
+          "turnovers_per_game": 1.4,
+          "assists_per_turnover": 3.0
+        }
+      }
+    },
+    {
+      "name": "Michael Jankovich",
+      "injury": null,
+      "info": {
+        "number": 20,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 190,
+        "school_class": "Jr",
+        "hometown": "Dallas, TX"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 10,
+          "games_started": 0,
+          "minutes_per_game": 1.6
+        },
+        "scoring": {
+          "points_per_game": 0.6,
+          "field_goals_made": 2,
+          "field_goals_attempted": 7,
+          "field_goal_percentage": 28.6,
+          "three_point_field_goals_made": 2,
+          "three_point_field_goals_attempted": 7,
+          "three_point_field_goal_percentage": 28.6,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1,
+          "total_rebounds": 2,
+          "rebounds_per_game": 0.2,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 0,
+          "turnovers_per_game": 0.0,
+          "assists_per_turnover": null
+        }
+      }
+    },
+    {
+      "name": "Mitch Lightfoot",
+      "injury": {
+        "area": "Knee"
+      },
+      "info": {
+        "number": 44,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 225,
+        "school_class": "Sr",
+        "hometown": "Gilbert, AZ"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 3,
+          "minutes_per_game": 12.4
+        },
+        "scoring": {
+          "points_per_game": 4.9,
+          "field_goals_made": 73,
+          "field_goals_attempted": 109,
+          "field_goal_percentage": 67.0,
+          "three_point_field_goals_made": 1,
+          "three_point_field_goals_attempted": 2,
+          "three_point_field_goal_percentage": 50.0,
+          "free_throws_made": 19,
+          "free_throws_attempted": 35,
+          "free_throw_percentage": 54.3
+        },
+        "defense": {
+          "offensive_rebounds": 35,
+          "defensive_rebounds": 62,
+          "total_rebounds": 97,
+          "rebounds_per_game": 2.9,
+          "total_steals": 9,
+          "steals_per_game": 0.3,
+          "total_blocks": 27,
+          "blocks_per_game": 0.8
+        },
+        "assists": {
+          "total_assists": 12,
+          "assists_per_game": 0.4,
+          "turnovers": 30,
+          "turnovers_per_game": 0.9,
+          "assists_per_turnover": 0.4
+        }
+      }
+    },
+    {
+      "name": "Cam Martin",
+      "injury": {
+        "area": "Not Injury Related"
+      },
+      "info": {
+        "number": 31,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 230,
+        "school_class": "Sr",
+        "hometown": "Yukon, OK"
+      },
+      "stats": null
+    },
+    {
+      "name": "Remy Martin",
+      "injury": null,
+      "info": {
+        "number": 11,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 175,
+        "school_class": "Sr",
+        "hometown": "Chatsworth, CA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 24,
+          "games_started": 13,
+          "minutes_per_game": 20.4
+        },
+        "scoring": {
+          "points_per_game": 7.3,
+          "field_goals_made": 62,
+          "field_goals_attempted": 141,
+          "field_goal_percentage": 44.0,
+          "three_point_field_goals_made": 19,
+          "three_point_field_goals_attempted": 55,
+          "three_point_field_goal_percentage": 34.5,
+          "free_throws_made": 32,
+          "free_throws_attempted": 41,
+          "free_throw_percentage": 78.0
+        },
+        "defense": {
+          "offensive_rebounds": 7,
+          "defensive_rebounds": 55,
+          "total_rebounds": 62,
+          "rebounds_per_game": 2.6,
+          "total_steals": 16,
+          "steals_per_game": 0.7,
+          "total_blocks": 1,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 60,
+          "assists_per_game": 2.5,
+          "turnovers": 34,
+          "turnovers_per_game": 1.4,
+          "assists_per_turnover": 1.8
+        }
+      }
+    },
+    {
+      "name": "Charlie McCarthy",
+      "injury": null,
+      "info": {
+        "number": 13,
+        "position": "G",
+        "height": "6-2",
+        "height_inches": 74,
+        "weight_pounds": 195,
+        "school_class": "Fr",
+        "hometown": "Rancho Mirage, CA"
+      },
+      "stats": null
+    },
+    {
+      "name": "David McCormack",
+      "injury": null,
+      "info": {
+        "number": 33,
+        "position": "F",
+        "height": "6-10",
+        "height_inches": 82,
+        "weight_pounds": 250,
+        "school_class": "Sr",
+        "hometown": "Norfolk, VA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 34,
+          "games_started": 31,
+          "minutes_per_game": 21.4
+        },
+        "scoring": {
+          "points_per_game": 10.1,
+          "field_goals_made": 119,
+          "field_goals_attempted": 242,
+          "field_goal_percentage": 49.2,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 2,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 107,
+          "free_throws_attempted": 141,
+          "free_throw_percentage": 75.9
+        },
+        "defense": {
+          "offensive_rebounds": 113,
+          "defensive_rebounds": 128,
+          "total_rebounds": 241,
+          "rebounds_per_game": 7.1,
+          "total_steals": 20,
+          "steals_per_game": 0.6,
+          "total_blocks": 29,
+          "blocks_per_game": 0.9
+        },
+        "assists": {
+          "total_assists": 33,
+          "assists_per_game": 1.0,
+          "turnovers": 55,
+          "turnovers_per_game": 1.6,
+          "assists_per_turnover": 0.6
+        }
+      }
+    },
+    {
+      "name": "Bobby Pettiford",
+      "injury": {
+        "area": "Abdomen"
+      },
+      "info": {
+        "number": 0,
+        "position": "G",
+        "height": "6-1",
+        "height_inches": 73,
+        "weight_pounds": 190,
+        "school_class": "Fr",
+        "hometown": "Durham, NC"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 14,
+          "games_started": 0,
+          "minutes_per_game": 7.9
+        },
+        "scoring": {
+          "points_per_game": 1.4,
+          "field_goals_made": 8,
+          "field_goals_attempted": 15,
+          "field_goal_percentage": 53.3,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 3,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 3,
+          "free_throws_attempted": 4,
+          "free_throw_percentage": 75.0
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 13,
+          "total_rebounds": 13,
+          "rebounds_per_game": 0.9,
+          "total_steals": 3,
+          "steals_per_game": 0.2,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 12,
+          "assists_per_game": 0.9,
+          "turnovers": 10,
+          "turnovers_per_game": 0.7,
+          "assists_per_turnover": 1.2
+        }
+      }
+    },
+    {
+      "name": "Chris Teahan",
+      "injury": null,
+      "info": {
+        "number": 12,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 195,
+        "school_class": "Sr",
+        "hometown": "Leawood, KS"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 13,
+          "games_started": 1,
+          "minutes_per_game": 1.8
+        },
+        "scoring": {
+          "points_per_game": 0.8,
+          "field_goals_made": 4,
+          "field_goals_attempted": 10,
+          "field_goal_percentage": 40.0,
+          "three_point_field_goals_made": 3,
+          "three_point_field_goals_attempted": 9,
+          "three_point_field_goal_percentage": 33.3,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 3,
+          "total_rebounds": 3,
+          "rebounds_per_game": 0.2,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.1,
+          "turnovers": 2,
+          "turnovers_per_game": 0.2,
+          "assists_per_turnover": 0.5
+        }
+      }
+    },
+    {
+      "name": "Dillon Wilhite",
+      "injury": {
+        "area": "Not Injury Related"
+      },
+      "info": {
+        "number": 15,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 240,
+        "school_class": "Fr",
+        "hometown": "San Diego, CA"
+      },
+      "stats": null
+    },
+    {
+      "name": "Jalen Wilson",
+      "injury": null,
+      "info": {
+        "number": 10,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 225,
+        "school_class": "Soph",
+        "hometown": "Denton, TX"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 31,
+          "games_started": 21,
+          "minutes_per_game": 28.9
+        },
+        "scoring": {
+          "points_per_game": 10.9,
+          "field_goals_made": 124,
+          "field_goals_attempted": 252,
+          "field_goal_percentage": 49.2,
+          "three_point_field_goals_made": 26,
+          "three_point_field_goals_attempted": 92,
+          "three_point_field_goal_percentage": 28.3,
+          "free_throws_made": 65,
+          "free_throws_attempted": 94,
+          "free_throw_percentage": 69.1
+        },
+        "defense": {
+          "offensive_rebounds": 42,
+          "defensive_rebounds": 175,
+          "total_rebounds": 217,
+          "rebounds_per_game": 7.0,
+          "total_steals": 30,
+          "steals_per_game": 1.0,
+          "total_blocks": 11,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 54,
+          "assists_per_game": 1.7,
+          "turnovers": 42,
+          "turnovers_per_game": 1.4,
+          "assists_per_turnover": 1.3
+        }
+      }
+    },
+    {
+      "name": "Joseph Yesufu",
+      "injury": null,
+      "info": {
+        "number": 1,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 180,
+        "school_class": "Soph",
+        "hometown": "Bolingbrook, IL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 0,
+          "minutes_per_game": 9.9
+        },
+        "scoring": {
+          "points_per_game": 2.4,
+          "field_goals_made": 27,
+          "field_goals_attempted": 80,
+          "field_goal_percentage": 33.8,
+          "three_point_field_goals_made": 11,
+          "three_point_field_goals_attempted": 42,
+          "three_point_field_goal_percentage": 26.2,
+          "free_throws_made": 7,
+          "free_throws_attempted": 10,
+          "free_throw_percentage": 70.0
+        },
+        "defense": {
+          "offensive_rebounds": 6,
+          "defensive_rebounds": 22,
+          "total_rebounds": 28,
+          "rebounds_per_game": 0.9,
+          "total_steals": 11,
+          "steals_per_game": 0.4,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 33,
+          "assists_per_game": 1.1,
+          "turnovers": 16,
+          "turnovers_per_game": 0.5,
+          "assists_per_turnover": 2.1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "name": "Cal State Fullerton Titans - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/CSFULL/cal-state-fullerton-titans/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "E.J. Anosike",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-7",
+          "236",
+          "Sr",
+          "East Orange, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Grayson Carper",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-6",
+          "190",
+          "Jr",
+          "Fresno, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cameron Carter",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "G",
+          "6-2",
+          "180",
+          "Jr",
+          "Reno, NV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ibrahim Famouke Doumbia",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-7",
+          "205",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Harris",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-1",
+          "180",
+          "Sr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Lado Laku",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-10",
+          "215",
+          "Soph",
+          "Dallas, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Vincent Lee",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-8",
+          "230",
+          "Jr",
+          "Midlothian, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dante Maddox Jr.",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "G",
+          "6-2",
+          "195",
+          "Soph",
+          "Chicago Heights, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tray Maddox Jr.",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-6",
+          "200",
+          "Sr",
+          "Novi, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Damari Milstead",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-2",
+          "195",
+          "Sr",
+          "Oakland, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tory San Antonio",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-3",
+          "165",
+          "Jr",
+          "Moreno Valley, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Landis Spivey",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-5",
+          "170",
+          "Sr",
+          "Stockton, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Latrell Wrightsell Jr.",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-3",
+          "189",
+          "Soph",
+          "Omaha, NE"
+        ]
+      }
+    ]
+  }
+}

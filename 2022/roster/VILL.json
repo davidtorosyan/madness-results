@@ -1,0 +1,233 @@
+{
+  "name": "Villanova Wildcats - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/NOVA/villanova-wildcats/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Bryan Antoine",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-5",
+          "180",
+          "Jr",
+          "Tinton Falls, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Arcidiacono",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-5",
+          "200",
+          "Jr",
+          "Langhorne, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Angelo Brizzi",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-3",
+          "180",
+          "Fr",
+          "Warrenton, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dhamir Cosby-Roundtree",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-9",
+          "250",
+          "Sr",
+          "Philadelphia, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Caleb Daniels",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-4",
+          "210",
+          "Sr",
+          "New Orleans, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eric Dixon",
+          "injury": null
+        },
+        "values": [
+          "43",
+          "F",
+          "6-8",
+          "255",
+          "Soph",
+          "Willow Grove, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Collin Gillespie",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-3",
+          "195",
+          "Sr",
+          "Huntingdon Valley, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Longino",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-5",
+          "220",
+          "Fr",
+          "Doyelstown, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin Moore",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-4",
+          "210",
+          "Jr",
+          "Fort Washington, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nnanna Njoku",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "22",
+          "F",
+          "6-9",
+          "260",
+          "Fr",
+          "Newark, DE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trey Patterson",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-9",
+          "220",
+          "Fr",
+          "Somerset, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jermaine Samuels",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-7",
+          "230",
+          "Sr",
+          "Franklin, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Slater",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-7",
+          "220",
+          "Sr",
+          "Centerville, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kevin Voigt",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-5",
+          "210",
+          "Sr",
+          "Massapeequa, NY"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,879 @@
+{
+  "name": "Cal State Fullerton Titans - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/CSFULL/cal-state-fullerton-titans/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "E.J. Anosike",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "30",
+            "32.5",
+            "16.5",
+            "184",
+            "355",
+            "51.8",
+            "8",
+            "30",
+            "26.7",
+            "134",
+            "173",
+            "77.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Damari Milstead",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "30",
+            "30.8",
+            "12.1",
+            "132",
+            "305",
+            "43.3",
+            "45",
+            "122",
+            "36.9",
+            "67",
+            "86",
+            "77.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tray Maddox Jr.",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "8",
+            "25.9",
+            "9.4",
+            "95",
+            "235",
+            "40.4",
+            "39",
+            "120",
+            "32.5",
+            "45",
+            "54",
+            "83.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jalen Harris",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "2",
+            "18.8",
+            "9.1",
+            "78",
+            "181",
+            "43.1",
+            "25",
+            "59",
+            "42.4",
+            "66",
+            "82",
+            "80.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Vincent Lee",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "28",
+            "27",
+            "7.9",
+            "96",
+            "179",
+            "53.6",
+            "0",
+            "1",
+            "0.0",
+            "54",
+            "78",
+            "69.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dante Maddox Jr.",
+            "position": "G"
+          },
+          "values": [
+            "22",
+            "11",
+            "20",
+            "7.0",
+            "57",
+            "135",
+            "42.2",
+            "15",
+            "59",
+            "25.4",
+            "25",
+            "35",
+            "71.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Latrell Wrightsell Jr.",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "19",
+            "26.6",
+            "6.9",
+            "69",
+            "190",
+            "36.3",
+            "22",
+            "77",
+            "28.6",
+            "47",
+            "54",
+            "87.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tory San Antonio",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "24",
+            "21.1",
+            "3.2",
+            "32",
+            "82",
+            "39.0",
+            "13",
+            "36",
+            "36.1",
+            "13",
+            "23",
+            "56.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Grayson Carper",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "4.1",
+            "2.0",
+            "7",
+            "11",
+            "63.6",
+            "4",
+            "7",
+            "57.1",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lado Laku",
+            "position": "F"
+          },
+          "values": [
+            "19",
+            "1",
+            "6.1",
+            "1.7",
+            "8",
+            "22",
+            "36.4",
+            "0",
+            "0",
+            "\u2014",
+            "16",
+            "22",
+            "72.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ibrahim Famouke Doumbia",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "2",
+            "6.3",
+            "1.1",
+            "10",
+            "20",
+            "50.0",
+            "0",
+            "5",
+            "0.0",
+            "4",
+            "10",
+            "40.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Landis Spivey",
+            "position": "G"
+          },
+          "values": [
+            "3",
+            "0",
+            "3.3",
+            "0.0",
+            "0",
+            "2",
+            "0.0",
+            "0",
+            "2",
+            "0.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cameron Carter",
+            "position": "G"
+          },
+          "values": [
+            "2",
+            "0",
+            "0.5",
+            "0.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "E.J. Anosike",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "30",
+            "94",
+            "163",
+            "257",
+            "8.3",
+            "27",
+            "0.90",
+            "10",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Vincent Lee",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "28",
+            "72",
+            "118",
+            "190",
+            "6.1",
+            "15",
+            "0.50",
+            "12",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tory San Antonio",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "24",
+            "17",
+            "85",
+            "102",
+            "3.6",
+            "20",
+            "0.70",
+            "12",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Damari Milstead",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "30",
+            "16",
+            "81",
+            "97",
+            "3.1",
+            "61",
+            "2.00",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Latrell Wrightsell Jr.",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "19",
+            "8",
+            "76",
+            "84",
+            "2.8",
+            "24",
+            "0.80",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dante Maddox Jr.",
+            "position": "G"
+          },
+          "values": [
+            "22",
+            "11",
+            "17",
+            "42",
+            "59",
+            "2.7",
+            "20",
+            "0.90",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tray Maddox Jr.",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "8",
+            "6",
+            "69",
+            "75",
+            "2.6",
+            "31",
+            "1.10",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ibrahim Famouke Doumbia",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "2",
+            "12",
+            "31",
+            "43",
+            "2.0",
+            "2",
+            "0.10",
+            "8",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jalen Harris",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "2",
+            "7",
+            "20",
+            "27",
+            "1.0",
+            "22",
+            "0.80",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lado Laku",
+            "position": "F"
+          },
+          "values": [
+            "19",
+            "1",
+            "10",
+            "5",
+            "15",
+            "0.8",
+            "0",
+            "0.00",
+            "6",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Grayson Carper",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "3",
+            "3",
+            "6",
+            "0.7",
+            "2",
+            "0.20",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Landis Spivey",
+            "position": "G"
+          },
+          "values": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "1",
+            "0.30",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cameron Carter",
+            "position": "G"
+          },
+          "values": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Damari Milstead",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "30",
+            "88",
+            "2.8",
+            "58",
+            "1.9",
+            "1.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tray Maddox Jr.",
+            "position": "G"
+          },
+          "values": [
+            "29",
+            "8",
+            "53",
+            "1.8",
+            "51",
+            "1.8",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "E.J. Anosike",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "30",
+            "56",
+            "1.8",
+            "61",
+            "2.0",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Latrell Wrightsell Jr.",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "19",
+            "51",
+            "1.7",
+            "41",
+            "1.4",
+            "1.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tory San Antonio",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "24",
+            "32",
+            "1.1",
+            "22",
+            "0.8",
+            "1.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Dante Maddox Jr.",
+            "position": "G"
+          },
+          "values": [
+            "22",
+            "11",
+            "24",
+            "1.1",
+            "28",
+            "1.3",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jalen Harris",
+            "position": "G"
+          },
+          "values": [
+            "27",
+            "2",
+            "26",
+            "1.0",
+            "37",
+            "1.4",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Vincent Lee",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "28",
+            "16",
+            "0.5",
+            "43",
+            "1.4",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lado Laku",
+            "position": "F"
+          },
+          "values": [
+            "19",
+            "1",
+            "1",
+            "0.1",
+            "10",
+            "0.5",
+            "0.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ibrahim Famouke Doumbia",
+            "position": "F"
+          },
+          "values": [
+            "22",
+            "2",
+            "2",
+            "0.1",
+            "5",
+            "0.2",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Grayson Carper",
+            "position": "G"
+          },
+          "values": [
+            "9",
+            "0",
+            "1",
+            "0.1",
+            "3",
+            "0.3",
+            "0.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Landis Spivey",
+            "position": "G"
+          },
+          "values": [
+            "3",
+            "0",
+            "0",
+            "0.0",
+            "2",
+            "0.7",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cameron Carter",
+            "position": "G"
+          },
+          "values": [
+            "2",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        }
+      ]
+    }
+  ]
+}

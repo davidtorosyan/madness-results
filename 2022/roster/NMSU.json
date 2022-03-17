@@ -1,0 +1,289 @@
+{
+  "name": "New Mexico St. Aggies - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/NMEXST/new-mexico-st-aggies/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Teddy Allen",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-6",
+          "212",
+          "Jr",
+          "Phoenix, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Yuat Alok",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "F",
+          "6-11",
+          "211",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Marchelus Avery",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-8",
+          "205",
+          "Fr",
+          "Richmond, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Marsei Caston",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "11",
+          "G",
+          "6-3",
+          "173",
+          "Soph",
+          "Windsor, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Virshon Cotton",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-2",
+          "170",
+          "Jr",
+          "Milwaukee, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cameron Crawford",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-1",
+          "165",
+          "Fr",
+          "Kirtland, NM"
+        ]
+      },
+      {
+        "player": {
+          "name": "Clayton Henry",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-4",
+          "201",
+          "Sr",
+          "Calgary, AB"
+        ]
+      },
+      {
+        "player": {
+          "name": "Johnny McCants",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-7",
+          "229",
+          "Sr",
+          "Las Cruces, NM"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mario McKinney Jr.",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-1",
+          "175",
+          "Soph",
+          "St. Louis, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Will McNair Jr.",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-10",
+          "277",
+          "Soph",
+          "Philadelphia, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jorge Moreno",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-10",
+          "273",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Shakiru Odunewu",
+          "injury": null
+        },
+        "values": [
+          "\u2014",
+          "F",
+          "6-10",
+          "255",
+          "Fr",
+          "Dallas, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kiran Oliver",
+          "injury": null
+        },
+        "values": [
+          "\u2014",
+          "G",
+          "6-3",
+          "185",
+          "Fr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mike Peake",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-7",
+          "218",
+          "Soph",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nate Pryor",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-3",
+          "175",
+          "Jr",
+          "Seattle, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jabari Rice",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-4",
+          "180",
+          "Jr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Donnie Tillman",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-7",
+          "225",
+          "Sr",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Levar Williams",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-1",
+          "190",
+          "Soph",
+          "Hyde Park, MA"
+        ]
+      }
+    ]
+  }
+}

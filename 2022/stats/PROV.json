@@ -1,0 +1,825 @@
+{
+  "name": "Providence Friars - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/PROV/providence-friars/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Nate Watson",
+            "position": "C"
+          },
+          "values": [
+            "30",
+            "30",
+            "28.5",
+            "13.8",
+            "169",
+            "303",
+            "55.8",
+            "0",
+            "0",
+            "\u2014",
+            "77",
+            "130",
+            "59.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Al Durham",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "28",
+            "34.7",
+            "13.4",
+            "96",
+            "280",
+            "34.3",
+            "22",
+            "100",
+            "22.0",
+            "160",
+            "189",
+            "84.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Bynum",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "10",
+            "28",
+            "12.7",
+            "109",
+            "256",
+            "42.6",
+            "40",
+            "96",
+            "41.7",
+            "73",
+            "98",
+            "74.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "A.J. Reeves",
+            "position": "G"
+          },
+          "values": [
+            "25",
+            "22",
+            "25.2",
+            "10.0",
+            "83",
+            "218",
+            "38.1",
+            "55",
+            "146",
+            "37.7",
+            "29",
+            "39",
+            "74.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Noah Horchler",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "30",
+            "33.2",
+            "9.6",
+            "98",
+            "218",
+            "45.0",
+            "54",
+            "135",
+            "40.0",
+            "38",
+            "50",
+            "76.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Justin Minaya",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "22",
+            "32.9",
+            "6.4",
+            "68",
+            "165",
+            "41.2",
+            "30",
+            "94",
+            "31.9",
+            "21",
+            "39",
+            "53.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ed Croswell",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "14.4",
+            "5.2",
+            "68",
+            "102",
+            "66.7",
+            "0",
+            "1",
+            "0.0",
+            "21",
+            "40",
+            "52.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alyn Breed",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "8",
+            "13.4",
+            "3.3",
+            "27",
+            "97",
+            "27.8",
+            "8",
+            "39",
+            "20.5",
+            "37",
+            "45",
+            "82.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brycen Goodine",
+            "position": "G"
+          },
+          "values": [
+            "19",
+            "0",
+            "6.4",
+            "2.1",
+            "10",
+            "31",
+            "32.3",
+            "8",
+            "25",
+            "32.0",
+            "12",
+            "13",
+            "92.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matteus Case",
+            "position": "G"
+          },
+          "values": [
+            "3",
+            "0",
+            "1.7",
+            "1.3",
+            "2",
+            "2",
+            "100.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "1",
+            "0.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Andrew Fonts",
+            "position": "G"
+          },
+          "values": [
+            "10",
+            "0",
+            "2.2",
+            "0.9",
+            "3",
+            "4",
+            "75.0",
+            "2",
+            "3",
+            "66.7",
+            "1",
+            "2",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Luke Fonts",
+            "position": "G"
+          },
+          "values": [
+            "1",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Noah Horchler",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "30",
+            "51",
+            "198",
+            "249",
+            "8.3",
+            "24",
+            "0.80",
+            "24",
+            "0.80"
+          ]
+        },
+        {
+          "player": {
+            "name": "Justin Minaya",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "22",
+            "59",
+            "108",
+            "167",
+            "5.8",
+            "25",
+            "0.90",
+            "25",
+            "0.90"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nate Watson",
+            "position": "C"
+          },
+          "values": [
+            "30",
+            "30",
+            "59",
+            "104",
+            "163",
+            "5.4",
+            "10",
+            "0.30",
+            "23",
+            "0.80"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ed Croswell",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "54",
+            "81",
+            "135",
+            "4.5",
+            "15",
+            "0.50",
+            "20",
+            "0.70"
+          ]
+        },
+        {
+          "player": {
+            "name": "Al Durham",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "28",
+            "9",
+            "77",
+            "86",
+            "3.1",
+            "15",
+            "0.50",
+            "10",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Bynum",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "10",
+            "6",
+            "74",
+            "80",
+            "3.1",
+            "28",
+            "1.10",
+            "5",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "A.J. Reeves",
+            "position": "G"
+          },
+          "values": [
+            "25",
+            "22",
+            "17",
+            "54",
+            "71",
+            "2.8",
+            "11",
+            "0.40",
+            "4",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alyn Breed",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "8",
+            "8",
+            "31",
+            "39",
+            "1.3",
+            "16",
+            "0.50",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brycen Goodine",
+            "position": "G"
+          },
+          "values": [
+            "19",
+            "0",
+            "2",
+            "11",
+            "13",
+            "0.7",
+            "7",
+            "0.40",
+            "1",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Andrew Fonts",
+            "position": "G"
+          },
+          "values": [
+            "10",
+            "0",
+            "0",
+            "3",
+            "3",
+            "0.3",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matteus Case",
+            "position": "G"
+          },
+          "values": [
+            "3",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0.3",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Luke Fonts",
+            "position": "G"
+          },
+          "values": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jared Bynum",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "10",
+            "110",
+            "4.2",
+            "56",
+            "2.2",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Al Durham",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "28",
+            "93",
+            "3.3",
+            "68",
+            "2.4",
+            "1.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "A.J. Reeves",
+            "position": "G"
+          },
+          "values": [
+            "25",
+            "22",
+            "46",
+            "1.8",
+            "21",
+            "0.8",
+            "2.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Noah Horchler",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "30",
+            "50",
+            "1.7",
+            "48",
+            "1.6",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Justin Minaya",
+            "position": "F"
+          },
+          "values": [
+            "29",
+            "22",
+            "42",
+            "1.4",
+            "37",
+            "1.3",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alyn Breed",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "8",
+            "26",
+            "0.9",
+            "29",
+            "1.0",
+            "0.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nate Watson",
+            "position": "C"
+          },
+          "values": [
+            "30",
+            "30",
+            "16",
+            "0.5",
+            "34",
+            "1.1",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ed Croswell",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "10",
+            "0.3",
+            "27",
+            "0.9",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brycen Goodine",
+            "position": "G"
+          },
+          "values": [
+            "19",
+            "0",
+            "2",
+            "0.1",
+            "6",
+            "0.3",
+            "0.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Andrew Fonts",
+            "position": "G"
+          },
+          "values": [
+            "10",
+            "0",
+            "1",
+            "0.1",
+            "1",
+            "0.1",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Luke Fonts",
+            "position": "G"
+          },
+          "values": [
+            "1",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matteus Case",
+            "position": "G"
+          },
+          "values": [
+            "3",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        }
+      ]
+    }
+  ]
+}

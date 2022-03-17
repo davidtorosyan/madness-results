@@ -1,0 +1,289 @@
+{
+  "name": "Michigan State Spartans - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/MICHST/michigan-state-spartans/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Jaden Akins",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-4",
+          "180",
+          "Fr",
+          "Farmington, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Marcus Bingham Jr.",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "F",
+          "7-0",
+          "230",
+          "Sr",
+          "Grand Rapids, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Pierre Brooks",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-6",
+          "225",
+          "Fr",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Gabe Brown",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "F",
+          "6-8",
+          "215",
+          "Sr",
+          "Ypsilanti, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Maliq Carr",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-5",
+          "245",
+          "Fr",
+          "Oak Park, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Max Christie",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-6",
+          "190",
+          "Fr",
+          "Arlington Heights, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keon Coleman",
+          "injury": null
+        },
+        "values": [
+          "40",
+          "F",
+          "6-4",
+          "210",
+          "Fr",
+          "Opelousas, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Malik Hall",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-8",
+          "225",
+          "Jr",
+          "Aurora, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joey Hauser",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-9",
+          "230",
+          "Sr",
+          "Stevens Point, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "A.J. Hoggard",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-4",
+          "210",
+          "Soph",
+          "Coatesville, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Steven Izzo",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "5-8",
+          "150",
+          "Jr",
+          "East Lansing, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Julius Marble II",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-9",
+          "245",
+          "Jr",
+          "Dallas, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Peter Nwoke",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-7",
+          "215",
+          "Fr",
+          "Lagos, AC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Peterson",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-7",
+          "205",
+          "Sr",
+          "Rockford, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mady Sissoko",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "C",
+          "6-9",
+          "235",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Davis Smith",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-0",
+          "160",
+          "Soph",
+          "Atlanta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyson Walker",
+          "injury": {
+            "area": "Ankle:"
+          }
+        },
+        "values": [
+          "2",
+          "G",
+          "6-0",
+          "175",
+          "Jr",
+          "Westbury, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jason Whitens",
+          "injury": null
+        },
+        "values": [
+          "43",
+          "G",
+          "6-5",
+          "210",
+          "Sr",
+          "Powers, MI"
+        ]
+      }
+    ]
+  }
+}

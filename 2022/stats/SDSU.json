@@ -1,0 +1,987 @@
+{
+  "name": "San Diego State Aztecs - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/SDGST/san-diego-state-aztecs/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Matt Bradley",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "31.3",
+            "17.0",
+            "180",
+            "406",
+            "44.3",
+            "57",
+            "137",
+            "41.6",
+            "109",
+            "138",
+            "79.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Pulliam",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "30.8",
+            "8.5",
+            "96",
+            "244",
+            "39.3",
+            "19",
+            "61",
+            "31.1",
+            "44",
+            "63",
+            "69.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lamont Butler",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "24",
+            "25.7",
+            "7.5",
+            "69",
+            "177",
+            "39.0",
+            "22",
+            "68",
+            "32.4",
+            "34",
+            "44",
+            "77.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nathan Mensah",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "25",
+            "7.3",
+            "92",
+            "190",
+            "48.4",
+            "1",
+            "4",
+            "25.0",
+            "40",
+            "75",
+            "53.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keshad Johnson",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "23.7",
+            "7.2",
+            "85",
+            "154",
+            "55.2",
+            "6",
+            "31",
+            "19.4",
+            "47",
+            "73",
+            "64.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chad Baker",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "12.7",
+            "6.0",
+            "61",
+            "149",
+            "40.9",
+            "21",
+            "54",
+            "38.9",
+            "38",
+            "42",
+            "90.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Adam Seiko",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "7",
+            "23.3",
+            "5.3",
+            "48",
+            "116",
+            "41.4",
+            "37",
+            "90",
+            "41.1",
+            "15",
+            "22",
+            "68.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Aguek Arop",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "0",
+            "14.3",
+            "3.4",
+            "34",
+            "74",
+            "45.9",
+            "3",
+            "8",
+            "37.5",
+            "11",
+            "24",
+            "45.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joshua Tomaic",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "12.6",
+            "3.0",
+            "31",
+            "66",
+            "47.0",
+            "11",
+            "27",
+            "40.7",
+            "16",
+            "22",
+            "72.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Dinwiddie Jr.",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "1",
+            "11.3",
+            "2.8",
+            "16",
+            "56",
+            "28.6",
+            "10",
+            "37",
+            "27.0",
+            "3",
+            "4",
+            "75.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tahirou Diabate",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "0",
+            "7.9",
+            "2.0",
+            "18",
+            "49",
+            "36.7",
+            "0",
+            "2",
+            "0.0",
+            "12",
+            "24",
+            "50.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cade Alger",
+            "position": "F"
+          },
+          "values": [
+            "7",
+            "0",
+            "2",
+            "0.6",
+            "2",
+            "8",
+            "25.0",
+            "0",
+            "3",
+            "0.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Barnett",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "2.1",
+            "0.5",
+            "2",
+            "4",
+            "50.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyler Broughton",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "1.4",
+            "0.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Triston Broughton",
+            "position": "G"
+          },
+          "values": [
+            "4",
+            "0",
+            "1.5",
+            "0.0",
+            "0",
+            "4",
+            "0.0",
+            "0",
+            "1",
+            "0.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Nathan Mensah",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "76",
+            "143",
+            "219",
+            "7.1",
+            "26",
+            "0.80",
+            "69",
+            "2.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matt Bradley",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "24",
+            "142",
+            "166",
+            "5.4",
+            "33",
+            "1.10",
+            "6",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keshad Johnson",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "41",
+            "101",
+            "142",
+            "4.6",
+            "20",
+            "0.60",
+            "19",
+            "0.60"
+          ]
+        },
+        {
+          "player": {
+            "name": "Aguek Arop",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "0",
+            "37",
+            "43",
+            "80",
+            "3.3",
+            "22",
+            "0.90",
+            "6",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Trey Pulliam",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "5",
+            "70",
+            "75",
+            "2.5",
+            "32",
+            "1.10",
+            "4",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tahirou Diabate",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "0",
+            "19",
+            "35",
+            "54",
+            "2.3",
+            "2",
+            "0.10",
+            "11",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joshua Tomaic",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "21",
+            "39",
+            "60",
+            "2.0",
+            "7",
+            "0.20",
+            "12",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Adam Seiko",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "7",
+            "7",
+            "48",
+            "55",
+            "2.0",
+            "14",
+            "0.50",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lamont Butler",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "24",
+            "10",
+            "41",
+            "51",
+            "2.0",
+            "47",
+            "1.80",
+            "4",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chad Baker",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "9",
+            "51",
+            "60",
+            "2.0",
+            "21",
+            "0.70",
+            "14",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Dinwiddie Jr.",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "1",
+            "0",
+            "15",
+            "15",
+            "0.9",
+            "4",
+            "0.30",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyler Broughton",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "3",
+            "1",
+            "4",
+            "0.8",
+            "1",
+            "0.20",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Triston Broughton",
+            "position": "G"
+          },
+          "values": [
+            "4",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0.3",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Barnett",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "1",
+            "1",
+            "2",
+            "0.3",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cade Alger",
+            "position": "F"
+          },
+          "values": [
+            "7",
+            "0",
+            "0",
+            "2",
+            "2",
+            "0.3",
+            "2",
+            "0.30",
+            "1",
+            "0.10"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Trey Pulliam",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "30",
+            "103",
+            "3.4",
+            "63",
+            "2.1",
+            "1.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Matt Bradley",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "31",
+            "81",
+            "2.6",
+            "81",
+            "2.6",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Lamont Butler",
+            "position": "G"
+          },
+          "values": [
+            "26",
+            "24",
+            "55",
+            "2.1",
+            "51",
+            "2.0",
+            "1.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Adam Seiko",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "7",
+            "27",
+            "1.0",
+            "22",
+            "0.8",
+            "1.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keshad Johnson",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "30",
+            "1.0",
+            "36",
+            "1.2",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Nathan Mensah",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "20",
+            "0.6",
+            "40",
+            "1.3",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Chad Baker",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "15",
+            "0.5",
+            "22",
+            "0.7",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Aguek Arop",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "0",
+            "11",
+            "0.5",
+            "21",
+            "0.9",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joshua Tomaic",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "0",
+            "12",
+            "0.4",
+            "25",
+            "0.8",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keith Dinwiddie Jr.",
+            "position": "G"
+          },
+          "values": [
+            "16",
+            "1",
+            "7",
+            "0.4",
+            "7",
+            "0.4",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Triston Broughton",
+            "position": "G"
+          },
+          "values": [
+            "4",
+            "0",
+            "1",
+            "0.3",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyler Broughton",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "1",
+            "0.2",
+            "1",
+            "0.2",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Barnett",
+            "position": "G"
+          },
+          "values": [
+            "8",
+            "0",
+            "1",
+            "0.1",
+            "1",
+            "0.1",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tahirou Diabate",
+            "position": "F"
+          },
+          "values": [
+            "24",
+            "0",
+            "1",
+            "0.0",
+            "9",
+            "0.4",
+            "0.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Cade Alger",
+            "position": "F"
+          },
+          "values": [
+            "7",
+            "0",
+            "0",
+            "0.0",
+            "1",
+            "0.1",
+            "0.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

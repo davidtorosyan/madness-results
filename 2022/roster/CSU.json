@@ -1,0 +1,245 @@
+{
+  "name": "Colorado State Rams - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/COLOST/colorado-state-rams/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Nick Bassett",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-5",
+          "205",
+          "Jr",
+          "Colorado Springs, CO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Baylor Hebb",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-2",
+          "180",
+          "Soph",
+          "Colleyville, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chandler Jacobs",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-3",
+          "185",
+          "Sr",
+          "Missouri City, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jacob Jennissen",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "C",
+          "7-1",
+          "240",
+          "Soph",
+          "Sauk centre, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Lake",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-4",
+          "190",
+          "Fr",
+          "Waxahachie, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kendle Moore",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-0",
+          "155",
+          "Sr",
+          "Danville, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "James Moors",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-10",
+          "260",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Rivera",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-5",
+          "210",
+          "Soph",
+          "Geneseo, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "David Roddy",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-6",
+          "255",
+          "Jr",
+          "Minneapolis, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Scott",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-2",
+          "180",
+          "Fr",
+          "Surprise, AZ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Stevens",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-0",
+          "185",
+          "Jr",
+          "Allen, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Adam Thistlewood",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "F",
+          "6-8",
+          "225",
+          "Sr",
+          "Golden, CO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dischon Thomas",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "F",
+          "6-8",
+          "235",
+          "Jr",
+          "Durham, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Tonje",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-5",
+          "210",
+          "Jr",
+          "Omaha, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trace Young",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-3",
+          "180",
+          "Soph",
+          "Austin, TX"
+        ]
+      }
+    ]
+  }
+}

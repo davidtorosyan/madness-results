@@ -1,0 +1,279 @@
+{
+  "name": "Wisconsin Badgers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/WISC/wisconsin-badgers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Lorne Bowman II",
+          "injury": {
+            "area": "Illness:"
+          }
+        },
+        "values": [
+          "11",
+          "G",
+          "6-2",
+          "210",
+          "Fr",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ben Carlson",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-9",
+          "226",
+          "Soph",
+          "Woodburry, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Steven Crowl",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "7-0",
+          "234",
+          "Soph",
+          "Eagan, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Davis",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-4",
+          "198",
+          "Soph",
+          "La Crosse, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Johnny Davis",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-5",
+          "194",
+          "Soph",
+          "La Crosse, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brad Davison",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-4",
+          "200",
+          "Sr",
+          "Maple Grove, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Carter Gilmore",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-7",
+          "224",
+          "Soph",
+          "Hartland, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chucky Hepburn",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-2",
+          "211",
+          "Fr",
+          "Omaha, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Carter Higginbottom",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-0",
+          "193",
+          "Jr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Hodges",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "21",
+          "F",
+          "6-9",
+          "239",
+          "Fr",
+          "Schaumburg, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Markus Ilver",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-8",
+          "219",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaac Lindsey",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-4",
+          "184",
+          "Soph",
+          "Mineral Point, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matthew Mors",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "32",
+          "F",
+          "6-7",
+          "241",
+          "Fr",
+          "Yankton, SD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jahcobi Neath",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-4",
+          "196",
+          "Jr",
+          "Toronto, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin Taphorn",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-5",
+          "208",
+          "Soph",
+          "Pekin, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Vogt",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "C",
+          "7-0",
+          "257",
+          "Sr",
+          "Mayfield, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Wahl",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-9",
+          "221",
+          "Jr",
+          "Lakeville, MN"
+        ]
+      }
+    ]
+  }
+}

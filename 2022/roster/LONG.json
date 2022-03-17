@@ -1,0 +1,259 @@
+{
+  "name": "Longwood Lancers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/LONGWD/longwood-lancers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Michael Christmas",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-6",
+          "225",
+          "Jr",
+          "Virginia Beach, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaylani Darden",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-5",
+          "185",
+          "Fr",
+          "Norflok, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jesper Granlund",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-6",
+          "210",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trey Hicks",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-8",
+          "210",
+          "Fr",
+          "Louisville, KY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Justin Hill",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-0",
+          "185",
+          "Soph",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "DA Houston",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-1",
+          "212",
+          "Soph",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ga'Khari Lacount",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-1",
+          "175",
+          "Fr",
+          "Miami, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nate Lliteras",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-7",
+          "210",
+          "Soph",
+          "Seward, NE"
+        ]
+      },
+      {
+        "player": {
+          "name": "Leslie Nkereuwem",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "F",
+          "6-7",
+          "225",
+          "Jr",
+          "Lawrenceville, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cameron O'Conner",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-5",
+          "185",
+          "Jr",
+          "Roanoke, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Prosper Obidiebube",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-7",
+          "210",
+          "Jr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Perkins",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-1",
+          "190",
+          "Sr",
+          "Greensboro, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "DeShaun Wade",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-2",
+          "200",
+          "Sr",
+          "Virginia Beach, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zac Watson",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-7",
+          "215",
+          "Sr",
+          "Plano, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Wilkins",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-4",
+          "220",
+          "Sr",
+          "Winston-Salem, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "C.J. Williams",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "G",
+          "6-0",
+          "180",
+          "Sr",
+          "Chester, VA"
+        ]
+      }
+    ]
+  }
+}

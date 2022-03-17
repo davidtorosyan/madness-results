@@ -1,0 +1,259 @@
+{
+  "name": "Rutgers Scarlet Knights - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/RUT/rutgers-scarlet-knights/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Geo Baker",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-4",
+          "185",
+          "Sr",
+          "Derry, NH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andrew Fulin",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-6",
+          "195",
+          "Jr",
+          "Demarest, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ralph Gonzales-Agee",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-8",
+          "245",
+          "Sr",
+          "Victorville, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ron Harper Jr.",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-6",
+          "245",
+          "Sr",
+          "Franklin Lakes, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aundre Hyatt",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-6",
+          "227",
+          "Soph",
+          "Bronx, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaden Jones",
+          "injury": null
+        },
+        "values": [
+          "45",
+          "G",
+          "6-8",
+          "220",
+          "Fr",
+          "Dallas, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mawot Mag",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-7",
+          "216",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Caleb McConnell",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-7",
+          "200",
+          "Sr",
+          "Jacksonville, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Miller",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-2",
+          "200",
+          "Fr",
+          "Frederick, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Paul Mulcahy",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-6",
+          "213",
+          "Jr",
+          "Bayonne, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Luke Nathan",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "F",
+          "6-11",
+          "240",
+          "Sr",
+          "Randolph, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Clifford Omoruyi",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "C",
+          "6-11",
+          "240",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Oskar Palmquist",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-8",
+          "220",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dean Reiber",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-10",
+          "225",
+          "Soph",
+          "Greensboro, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Logan Stephens",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-2",
+          "197",
+          "Fr",
+          "Decatur, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Aiden Terry",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "5-10",
+          "160",
+          "Soph",
+          "Mt. Washington, KY"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "name": "Duke Blue Devils - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/DUKE/duke-blue-devils/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Joey Baker",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-6",
+          "206",
+          "Sr",
+          "Fayetteville, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Paolo Banchero",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-10",
+          "250",
+          "Fr",
+          "Seattle, WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaylen Blakes",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-1",
+          "208",
+          "Fr",
+          "Somerset, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Stanley Borden",
+          "injury": null
+        },
+        "values": [
+          "52",
+          "C",
+          "7-0",
+          "240",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "AJ Griffin",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-6",
+          "222",
+          "Fr",
+          "White Plains, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Spencer Hubbard",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "5-8",
+          "160",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Theo John",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-9",
+          "242",
+          "Sr",
+          "Minneapolis, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bates Jones",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-8",
+          "222",
+          "Sr",
+          "Charlotte, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trevor Keels",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-4",
+          "221",
+          "Fr",
+          "Clinton, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Wendell Moore Jr.",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "F",
+          "6-5",
+          "213",
+          "Jr",
+          "Charlotte, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jeremy Roach",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-1",
+          "172",
+          "Soph",
+          "Leesburg, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Savarino",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-0",
+          "182",
+          "Jr",
+          "Durham, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mark Williams",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "C",
+          "7-0",
+          "242",
+          "Soph",
+          "Virginia Beach, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Keenan Worthington",
+          "injury": null
+        },
+        "values": [
+          "45",
+          "F",
+          "6-9",
+          "224",
+          "Jr",
+          "Chapel Hill, NC"
+        ]
+      }
+    ]
+  }
+}

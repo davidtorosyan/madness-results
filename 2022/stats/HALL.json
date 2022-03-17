@@ -1,0 +1,933 @@
+{
+  "name": "Seton Hall Pirates - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/SETON/seton-hall-pirates/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Jared Rhoden",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "29",
+            "33.7",
+            "15.9",
+            "165",
+            "421",
+            "39.2",
+            "38",
+            "112",
+            "33.9",
+            "109",
+            "135",
+            "80.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Bryce Aiken",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "6",
+            "26.2",
+            "14.5",
+            "64",
+            "143",
+            "44.8",
+            "24",
+            "68",
+            "35.3",
+            "66",
+            "80",
+            "82.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Myles Cale",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "28",
+            "28.7",
+            "9.8",
+            "99",
+            "229",
+            "43.2",
+            "30",
+            "86",
+            "34.9",
+            "45",
+            "72",
+            "62.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kadary Richmond",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "25",
+            "25.9",
+            "9.0",
+            "103",
+            "257",
+            "40.1",
+            "19",
+            "55",
+            "34.5",
+            "54",
+            "71",
+            "76.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alexis Yetna",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "17",
+            "24.2",
+            "8.4",
+            "88",
+            "216",
+            "40.7",
+            "18",
+            "78",
+            "23.1",
+            "57",
+            "76",
+            "75.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jamir Harris",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "3",
+            "22.3",
+            "7.8",
+            "81",
+            "214",
+            "37.9",
+            "57",
+            "153",
+            "37.3",
+            "22",
+            "29",
+            "75.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyrese Samuel",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "2",
+            "18.8",
+            "7.4",
+            "81",
+            "166",
+            "48.8",
+            "6",
+            "29",
+            "20.7",
+            "40",
+            "60",
+            "66.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tray Jackson",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "17",
+            "17.8",
+            "7.0",
+            "75",
+            "157",
+            "47.8",
+            "33",
+            "82",
+            "40.2",
+            "33",
+            "38",
+            "86.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ike Obiagu",
+            "position": "C"
+          },
+          "values": [
+            "28",
+            "26",
+            "21",
+            "2.6",
+            "28",
+            "51",
+            "54.9",
+            "0",
+            "0",
+            "\u2014",
+            "16",
+            "22",
+            "72.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jo Smith",
+            "position": "F"
+          },
+          "values": [
+            "10",
+            "0",
+            "1.6",
+            "1.0",
+            "4",
+            "6",
+            "66.7",
+            "0",
+            "0",
+            "\u2014",
+            "2",
+            "2",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sylwester Granda",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "2.6",
+            "1.0",
+            "2",
+            "3",
+            "66.7",
+            "0",
+            "0",
+            "\u2014",
+            "1",
+            "1",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jahari Long",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "2",
+            "12.6",
+            "0.8",
+            "1",
+            "7",
+            "14.3",
+            "1",
+            "5",
+            "20.0",
+            "1",
+            "3",
+            "33.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyler Powell",
+            "position": "G"
+          },
+          "values": [
+            "11",
+            "0",
+            "3.4",
+            "0.5",
+            "2",
+            "3",
+            "66.7",
+            "2",
+            "3",
+            "66.7",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Weston",
+            "position": "G"
+          },
+          "values": [
+            "1",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Alexis Yetna",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "17",
+            "80",
+            "153",
+            "233",
+            "7.8",
+            "17",
+            "0.60",
+            "10",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Rhoden",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "29",
+            "38",
+            "165",
+            "203",
+            "6.8",
+            "36",
+            "1.20",
+            "20",
+            "0.70"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyrese Samuel",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "2",
+            "60",
+            "89",
+            "149",
+            "5.3",
+            "15",
+            "0.50",
+            "24",
+            "0.90"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ike Obiagu",
+            "position": "C"
+          },
+          "values": [
+            "28",
+            "26",
+            "59",
+            "54",
+            "113",
+            "4.0",
+            "4",
+            "0.10",
+            "91",
+            "3.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Myles Cale",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "28",
+            "33",
+            "78",
+            "111",
+            "4.0",
+            "43",
+            "1.50",
+            "2",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kadary Richmond",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "25",
+            "20",
+            "93",
+            "113",
+            "3.6",
+            "50",
+            "1.60",
+            "11",
+            "0.40"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tray Jackson",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "17",
+            "23",
+            "87",
+            "110",
+            "3.5",
+            "12",
+            "0.40",
+            "7",
+            "0.20"
+          ]
+        },
+        {
+          "player": {
+            "name": "Bryce Aiken",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "6",
+            "6",
+            "26",
+            "32",
+            "2.1",
+            "20",
+            "1.30",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jamir Harris",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "3",
+            "9",
+            "27",
+            "36",
+            "1.2",
+            "16",
+            "0.50",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jahari Long",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "2",
+            "2",
+            "3",
+            "5",
+            "1.0",
+            "2",
+            "0.40",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jo Smith",
+            "position": "F"
+          },
+          "values": [
+            "10",
+            "0",
+            "3",
+            "3",
+            "6",
+            "0.6",
+            "0",
+            "0.00",
+            "3",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyler Powell",
+            "position": "G"
+          },
+          "values": [
+            "11",
+            "0",
+            "0",
+            "7",
+            "7",
+            "0.6",
+            "1",
+            "0.10",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sylwester Granda",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0.2",
+            "2",
+            "0.40",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Weston",
+            "position": "G"
+          },
+          "values": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Kadary Richmond",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "25",
+            "128",
+            "4.1",
+            "75",
+            "2.4",
+            "1.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Bryce Aiken",
+            "position": "G"
+          },
+          "values": [
+            "15",
+            "6",
+            "41",
+            "2.7",
+            "25",
+            "1.7",
+            "1.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jahari Long",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "2",
+            "11",
+            "2.2",
+            "5",
+            "1.0",
+            "2.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jared Rhoden",
+            "position": "G"
+          },
+          "values": [
+            "30",
+            "29",
+            "37",
+            "1.2",
+            "53",
+            "1.8",
+            "0.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Myles Cale",
+            "position": "G"
+          },
+          "values": [
+            "28",
+            "28",
+            "29",
+            "1.0",
+            "28",
+            "1.0",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jamir Harris",
+            "position": "G"
+          },
+          "values": [
+            "31",
+            "3",
+            "28",
+            "0.9",
+            "33",
+            "1.1",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Alexis Yetna",
+            "position": "F"
+          },
+          "values": [
+            "30",
+            "17",
+            "24",
+            "0.8",
+            "39",
+            "1.3",
+            "0.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tray Jackson",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "17",
+            "12",
+            "0.4",
+            "34",
+            "1.1",
+            "0.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ike Obiagu",
+            "position": "C"
+          },
+          "values": [
+            "28",
+            "26",
+            "5",
+            "0.2",
+            "23",
+            "0.8",
+            "0.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Sylwester Granda",
+            "position": "G"
+          },
+          "values": [
+            "5",
+            "0",
+            "1",
+            "0.2",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyrese Samuel",
+            "position": "F"
+          },
+          "values": [
+            "28",
+            "2",
+            "4",
+            "0.1",
+            "39",
+            "1.4",
+            "0.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tyler Powell",
+            "position": "G"
+          },
+          "values": [
+            "11",
+            "0",
+            "1",
+            "0.1",
+            "1",
+            "0.1",
+            "1.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Brandon Weston",
+            "position": "G"
+          },
+          "values": [
+            "1",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jo Smith",
+            "position": "F"
+          },
+          "values": [
+            "10",
+            "0",
+            "0",
+            "0.0",
+            "0",
+            "0.0",
+            "\u2014"
+          ]
+        }
+      ]
+    }
+  ]
+}

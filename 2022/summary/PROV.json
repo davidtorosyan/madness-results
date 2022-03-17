@@ -1,0 +1,645 @@
+{
+  "team": {
+    "index": 54,
+    "name": "Providence",
+    "abbrev": "PROV",
+    "seed": 4,
+    "safe_abbrev": "PROV"
+  },
+  "players": [
+    {
+      "name": "Alyn Breed",
+      "injury": null,
+      "info": {
+        "number": 10,
+        "position": "G",
+        "height": "6-3",
+        "height_inches": 75,
+        "weight_pounds": 190,
+        "school_class": "Soph",
+        "hometown": "Powder Springs, GA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 8,
+          "minutes_per_game": 13.4
+        },
+        "scoring": {
+          "points_per_game": 3.3,
+          "field_goals_made": 27,
+          "field_goals_attempted": 97,
+          "field_goal_percentage": 27.8,
+          "three_point_field_goals_made": 8,
+          "three_point_field_goals_attempted": 39,
+          "three_point_field_goal_percentage": 20.5,
+          "free_throws_made": 37,
+          "free_throws_attempted": 45,
+          "free_throw_percentage": 82.2
+        },
+        "defense": {
+          "offensive_rebounds": 8,
+          "defensive_rebounds": 31,
+          "total_rebounds": 39,
+          "rebounds_per_game": 1.3,
+          "total_steals": 16,
+          "steals_per_game": 0.5,
+          "total_blocks": 1,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 26,
+          "assists_per_game": 0.9,
+          "turnovers": 29,
+          "turnovers_per_game": 1.0,
+          "assists_per_turnover": 0.9
+        }
+      }
+    },
+    {
+      "name": "Jared Bynum",
+      "injury": null,
+      "info": {
+        "number": 4,
+        "position": "G",
+        "height": "5-10",
+        "height_inches": 70,
+        "weight_pounds": 180,
+        "school_class": "Jr",
+        "hometown": "Largo, MD"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 26,
+          "games_started": 10,
+          "minutes_per_game": 28.0
+        },
+        "scoring": {
+          "points_per_game": 12.7,
+          "field_goals_made": 109,
+          "field_goals_attempted": 256,
+          "field_goal_percentage": 42.6,
+          "three_point_field_goals_made": 40,
+          "three_point_field_goals_attempted": 96,
+          "three_point_field_goal_percentage": 41.7,
+          "free_throws_made": 73,
+          "free_throws_attempted": 98,
+          "free_throw_percentage": 74.5
+        },
+        "defense": {
+          "offensive_rebounds": 6,
+          "defensive_rebounds": 74,
+          "total_rebounds": 80,
+          "rebounds_per_game": 3.1,
+          "total_steals": 28,
+          "steals_per_game": 1.1,
+          "total_blocks": 5,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 110,
+          "assists_per_game": 4.2,
+          "turnovers": 56,
+          "turnovers_per_game": 2.2,
+          "assists_per_turnover": 2.0
+        }
+      }
+    },
+    {
+      "name": "Matteus Case",
+      "injury": null,
+      "info": {
+        "number": 3,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 190,
+        "school_class": "Fr",
+        "hometown": "Pickering, ON"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 3,
+          "games_started": 0,
+          "minutes_per_game": 1.7
+        },
+        "scoring": {
+          "points_per_game": 1.3,
+          "field_goals_made": 2,
+          "field_goals_attempted": 2,
+          "field_goal_percentage": 100.0,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 0,
+          "free_throws_attempted": 1,
+          "free_throw_percentage": 0.0
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 1,
+          "total_rebounds": 1,
+          "rebounds_per_game": 0.3,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 0,
+          "turnovers_per_game": 0.0,
+          "assists_per_turnover": null
+        }
+      }
+    },
+    {
+      "name": "Rafael Castro",
+      "injury": {
+        "area": "Not Injury Related"
+      },
+      "info": {
+        "number": 30,
+        "position": "F",
+        "height": "6-10",
+        "height_inches": 82,
+        "weight_pounds": 215,
+        "school_class": "Fr",
+        "hometown": "Dover, NJ"
+      },
+      "stats": null
+    },
+    {
+      "name": "Ed Croswell",
+      "injury": null,
+      "info": {
+        "number": 5,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 245,
+        "school_class": "Sr",
+        "hometown": "Philadelphia, PA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 0,
+          "minutes_per_game": 14.4
+        },
+        "scoring": {
+          "points_per_game": 5.2,
+          "field_goals_made": 68,
+          "field_goals_attempted": 102,
+          "field_goal_percentage": 66.7,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 21,
+          "free_throws_attempted": 40,
+          "free_throw_percentage": 52.5
+        },
+        "defense": {
+          "offensive_rebounds": 54,
+          "defensive_rebounds": 81,
+          "total_rebounds": 135,
+          "rebounds_per_game": 4.5,
+          "total_steals": 15,
+          "steals_per_game": 0.5,
+          "total_blocks": 20,
+          "blocks_per_game": 0.7
+        },
+        "assists": {
+          "total_assists": 10,
+          "assists_per_game": 0.3,
+          "turnovers": 27,
+          "turnovers_per_game": 0.9,
+          "assists_per_turnover": 0.4
+        }
+      }
+    },
+    {
+      "name": "Al Durham",
+      "injury": null,
+      "info": {
+        "number": 1,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 180,
+        "school_class": "Sr",
+        "hometown": "Lilburn, GA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 28,
+          "games_started": 28,
+          "minutes_per_game": 34.7
+        },
+        "scoring": {
+          "points_per_game": 13.4,
+          "field_goals_made": 96,
+          "field_goals_attempted": 280,
+          "field_goal_percentage": 34.3,
+          "three_point_field_goals_made": 22,
+          "three_point_field_goals_attempted": 100,
+          "three_point_field_goal_percentage": 22.0,
+          "free_throws_made": 160,
+          "free_throws_attempted": 189,
+          "free_throw_percentage": 84.7
+        },
+        "defense": {
+          "offensive_rebounds": 9,
+          "defensive_rebounds": 77,
+          "total_rebounds": 86,
+          "rebounds_per_game": 3.1,
+          "total_steals": 15,
+          "steals_per_game": 0.5,
+          "total_blocks": 10,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 93,
+          "assists_per_game": 3.3,
+          "turnovers": 68,
+          "turnovers_per_game": 2.4,
+          "assists_per_turnover": 1.4
+        }
+      }
+    },
+    {
+      "name": "Andrew Fonts",
+      "injury": null,
+      "info": {
+        "number": 24,
+        "position": "G",
+        "height": "6-2",
+        "height_inches": 74,
+        "weight_pounds": 175,
+        "school_class": "Sr",
+        "hometown": "Portsmouth, RI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 10,
+          "games_started": 0,
+          "minutes_per_game": 2.2
+        },
+        "scoring": {
+          "points_per_game": 0.9,
+          "field_goals_made": 3,
+          "field_goals_attempted": 4,
+          "field_goal_percentage": 75.0,
+          "three_point_field_goals_made": 2,
+          "three_point_field_goals_attempted": 3,
+          "three_point_field_goal_percentage": 66.7,
+          "free_throws_made": 1,
+          "free_throws_attempted": 2,
+          "free_throw_percentage": 50.0
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 3,
+          "total_rebounds": 3,
+          "rebounds_per_game": 0.3,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.1,
+          "turnovers": 1,
+          "turnovers_per_game": 0.1,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Luke Fonts",
+      "injury": null,
+      "info": {
+        "number": 22,
+        "position": "G",
+        "height": "6-1",
+        "height_inches": 73,
+        "weight_pounds": 180,
+        "school_class": "Fr",
+        "hometown": "Portsmouth, RI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 1,
+          "games_started": 0,
+          "minutes_per_game": 0.0
+        },
+        "scoring": {
+          "points_per_game": 0.0,
+          "field_goals_made": 0,
+          "field_goals_attempted": 0,
+          "field_goal_percentage": null,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 0,
+          "free_throws_attempted": 0,
+          "free_throw_percentage": null
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "total_rebounds": 0,
+          "rebounds_per_game": 0.0,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 0,
+          "assists_per_game": 0.0,
+          "turnovers": 0,
+          "turnovers_per_game": 0.0,
+          "assists_per_turnover": null
+        }
+      }
+    },
+    {
+      "name": "Legend Geeter",
+      "injury": null,
+      "info": {
+        "number": 23,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 235,
+        "school_class": "Fr",
+        "hometown": "River Rouge, MI"
+      },
+      "stats": null
+    },
+    {
+      "name": "Brycen Goodine",
+      "injury": null,
+      "info": {
+        "number": 12,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 190,
+        "school_class": "Jr",
+        "hometown": "New Bedford, MA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 19,
+          "games_started": 0,
+          "minutes_per_game": 6.4
+        },
+        "scoring": {
+          "points_per_game": 2.1,
+          "field_goals_made": 10,
+          "field_goals_attempted": 31,
+          "field_goal_percentage": 32.3,
+          "three_point_field_goals_made": 8,
+          "three_point_field_goals_attempted": 25,
+          "three_point_field_goal_percentage": 32.0,
+          "free_throws_made": 12,
+          "free_throws_attempted": 13,
+          "free_throw_percentage": 92.3
+        },
+        "defense": {
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 11,
+          "total_rebounds": 13,
+          "rebounds_per_game": 0.7,
+          "total_steals": 7,
+          "steals_per_game": 0.4,
+          "total_blocks": 1,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 2,
+          "assists_per_game": 0.1,
+          "turnovers": 6,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 0.3
+        }
+      }
+    },
+    {
+      "name": "Noah Horchler",
+      "injury": null,
+      "info": {
+        "number": 14,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 220,
+        "school_class": "Sr",
+        "hometown": "Melbourne, FL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 30,
+          "minutes_per_game": 33.2
+        },
+        "scoring": {
+          "points_per_game": 9.6,
+          "field_goals_made": 98,
+          "field_goals_attempted": 218,
+          "field_goal_percentage": 45.0,
+          "three_point_field_goals_made": 54,
+          "three_point_field_goals_attempted": 135,
+          "three_point_field_goal_percentage": 40.0,
+          "free_throws_made": 38,
+          "free_throws_attempted": 50,
+          "free_throw_percentage": 76.0
+        },
+        "defense": {
+          "offensive_rebounds": 51,
+          "defensive_rebounds": 198,
+          "total_rebounds": 249,
+          "rebounds_per_game": 8.3,
+          "total_steals": 24,
+          "steals_per_game": 0.8,
+          "total_blocks": 24,
+          "blocks_per_game": 0.8
+        },
+        "assists": {
+          "total_assists": 50,
+          "assists_per_game": 1.7,
+          "turnovers": 48,
+          "turnovers_per_game": 1.6,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Justin Minaya",
+      "injury": null,
+      "info": {
+        "number": 15,
+        "position": "F",
+        "height": "6-7",
+        "height_inches": 79,
+        "weight_pounds": 210,
+        "school_class": "Sr",
+        "hometown": "Harrington Park, NJ"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 29,
+          "games_started": 22,
+          "minutes_per_game": 32.9
+        },
+        "scoring": {
+          "points_per_game": 6.4,
+          "field_goals_made": 68,
+          "field_goals_attempted": 165,
+          "field_goal_percentage": 41.2,
+          "three_point_field_goals_made": 30,
+          "three_point_field_goals_attempted": 94,
+          "three_point_field_goal_percentage": 31.9,
+          "free_throws_made": 21,
+          "free_throws_attempted": 39,
+          "free_throw_percentage": 53.8
+        },
+        "defense": {
+          "offensive_rebounds": 59,
+          "defensive_rebounds": 108,
+          "total_rebounds": 167,
+          "rebounds_per_game": 5.8,
+          "total_steals": 25,
+          "steals_per_game": 0.9,
+          "total_blocks": 25,
+          "blocks_per_game": 0.9
+        },
+        "assists": {
+          "total_assists": 42,
+          "assists_per_game": 1.4,
+          "turnovers": 37,
+          "turnovers_per_game": 1.3,
+          "assists_per_turnover": 1.1
+        }
+      }
+    },
+    {
+      "name": "Kieran O'Haire",
+      "injury": null,
+      "info": {
+        "number": 33,
+        "position": "F",
+        "height": "6-3",
+        "height_inches": 75,
+        "weight_pounds": 185,
+        "school_class": "Fr",
+        "hometown": "Menands, NY"
+      },
+      "stats": null
+    },
+    {
+      "name": "A.J. Reeves",
+      "injury": {
+        "area": "Undisclosed"
+      },
+      "info": {
+        "number": 11,
+        "position": "G",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 205,
+        "school_class": "Sr",
+        "hometown": "Roxbury, MA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 25,
+          "games_started": 22,
+          "minutes_per_game": 25.2
+        },
+        "scoring": {
+          "points_per_game": 10.0,
+          "field_goals_made": 83,
+          "field_goals_attempted": 218,
+          "field_goal_percentage": 38.1,
+          "three_point_field_goals_made": 55,
+          "three_point_field_goals_attempted": 146,
+          "three_point_field_goal_percentage": 37.7,
+          "free_throws_made": 29,
+          "free_throws_attempted": 39,
+          "free_throw_percentage": 74.4
+        },
+        "defense": {
+          "offensive_rebounds": 17,
+          "defensive_rebounds": 54,
+          "total_rebounds": 71,
+          "rebounds_per_game": 2.8,
+          "total_steals": 11,
+          "steals_per_game": 0.4,
+          "total_blocks": 4,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 46,
+          "assists_per_game": 1.8,
+          "turnovers": 21,
+          "turnovers_per_game": 0.8,
+          "assists_per_turnover": 2.2
+        }
+      }
+    },
+    {
+      "name": "Nate Watson",
+      "injury": null,
+      "info": {
+        "number": 0,
+        "position": "C",
+        "height": "6-10",
+        "height_inches": 82,
+        "weight_pounds": 260,
+        "school_class": "Sr",
+        "hometown": "Portsmouth, VA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 30,
+          "minutes_per_game": 28.5
+        },
+        "scoring": {
+          "points_per_game": 13.8,
+          "field_goals_made": 169,
+          "field_goals_attempted": 303,
+          "field_goal_percentage": 55.8,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 77,
+          "free_throws_attempted": 130,
+          "free_throw_percentage": 59.2
+        },
+        "defense": {
+          "offensive_rebounds": 59,
+          "defensive_rebounds": 104,
+          "total_rebounds": 163,
+          "rebounds_per_game": 5.4,
+          "total_steals": 10,
+          "steals_per_game": 0.3,
+          "total_blocks": 23,
+          "blocks_per_game": 0.8
+        },
+        "assists": {
+          "total_assists": 16,
+          "assists_per_game": 0.5,
+          "turnovers": 34,
+          "turnovers_per_game": 1.1,
+          "assists_per_turnover": 0.5
+        }
+      }
+    }
+  ]
+}

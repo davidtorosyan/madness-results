@@ -1,0 +1,275 @@
+{
+  "name": "Michigan Wolverines - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/MICH/michigan-wolverines/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Isaiah Barnes",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-7",
+          "185",
+          "Fr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eli Brooks",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "6-1",
+          "185",
+          "Sr",
+          "Spring Grove, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kobe Bufkin",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-4",
+          "175",
+          "Fr",
+          "Grand Rapids, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ian Burns",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-6",
+          "200",
+          "Fr",
+          "Winnetka, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Frankie Collins",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-1",
+          "185",
+          "Fr",
+          "Henderson, NV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Moussa Diabate",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-11",
+          "210",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Hunter Dickinson",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "C",
+          "7-1",
+          "260",
+          "Soph",
+          "Alexandria, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaron Faulds",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "F",
+          "6-10",
+          "240",
+          "Sr",
+          "Holt, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Caleb Houstan",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-8",
+          "205",
+          "Fr",
+          "Mississauga, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jace Howard",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-7",
+          "225",
+          "Soph",
+          "Miami, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zeb Jackson",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-5",
+          "190",
+          "Soph",
+          "Toledo, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Johns Jr.",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-8",
+          "240",
+          "Sr",
+          "East Lansing, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "DeVante' Jones",
+          "injury": {
+            "area": "Concussion:"
+          }
+        },
+        "values": [
+          "12",
+          "G",
+          "6-1",
+          "200",
+          "Sr",
+          "New Orleans, LA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Adrien Nunez",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-6",
+          "220",
+          "Sr",
+          "Brooklyn, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Will Tschetter",
+          "injury": null
+        },
+        "values": [
+          "42",
+          "F",
+          "6-8",
+          "230",
+          "Fr",
+          "Stewartville, MN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Wade",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-1",
+          "190",
+          "Sr",
+          "Ann Arbor, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Terrance Williams II",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-7",
+          "230",
+          "Soph",
+          "Clinton, MD"
+        ]
+      }
+    ]
+  }
+}

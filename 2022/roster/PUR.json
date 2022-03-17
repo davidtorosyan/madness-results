@@ -1,0 +1,263 @@
+{
+  "name": "Purdue Boilermakers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/PURDUE/purdue-boilermakers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Carson Barrett",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-5",
+          "215",
+          "Soph",
+          "Lafayette, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zach Edey",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "C",
+          "7-4",
+          "295",
+          "Soph",
+          "Toronto, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt Frost",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-5",
+          "200",
+          "Jr",
+          "Columbus, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Caleb Furst",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-10",
+          "230",
+          "Fr",
+          "Fort Wayne, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mason Gillis",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "F",
+          "6-6",
+          "230",
+          "Soph",
+          "New Castle, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eric Hunter Jr.",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-4",
+          "175",
+          "Sr",
+          "Indianapolis, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaden Ivey",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-4",
+          "195",
+          "Soph",
+          "South Bend, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trey Kaufman-Renn",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "4",
+          "F",
+          "6-9",
+          "225",
+          "Fr",
+          "Sellersburg, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chase Martin",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-3",
+          "180",
+          "Soph",
+          "Columbia, MO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ethan Morton",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-6",
+          "215",
+          "Soph",
+          "Butler, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brandon Newman",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-5",
+          "200",
+          "Soph",
+          "Valparaiso, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sasha Stefanovic",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "6-5",
+          "205",
+          "Sr",
+          "Crown Point, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Thompson",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-1",
+          "160",
+          "Jr",
+          "Zionsville, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Brian Waddell",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "1",
+          "F",
+          "6-7",
+          "185",
+          "Fr",
+          "Carmel, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trevion Williams",
+          "injury": null
+        },
+        "values": [
+          "50",
+          "F",
+          "6-10",
+          "255",
+          "Sr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jared Wulbrun",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "5-10",
+          "180",
+          "Sr",
+          "Stanford, CA"
+        ]
+      }
+    ]
+  }
+}

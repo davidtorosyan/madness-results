@@ -1,0 +1,263 @@
+{
+  "name": "Southern California Trojans - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/USC/southern-california-trojans/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Max Agbonkpolo",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-9",
+          "195",
+          "Jr",
+          "Laguna Niguel, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ethan Anderson",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-1",
+          "210",
+          "Soph",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zach Brooker",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-0",
+          "160",
+          "Soph",
+          "Calabasas, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Boubacar Coulibaly",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-10",
+          "215",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Reese Dixon-Waters",
+          "injury": {
+            "area": "Groin:"
+          }
+        },
+        "values": [
+          "21",
+          "G",
+          "6-5",
+          "210",
+          "Fr",
+          "Long Beach, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Boogie Ellis",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-3",
+          "185",
+          "Jr",
+          "San Diego, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chevez Goodwin",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "F",
+          "6-9",
+          "225",
+          "Sr",
+          "Columbia, SC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Harrison Hornery",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "F",
+          "6-9",
+          "220",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kobe Johnson",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-6",
+          "190",
+          "Fr",
+          "Milwaukee, WI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Mobley",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "F",
+          "6-10",
+          "240",
+          "Jr",
+          "Murrieta, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joshua Morgan",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "F",
+          "6-11",
+          "220",
+          "Soph",
+          "Sacramento, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Reggie Parris",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "G",
+          "6-3",
+          "190",
+          "Jr",
+          "Denver, CO"
+        ]
+      },
+      {
+        "player": {
+          "name": "Drew Peterson",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-9",
+          "195",
+          "Jr",
+          "Libertyville, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Amar Ross",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "G",
+          "5-8",
+          "150",
+          "Sr",
+          "Long Beach, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Malik Thomas",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-4",
+          "205",
+          "Fr",
+          "Fontana, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah White",
+          "injury": {
+            "area": "Wrist:"
+          }
+        },
+        "values": [
+          "5",
+          "G",
+          "6-7",
+          "210",
+          "Sr",
+          "Rancho Cucamonga, CA"
+        ]
+      }
+    ]
+  }
+}

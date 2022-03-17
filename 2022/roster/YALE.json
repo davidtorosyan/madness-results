@@ -1,0 +1,301 @@
+{
+  "name": "Yale Bulldogs - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/YALE/yale-bulldogs/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Jameel Alausa",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-7",
+          "210",
+          "Sr",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Yussif Basa-Ama",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-8",
+          "200",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Emir Buyukhanli",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-5",
+          "210",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matthue Cotton",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-5",
+          "200",
+          "Jr",
+          "Voorhees, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Eze Dike",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "195",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Feinberg",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-4",
+          "195",
+          "Jr",
+          "Hidden Hills, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Gabbidon",
+          "injury": null
+        },
+        "values": [
+          "00",
+          "G",
+          "6-5",
+          "190",
+          "Sr",
+          "Harrisburg, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Yassine Gharram",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-3",
+          "185",
+          "Fr",
+          "San Diego, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "EJ Jarvis",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-8",
+          "220",
+          "Jr",
+          "Washington, DC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Kelly",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-7",
+          "215",
+          "Jr",
+          "Augusta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt Knowling",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-5",
+          "195",
+          "Soph",
+          "Ellington, CT"
+        ]
+      },
+      {
+        "player": {
+          "name": "Luke Kolaja",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-8",
+          "225",
+          "Fr",
+          "Montclair, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jake Lanford",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "F",
+          "6-10",
+          "230",
+          "Jr",
+          "Charleston, SC"
+        ]
+      },
+      {
+        "player": {
+          "name": "August Mahoney",
+          "injury": null
+        },
+        "values": [
+          "03",
+          "G",
+          "6-4",
+          "190",
+          "Soph",
+          "Saratoga Springs, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Bez Mbeng",
+          "injury": null
+        },
+        "values": [
+          "02",
+          "G",
+          "6-4",
+          "195",
+          "Fr",
+          "Potomac, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jack Molloy",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-8",
+          "225",
+          "Fr",
+          "Greenwich, CT"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Poulakidas",
+          "injury": null
+        },
+        "values": [
+          "04",
+          "G",
+          "6-5",
+          "190",
+          "Fr",
+          "Naperville, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Teo Rice",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-2",
+          "190",
+          "Fr",
+          "Bethesda, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Azar Swain",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-1",
+          "185",
+          "Sr",
+          "Brockton, MA"
+        ]
+      }
+    ]
+  }
+}

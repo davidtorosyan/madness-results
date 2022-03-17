@@ -1,0 +1,263 @@
+{
+  "name": "Connecticut Huskies - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/UCONN/connecticut-huskies/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Akok Akok",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "F",
+          "6-9",
+          "200",
+          "Jr",
+          "Manchester, NH"
+        ]
+      },
+      {
+        "player": {
+          "name": "R.J. Cole",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "6-1",
+          "185",
+          "Sr",
+          "Union, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Rahsool Diggins",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "175",
+          "Fr",
+          "Philadelphia, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Corey Floyd Jr.",
+          "injury": {
+            "area": "Not Injury Related:"
+          }
+        },
+        "values": [
+          "14",
+          "G",
+          "6-3",
+          "210",
+          "Fr",
+          "Franklin, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Gaffney",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-3",
+          "180",
+          "Jr",
+          "Columbus, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Matt Garry",
+          "injury": null
+        },
+        "values": [
+          "41",
+          "G",
+          "6-5",
+          "190",
+          "Sr",
+          "Southington, CT"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Hawkins",
+          "injury": {
+            "area": "Concussion:"
+          }
+        },
+        "values": [
+          "24",
+          "G",
+          "6-5",
+          "175",
+          "Fr",
+          "Gaithersburg, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andrew Hurley",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-1",
+          "170",
+          "Soph",
+          "Glastonbury, CT"
+        ]
+      },
+      {
+        "player": {
+          "name": "Andre Jackson",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "G",
+          "6-6",
+          "205",
+          "Soph",
+          "Amsterdam, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Samson Johnson",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "F",
+          "6-10",
+          "200",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alex Karaban",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "\u2014",
+          "\u2014",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyrese Martin",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-6",
+          "215",
+          "Sr",
+          "Allentown, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Polley",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-9",
+          "200",
+          "Sr",
+          "Miramar, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Adama Sanogo",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-9",
+          "240",
+          "Soph",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Richie Springs",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-9",
+          "225",
+          "Soph",
+          "Brooklyn, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Isaiah Whaley",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-9",
+          "225",
+          "Sr",
+          "Gastonia, NC"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,627 @@
+{
+  "team": {
+    "index": 28,
+    "name": "Murray State",
+    "abbrev": "MUR",
+    "seed": 7,
+    "safe_abbrev": "MUR"
+  },
+  "players": [
+    {
+      "name": "Dionte Bostick",
+      "injury": null,
+      "info": {
+        "number": 4,
+        "position": "G",
+        "height": "6-2",
+        "height_inches": 74,
+        "weight_pounds": 190,
+        "school_class": "Fr",
+        "hometown": "Clearwater, FL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 15,
+          "games_started": 0,
+          "minutes_per_game": 4.7
+        },
+        "scoring": {
+          "points_per_game": 2.0,
+          "field_goals_made": 11,
+          "field_goals_attempted": 24,
+          "field_goal_percentage": 45.8,
+          "three_point_field_goals_made": 2,
+          "three_point_field_goals_attempted": 8,
+          "three_point_field_goal_percentage": 25.0,
+          "free_throws_made": 6,
+          "free_throws_attempted": 8,
+          "free_throw_percentage": 75.0
+        },
+        "defense": {
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 4,
+          "total_rebounds": 6,
+          "rebounds_per_game": 0.4,
+          "total_steals": 3,
+          "steals_per_game": 0.2,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 8,
+          "assists_per_game": 0.5,
+          "turnovers": 4,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 2.0
+        }
+      }
+    },
+    {
+      "name": "Tevin Brown",
+      "injury": null,
+      "info": {
+        "number": 10,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 175,
+        "school_class": "Jr",
+        "hometown": "Fairhope, AL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 35.0
+        },
+        "scoring": {
+          "points_per_game": 16.9,
+          "field_goals_made": 177,
+          "field_goals_attempted": 408,
+          "field_goal_percentage": 43.4,
+          "three_point_field_goals_made": 100,
+          "three_point_field_goals_attempted": 257,
+          "three_point_field_goal_percentage": 38.9,
+          "free_throws_made": 87,
+          "free_throws_attempted": 114,
+          "free_throw_percentage": 76.3
+        },
+        "defense": {
+          "offensive_rebounds": 18,
+          "defensive_rebounds": 159,
+          "total_rebounds": 177,
+          "rebounds_per_game": 5.5,
+          "total_steals": 45,
+          "steals_per_game": 1.4,
+          "total_blocks": 20,
+          "blocks_per_game": 0.6
+        },
+        "assists": {
+          "total_assists": 97,
+          "assists_per_game": 3.0,
+          "turnovers": 59,
+          "turnovers_per_game": 1.8,
+          "assists_per_turnover": 1.6
+        }
+      }
+    },
+    {
+      "name": "DJ Burns",
+      "injury": null,
+      "info": {
+        "number": 55,
+        "position": "F",
+        "height": "6-7",
+        "height_inches": 79,
+        "weight_pounds": 210,
+        "school_class": "Soph",
+        "hometown": "New Orleans, LA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 25.7
+        },
+        "scoring": {
+          "points_per_game": 5.9,
+          "field_goals_made": 74,
+          "field_goals_attempted": 127,
+          "field_goal_percentage": 58.3,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 42,
+          "free_throws_attempted": 59,
+          "free_throw_percentage": 71.2
+        },
+        "defense": {
+          "offensive_rebounds": 102,
+          "defensive_rebounds": 107,
+          "total_rebounds": 209,
+          "rebounds_per_game": 6.5,
+          "total_steals": 41,
+          "steals_per_game": 1.3,
+          "total_blocks": 16,
+          "blocks_per_game": 0.5
+        },
+        "assists": {
+          "total_assists": 29,
+          "assists_per_game": 0.9,
+          "turnovers": 32,
+          "turnovers_per_game": 1.0,
+          "assists_per_turnover": 0.9
+        }
+      }
+    },
+    {
+      "name": "Carter Collins",
+      "injury": null,
+      "info": {
+        "number": 13,
+        "position": "G",
+        "height": "6-3",
+        "height_inches": 75,
+        "weight_pounds": 190,
+        "school_class": "Sr",
+        "hometown": "Chapel Hill, NC"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 21.5
+        },
+        "scoring": {
+          "points_per_game": 4.4,
+          "field_goals_made": 51,
+          "field_goals_attempted": 141,
+          "field_goal_percentage": 36.2,
+          "three_point_field_goals_made": 28,
+          "three_point_field_goals_attempted": 89,
+          "three_point_field_goal_percentage": 31.5,
+          "free_throws_made": 12,
+          "free_throws_attempted": 14,
+          "free_throw_percentage": 85.7
+        },
+        "defense": {
+          "offensive_rebounds": 15,
+          "defensive_rebounds": 41,
+          "total_rebounds": 56,
+          "rebounds_per_game": 1.8,
+          "total_steals": 20,
+          "steals_per_game": 0.6,
+          "total_blocks": 3,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 40,
+          "assists_per_game": 1.3,
+          "turnovers": 20,
+          "turnovers_per_game": 0.6,
+          "assists_per_turnover": 2.0
+        }
+      }
+    },
+    {
+      "name": "Elijah Farr",
+      "injury": null,
+      "info": {
+        "number": 22,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 240,
+        "school_class": "Soph",
+        "hometown": "Kansas City, MO"
+      },
+      "stats": null
+    },
+    {
+      "name": "Trae Hannibal",
+      "injury": null,
+      "info": {
+        "number": 2,
+        "position": "G",
+        "height": "6-2",
+        "height_inches": 74,
+        "weight_pounds": 220,
+        "school_class": "Soph",
+        "hometown": "Hartsville, SC"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 0,
+          "minutes_per_game": 21.6
+        },
+        "scoring": {
+          "points_per_game": 8.9,
+          "field_goals_made": 100,
+          "field_goals_attempted": 192,
+          "field_goal_percentage": 52.1,
+          "three_point_field_goals_made": 4,
+          "three_point_field_goals_attempted": 13,
+          "three_point_field_goal_percentage": 30.8,
+          "free_throws_made": 82,
+          "free_throws_attempted": 117,
+          "free_throw_percentage": 70.1
+        },
+        "defense": {
+          "offensive_rebounds": 31,
+          "defensive_rebounds": 128,
+          "total_rebounds": 159,
+          "rebounds_per_game": 5.0,
+          "total_steals": 36,
+          "steals_per_game": 1.1,
+          "total_blocks": 3,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 83,
+          "assists_per_game": 2.6,
+          "turnovers": 61,
+          "turnovers_per_game": 1.9,
+          "assists_per_turnover": 1.4
+        }
+      }
+    },
+    {
+      "name": "Justice Hill",
+      "injury": null,
+      "info": {
+        "number": 14,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 170,
+        "school_class": "Soph",
+        "hometown": "Little Rock, AR"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 30.7
+        },
+        "scoring": {
+          "points_per_game": 13.2,
+          "field_goals_made": 150,
+          "field_goals_attempted": 350,
+          "field_goal_percentage": 42.9,
+          "three_point_field_goals_made": 58,
+          "three_point_field_goals_attempted": 163,
+          "three_point_field_goal_percentage": 35.6,
+          "free_throws_made": 64,
+          "free_throws_attempted": 86,
+          "free_throw_percentage": 74.4
+        },
+        "defense": {
+          "offensive_rebounds": 11,
+          "defensive_rebounds": 59,
+          "total_rebounds": 70,
+          "rebounds_per_game": 2.2,
+          "total_steals": 34,
+          "steals_per_game": 1.1,
+          "total_blocks": 2,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 160,
+          "assists_per_game": 5.0,
+          "turnovers": 57,
+          "turnovers_per_game": 1.8,
+          "assists_per_turnover": 2.8
+        }
+      }
+    },
+    {
+      "name": "Nicholas McMullen",
+      "injury": null,
+      "info": {
+        "number": 32,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 235,
+        "school_class": "Fr",
+        "hometown": "Greensboro, NC"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 0,
+          "minutes_per_game": 10.3
+        },
+        "scoring": {
+          "points_per_game": 3.3,
+          "field_goals_made": 45,
+          "field_goals_attempted": 76,
+          "field_goal_percentage": 59.2,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 17,
+          "free_throws_attempted": 40,
+          "free_throw_percentage": 42.5
+        },
+        "defense": {
+          "offensive_rebounds": 47,
+          "defensive_rebounds": 51,
+          "total_rebounds": 98,
+          "rebounds_per_game": 3.1,
+          "total_steals": 3,
+          "steals_per_game": 0.1,
+          "total_blocks": 13,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 10,
+          "assists_per_game": 0.3,
+          "turnovers": 20,
+          "turnovers_per_game": 0.6,
+          "assists_per_turnover": 0.5
+        }
+      }
+    },
+    {
+      "name": "Jackson Sivills",
+      "injury": null,
+      "info": {
+        "number": 33,
+        "position": "G",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 200,
+        "school_class": "Fr",
+        "hometown": "Paducah, KY"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 15,
+          "games_started": 0,
+          "minutes_per_game": 4.1
+        },
+        "scoring": {
+          "points_per_game": 1.7,
+          "field_goals_made": 8,
+          "field_goals_attempted": 16,
+          "field_goal_percentage": 50.0,
+          "three_point_field_goals_made": 4,
+          "three_point_field_goals_attempted": 9,
+          "three_point_field_goal_percentage": 44.4,
+          "free_throws_made": 5,
+          "free_throws_attempted": 8,
+          "free_throw_percentage": 62.5
+        },
+        "defense": {
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 5,
+          "total_rebounds": 9,
+          "rebounds_per_game": 0.6,
+          "total_steals": 3,
+          "steals_per_game": 0.2,
+          "total_blocks": 1,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.1,
+          "turnovers": 3,
+          "turnovers_per_game": 0.2,
+          "assists_per_turnover": 0.3
+        }
+      }
+    },
+    {
+      "name": "Jordan Skipper-Brown",
+      "injury": null,
+      "info": {
+        "number": 31,
+        "position": "F",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 230,
+        "school_class": "Sr",
+        "hometown": "Little Rock, AK"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 23,
+          "games_started": 0,
+          "minutes_per_game": 12.7
+        },
+        "scoring": {
+          "points_per_game": 3.9,
+          "field_goals_made": 37,
+          "field_goals_attempted": 60,
+          "field_goal_percentage": 61.7,
+          "three_point_field_goals_made": 2,
+          "three_point_field_goals_attempted": 4,
+          "three_point_field_goal_percentage": 50.0,
+          "free_throws_made": 14,
+          "free_throws_attempted": 32,
+          "free_throw_percentage": 43.8
+        },
+        "defense": {
+          "offensive_rebounds": 15,
+          "defensive_rebounds": 39,
+          "total_rebounds": 54,
+          "rebounds_per_game": 2.3,
+          "total_steals": 8,
+          "steals_per_game": 0.3,
+          "total_blocks": 16,
+          "blocks_per_game": 0.7
+        },
+        "assists": {
+          "total_assists": 12,
+          "assists_per_game": 0.5,
+          "turnovers": 22,
+          "turnovers_per_game": 1.0,
+          "assists_per_turnover": 0.5
+        }
+      }
+    },
+    {
+      "name": "DaQuan Smith",
+      "injury": null,
+      "info": {
+        "number": 1,
+        "position": "G",
+        "height": "6-1",
+        "height_inches": 73,
+        "weight_pounds": 185,
+        "school_class": "Soph",
+        "hometown": "Holly Springs, MS"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 31,
+          "games_started": 0,
+          "minutes_per_game": 12.5
+        },
+        "scoring": {
+          "points_per_game": 3.5,
+          "field_goals_made": 37,
+          "field_goals_attempted": 95,
+          "field_goal_percentage": 38.9,
+          "three_point_field_goals_made": 22,
+          "three_point_field_goals_attempted": 67,
+          "three_point_field_goal_percentage": 32.8,
+          "free_throws_made": 13,
+          "free_throws_attempted": 16,
+          "free_throw_percentage": 81.3
+        },
+        "defense": {
+          "offensive_rebounds": 11,
+          "defensive_rebounds": 28,
+          "total_rebounds": 39,
+          "rebounds_per_game": 1.3,
+          "total_steals": 12,
+          "steals_per_game": 0.4,
+          "total_blocks": 6,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 7,
+          "assists_per_game": 0.2,
+          "turnovers": 16,
+          "turnovers_per_game": 0.5,
+          "assists_per_turnover": 0.4
+        }
+      }
+    },
+    {
+      "name": "Matt Smith",
+      "injury": null,
+      "info": {
+        "number": 11,
+        "position": "F",
+        "height": "6-6",
+        "height_inches": 78,
+        "weight_pounds": 225,
+        "school_class": "Fr",
+        "hometown": "Charlotte, NC"
+      },
+      "stats": null
+    },
+    {
+      "name": "Rod Thomas",
+      "injury": null,
+      "info": {
+        "number": 25,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 185,
+        "school_class": "Soph",
+        "hometown": "Paducah, KY"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 15,
+          "games_started": 0,
+          "minutes_per_game": 3.0
+        },
+        "scoring": {
+          "points_per_game": 0.9,
+          "field_goals_made": 4,
+          "field_goals_attempted": 19,
+          "field_goal_percentage": 21.1,
+          "three_point_field_goals_made": 3,
+          "three_point_field_goals_attempted": 15,
+          "three_point_field_goal_percentage": 20.0,
+          "free_throws_made": 2,
+          "free_throws_attempted": 2,
+          "free_throw_percentage": 100.0
+        },
+        "defense": {
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 8,
+          "total_rebounds": 10,
+          "rebounds_per_game": 0.7,
+          "total_steals": 0,
+          "steals_per_game": 0.0,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 2,
+          "assists_per_game": 0.1,
+          "turnovers": 5,
+          "turnovers_per_game": 0.3,
+          "assists_per_turnover": 0.4
+        }
+      }
+    },
+    {
+      "name": "KJ Williams",
+      "injury": null,
+      "info": {
+        "number": 0,
+        "position": "F",
+        "height": "6-10",
+        "height_inches": 82,
+        "weight_pounds": 245,
+        "school_class": "Jr",
+        "hometown": "Cleveland, MS"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 28.7
+        },
+        "scoring": {
+          "points_per_game": 18.2,
+          "field_goals_made": 235,
+          "field_goals_attempted": 432,
+          "field_goal_percentage": 54.4,
+          "three_point_field_goals_made": 35,
+          "three_point_field_goals_attempted": 104,
+          "three_point_field_goal_percentage": 33.7,
+          "free_throws_made": 78,
+          "free_throws_attempted": 112,
+          "free_throw_percentage": 69.6
+        },
+        "defense": {
+          "offensive_rebounds": 89,
+          "defensive_rebounds": 186,
+          "total_rebounds": 275,
+          "rebounds_per_game": 8.6,
+          "total_steals": 48,
+          "steals_per_game": 1.5,
+          "total_blocks": 20,
+          "blocks_per_game": 0.6
+        },
+        "assists": {
+          "total_assists": 22,
+          "assists_per_game": 0.7,
+          "turnovers": 46,
+          "turnovers_per_game": 1.4,
+          "assists_per_turnover": 0.5
+        }
+      }
+    }
+  ]
+}

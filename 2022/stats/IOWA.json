@@ -1,0 +1,933 @@
+{
+  "name": "Iowa Hawkeyes - Stats",
+  "url": "https://www.cbssports.com/college-basketball/teams/IOWA/iowa-hawkeyes/stats/regular/",
+  "tables": [
+    {
+      "name": "Player Stats - Scoring",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "MPG",
+          "description": "Minutes Per Game"
+        },
+        {
+          "index": 3,
+          "name": "PPG",
+          "description": "Points Per Game"
+        },
+        {
+          "index": 4,
+          "name": "FGM",
+          "description": "Field Goals Made"
+        },
+        {
+          "index": 5,
+          "name": "FGA",
+          "description": "Field Goals Attempted"
+        },
+        {
+          "index": 6,
+          "name": "FG%",
+          "description": "Field Goal Percentage"
+        },
+        {
+          "index": 7,
+          "name": "3FGM",
+          "description": "Three-Point Field Goals Made"
+        },
+        {
+          "index": 8,
+          "name": "3FGA",
+          "description": "Three-Point Field Goals Attempted"
+        },
+        {
+          "index": 9,
+          "name": "3FG%",
+          "description": "Three-Point Field Goal Percentage"
+        },
+        {
+          "index": 10,
+          "name": "FTM",
+          "description": "Free Throws Made"
+        },
+        {
+          "index": 11,
+          "name": "FTA",
+          "description": "Free Throws Attempted"
+        },
+        {
+          "index": 12,
+          "name": "FT%",
+          "description": "Free Throw Percentage"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Keegan Murray",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "34",
+            "31.7",
+            "23.6",
+            "299",
+            "539",
+            "55.5",
+            "66",
+            "163",
+            "40.5",
+            "137",
+            "185",
+            "74.1"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Bohannon",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "35",
+            "26.7",
+            "11.1",
+            "110",
+            "283",
+            "38.9",
+            "89",
+            "231",
+            "38.5",
+            "80",
+            "90",
+            "88.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Patrick McCaffery",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "24.2",
+            "10.3",
+            "117",
+            "277",
+            "42.2",
+            "29",
+            "93",
+            "31.2",
+            "55",
+            "77",
+            "71.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kris Murray",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "1",
+            "17.9",
+            "9.9",
+            "123",
+            "253",
+            "48.6",
+            "43",
+            "106",
+            "40.6",
+            "48",
+            "74",
+            "64.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tony Perkins",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "14",
+            "18.2",
+            "7.5",
+            "97",
+            "217",
+            "44.7",
+            "17",
+            "51",
+            "33.3",
+            "50",
+            "62",
+            "80.6"
+          ]
+        },
+        {
+          "player": {
+            "name": "Filip Rebraca",
+            "position": "F"
+          },
+          "values": [
+            "35",
+            "35",
+            "21.3",
+            "5.8",
+            "84",
+            "156",
+            "53.8",
+            "1",
+            "6",
+            "16.7",
+            "34",
+            "56",
+            "60.7"
+          ]
+        },
+        {
+          "player": {
+            "name": "Payton Sandfort",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "0",
+            "10.6",
+            "5.1",
+            "60",
+            "141",
+            "42.6",
+            "34",
+            "90",
+            "37.8",
+            "15",
+            "16",
+            "93.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joe Toussaint",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "21",
+            "17.5",
+            "4.4",
+            "59",
+            "139",
+            "42.4",
+            "9",
+            "35",
+            "25.7",
+            "26",
+            "31",
+            "83.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ahron Ulis",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "0",
+            "14.3",
+            "3.2",
+            "34",
+            "100",
+            "34.0",
+            "4",
+            "12",
+            "33.3",
+            "38",
+            "48",
+            "79.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Austin Ash",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "0",
+            "4.2",
+            "2.9",
+            "17",
+            "39",
+            "43.6",
+            "8",
+            "26",
+            "30.8",
+            "10",
+            "14",
+            "71.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Connor McCaffery",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "4",
+            "16.7",
+            "2.6",
+            "25",
+            "70",
+            "35.7",
+            "22",
+            "63",
+            "34.9",
+            "13",
+            "18",
+            "72.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Josh Ogundele",
+            "position": "F"
+          },
+          "values": [
+            "19",
+            "0",
+            "5.1",
+            "1.5",
+            "13",
+            "24",
+            "54.2",
+            "0",
+            "0",
+            "\u2014",
+            "3",
+            "10",
+            "30.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Riley Mulvey",
+            "position": "C"
+          },
+          "values": [
+            "17",
+            "0",
+            "4.6",
+            "0.9",
+            "6",
+            "12",
+            "50.0",
+            "0",
+            "2",
+            "0.0",
+            "4",
+            "4",
+            "100.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Luc Laketa",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "0",
+            "2.6",
+            "0.8",
+            "3",
+            "6",
+            "50.0",
+            "3",
+            "5",
+            "60.0",
+            "0",
+            "0",
+            "\u2014"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Defense",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "OREB",
+          "description": "Offensive Rebounds"
+        },
+        {
+          "index": 3,
+          "name": "DREB",
+          "description": "Defensive Rebounds"
+        },
+        {
+          "index": 4,
+          "name": "REB",
+          "description": "Total Rebounds"
+        },
+        {
+          "index": 5,
+          "name": "RPG",
+          "description": "Rebounds Per Game"
+        },
+        {
+          "index": 6,
+          "name": "STL",
+          "description": "Total Steals"
+        },
+        {
+          "index": 7,
+          "name": "SPG",
+          "description": "Steals Per Game"
+        },
+        {
+          "index": 8,
+          "name": "BLK",
+          "description": "Total Blocks"
+        },
+        {
+          "index": 9,
+          "name": "BPG",
+          "description": "Blocks Per Game"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Keegan Murray",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "34",
+            "98",
+            "196",
+            "294",
+            "8.6",
+            "44",
+            "1.30",
+            "67",
+            "2.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Filip Rebraca",
+            "position": "F"
+          },
+          "values": [
+            "35",
+            "35",
+            "66",
+            "127",
+            "193",
+            "5.5",
+            "13",
+            "0.40",
+            "22",
+            "0.60"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kris Murray",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "1",
+            "54",
+            "90",
+            "144",
+            "4.2",
+            "27",
+            "0.80",
+            "31",
+            "0.90"
+          ]
+        },
+        {
+          "player": {
+            "name": "Patrick McCaffery",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "25",
+            "87",
+            "112",
+            "3.6",
+            "19",
+            "0.60",
+            "15",
+            "0.50"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tony Perkins",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "14",
+            "32",
+            "55",
+            "87",
+            "2.5",
+            "32",
+            "0.90",
+            "3",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Connor McCaffery",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "4",
+            "18",
+            "64",
+            "82",
+            "2.5",
+            "17",
+            "0.50",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ahron Ulis",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "0",
+            "19",
+            "50",
+            "69",
+            "2.0",
+            "19",
+            "0.60",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Payton Sandfort",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "0",
+            "22",
+            "40",
+            "62",
+            "1.9",
+            "5",
+            "0.20",
+            "4",
+            "0.10"
+          ]
+        },
+        {
+          "player": {
+            "name": "Joe Toussaint",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "21",
+            "15",
+            "45",
+            "60",
+            "1.7",
+            "51",
+            "1.50",
+            "1",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Josh Ogundele",
+            "position": "F"
+          },
+          "values": [
+            "19",
+            "0",
+            "8",
+            "16",
+            "24",
+            "1.3",
+            "4",
+            "0.20",
+            "5",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Bohannon",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "35",
+            "5",
+            "41",
+            "46",
+            "1.3",
+            "26",
+            "0.70",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Riley Mulvey",
+            "position": "C"
+          },
+          "values": [
+            "17",
+            "0",
+            "4",
+            "11",
+            "15",
+            "0.9",
+            "0",
+            "0.00",
+            "5",
+            "0.30"
+          ]
+        },
+        {
+          "player": {
+            "name": "Austin Ash",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "0",
+            "3",
+            "7",
+            "10",
+            "0.6",
+            "0",
+            "0.00",
+            "0",
+            "0.00"
+          ]
+        },
+        {
+          "player": {
+            "name": "Luc Laketa",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "0",
+            "1",
+            "1",
+            "2",
+            "0.2",
+            "2",
+            "0.20",
+            "0",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Player Stats - Assists/Turnovers",
+      "header": [
+        {
+          "index": 0,
+          "name": "GP",
+          "description": "Games played"
+        },
+        {
+          "index": 1,
+          "name": "GS",
+          "description": "Games started"
+        },
+        {
+          "index": 2,
+          "name": "AST",
+          "description": "Total Assists"
+        },
+        {
+          "index": 3,
+          "name": "APG",
+          "description": "Assists Per Game"
+        },
+        {
+          "index": 4,
+          "name": "TO",
+          "description": "Turnovers"
+        },
+        {
+          "index": 5,
+          "name": "TOPG",
+          "description": "Turnovers Per Game"
+        },
+        {
+          "index": 6,
+          "name": "A/TO",
+          "description": "Assists Per Turnover"
+        }
+      ],
+      "rows": [
+        {
+          "player": {
+            "name": "Joe Toussaint",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "21",
+            "113",
+            "3.2",
+            "48",
+            "1.4",
+            "2.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Ahron Ulis",
+            "position": "G"
+          },
+          "values": [
+            "34",
+            "0",
+            "73",
+            "2.1",
+            "32",
+            "0.9",
+            "2.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Connor McCaffery",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "4",
+            "62",
+            "1.9",
+            "12",
+            "0.4",
+            "5.2"
+          ]
+        },
+        {
+          "player": {
+            "name": "Jordan Bohannon",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "35",
+            "62",
+            "1.8",
+            "31",
+            "0.9",
+            "2.0"
+          ]
+        },
+        {
+          "player": {
+            "name": "Tony Perkins",
+            "position": "G"
+          },
+          "values": [
+            "35",
+            "14",
+            "58",
+            "1.7",
+            "30",
+            "0.9",
+            "1.9"
+          ]
+        },
+        {
+          "player": {
+            "name": "Patrick McCaffery",
+            "position": "F"
+          },
+          "values": [
+            "31",
+            "31",
+            "49",
+            "1.6",
+            "21",
+            "0.7",
+            "2.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Keegan Murray",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "34",
+            "50",
+            "1.5",
+            "37",
+            "1.1",
+            "1.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Kris Murray",
+            "position": "F"
+          },
+          "values": [
+            "34",
+            "1",
+            "35",
+            "1.0",
+            "27",
+            "0.8",
+            "1.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Payton Sandfort",
+            "position": "G"
+          },
+          "values": [
+            "33",
+            "0",
+            "22",
+            "0.7",
+            "16",
+            "0.5",
+            "1.4"
+          ]
+        },
+        {
+          "player": {
+            "name": "Filip Rebraca",
+            "position": "F"
+          },
+          "values": [
+            "35",
+            "35",
+            "25",
+            "0.7",
+            "31",
+            "0.9",
+            "0.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Austin Ash",
+            "position": "G"
+          },
+          "values": [
+            "18",
+            "0",
+            "11",
+            "0.6",
+            "6",
+            "0.3",
+            "1.8"
+          ]
+        },
+        {
+          "player": {
+            "name": "Riley Mulvey",
+            "position": "C"
+          },
+          "values": [
+            "17",
+            "0",
+            "2",
+            "0.1",
+            "4",
+            "0.2",
+            "0.5"
+          ]
+        },
+        {
+          "player": {
+            "name": "Luc Laketa",
+            "position": "G"
+          },
+          "values": [
+            "12",
+            "0",
+            "1",
+            "0.1",
+            "3",
+            "0.3",
+            "0.3"
+          ]
+        },
+        {
+          "player": {
+            "name": "Josh Ogundele",
+            "position": "F"
+          },
+          "values": [
+            "19",
+            "0",
+            "0",
+            "0.0",
+            "9",
+            "0.5",
+            "0.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

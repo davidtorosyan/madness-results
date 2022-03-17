@@ -1,0 +1,277 @@
+{
+  "name": "Memphis Tigers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/MEMP/memphis-tigers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Emoni Bates",
+          "injury": {
+            "area": "Back:"
+          }
+        },
+        "values": [
+          "1",
+          "F",
+          "6-9",
+          "190",
+          "Fr",
+          "Ypsilanti, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "John Camden",
+          "injury": {
+            "area": "Foot:"
+          }
+        },
+        "values": [
+          "15",
+          "F",
+          "6-8",
+          "208",
+          "Fr",
+          "Downingtown, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Malcolm Dandridge",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "C",
+          "6-9",
+          "250",
+          "Jr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jalen Duren",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "C",
+          "6-11",
+          "250",
+          "Fr",
+          "Sharon Hill, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Conor Glennon",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "5-10",
+          "172",
+          "Soph",
+          "Chicago, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jayden Hardaway",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-5",
+          "209",
+          "Jr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Harris",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "5-9",
+          "148",
+          "Sr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tadarius Jacobs",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "G",
+          "6-1",
+          "170",
+          "Fr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Johnathan Lawson",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-6",
+          "185",
+          "Fr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chandler Lawson",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "F",
+          "6-7",
+          "215",
+          "Jr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Alex Lomax",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-0",
+          "188",
+          "Sr",
+          "Memphis, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Josh Minott",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-8",
+          "205",
+          "Fr",
+          "Boca Raton, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Landers Nolley II",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-7",
+          "208",
+          "Jr",
+          "Fairbuna, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sam Onu",
+          "injury": null
+        },
+        "values": [
+          "55",
+          "C",
+          "6-11",
+          "270",
+          "Fr",
+          "Malvern, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Lester Quinones",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-5",
+          "208",
+          "Jr",
+          "Brentwood, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Earl Timberlake",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-6",
+          "220",
+          "Soph",
+          "Washington, D.C., WA"
+        ]
+      },
+      {
+        "player": {
+          "name": "DeAndre Williams",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-9",
+          "205",
+          "Sr",
+          "Houston, TX"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "name": "Indiana Hoosiers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/IND/indiana-hoosiers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Tamar Bates",
+          "injury": null
+        },
+        "values": [
+          "53",
+          "G",
+          "6-5",
+          "193",
+          "Fr",
+          "Kansas City, KS"
+        ]
+      },
+      {
+        "player": {
+          "name": "Shaan Burke",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "6-5",
+          "185",
+          "Fr",
+          "San Diego, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Nathan Childress",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-6",
+          "212",
+          "Soph",
+          "Zionsville, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Logan Duncomb",
+          "injury": {
+            "area": "Illness:"
+          }
+        },
+        "values": [
+          "51",
+          "C",
+          "6-9",
+          "234",
+          "Fr",
+          "Cincinnati, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Durr",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "C",
+          "7-0",
+          "250",
+          "Jr",
+          "Atlanta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trey Galloway",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "G",
+          "6-4",
+          "200",
+          "Fr",
+          "Culver, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jordan Geronimo",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-6",
+          "225",
+          "Fr",
+          "Newark, NJ"
+        ]
+      },
+      {
+        "player": {
+          "name": "Trayce Jackson-Davis",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "F",
+          "6-9",
+          "245",
+          "Soph",
+          "Greenwood, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Xavier Johnson",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-3",
+          "200",
+          "Jr",
+          "Woodbridge, VA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Miller Kopp",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "F",
+          "6-7",
+          "220",
+          "Jr",
+          "Houston, TX"
+        ]
+      },
+      {
+        "player": {
+          "name": "Khristian Lander",
+          "injury": {
+            "area": "Leg:"
+          }
+        },
+        "values": [
+          "4",
+          "G",
+          "6-2",
+          "185",
+          "Fr",
+          "Evansville, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Anthony Leal",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-5",
+          "205",
+          "Fr",
+          "Bloomington, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Rob Phinisee",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-1",
+          "187",
+          "Jr",
+          "Lafayette, IN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Sebastien Scott",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "G",
+          "6-2",
+          "185",
+          "Fr",
+          "Danville, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Shipp",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-3",
+          "190",
+          "Soph",
+          "Cincinnati, OH"
+        ]
+      },
+      {
+        "player": {
+          "name": "Parker Stewart",
+          "injury": null
+        },
+        "values": [
+          "45",
+          "G",
+          "6-5",
+          "202",
+          "Jr",
+          "Union City, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Race Thompson",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "F",
+          "6-8",
+          "235",
+          "Jr",
+          "Plymouth, MN"
+        ]
+      }
+    ]
+  }
+}

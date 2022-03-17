@@ -1,0 +1,273 @@
+{
+  "name": "Bryant Bulldogs - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/BRYANT/bryant-bulldogs/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Erickson Bans",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "G",
+          "5-11",
+          "175",
+          "Soph",
+          "Pawtucket, RI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyler Brelsford",
+          "injury": null
+        },
+        "values": [
+          "4",
+          "G",
+          "6-4",
+          "183",
+          "Fr",
+          "Ellicott City, MD"
+        ]
+      },
+      {
+        "player": {
+          "name": "Greg Calixte",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "F",
+          "6-8",
+          "235",
+          "Sr",
+          "Mount Vernon, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Childs",
+          "injury": null
+        },
+        "values": [
+          "30",
+          "G",
+          "6-2",
+          "185",
+          "Sr",
+          "Bronx, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Grant Coleman",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "F",
+          "6-7",
+          "220",
+          "Fr",
+          "Mohamet, IL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Liam Dunfee",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-6",
+          "225",
+          "Fr",
+          "Nahant, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Adham Eleeda",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-5",
+          "210",
+          "Sr",
+          "Toronto, ON"
+        ]
+      },
+      {
+        "player": {
+          "name": "Hall Elisias",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "F",
+          "6-8",
+          "230",
+          "Sr",
+          "Valley Stream, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Luis Hurtado Jr.",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "6-6",
+          "215",
+          "Sr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mike Iuzzolino",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "G",
+          "6-3",
+          "180",
+          "Fr",
+          "Pittsburgh, PA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Timmy Kiggins",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-0",
+          "180",
+          "Jr",
+          "Westbury, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Peter Kiss",
+          "injury": null
+        },
+        "values": [
+          "32",
+          "G",
+          "6-5",
+          "200",
+          "Sr",
+          "New York, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mike Marshall Jr.",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "6-3",
+          "185",
+          "Fr",
+          "Weymouth, MA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Joe Moon IV",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-2",
+          "190",
+          "Soph",
+          "Westland, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Josh Ozabor",
+          "injury": null
+        },
+        "values": [
+          "50",
+          "F",
+          "6-5",
+          "220",
+          "Fr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Charles Pride",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "G",
+          "6-4",
+          "200",
+          "Jr",
+          "Syracuse, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Max Zakheim",
+          "injury": null
+        },
+        "values": [
+          "11",
+          "G",
+          "5-11",
+          "157",
+          "Fr",
+          "Bergenfield, NJ"
+        ]
+      }
+    ]
+  }
+}

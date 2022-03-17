@@ -1,0 +1,249 @@
+{
+  "name": "UCLA Bruins - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/UCLA/ucla-bruins/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Jules Bernard",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "6-7",
+          "210",
+          "Sr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Tyger Campbell",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "G",
+          "5-11",
+          "180",
+          "Jr",
+          "Cedar Rapids, IA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaylen Clark",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-5",
+          "210",
+          "Soph",
+          "Riverside, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Logan Cremonesi",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "F",
+          "6-8",
+          "220",
+          "Soph",
+          "Oceanside, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Mac Etienne",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "12",
+          "F",
+          "6-10",
+          "230",
+          "Fr",
+          "New York, NY"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaime Jaquez Jr.",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-7",
+          "225",
+          "Jr",
+          "Camarillo, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Myles Johnson",
+          "injury": null
+        },
+        "values": [
+          "15",
+          "C",
+          "6-10",
+          "255",
+          "Sr",
+          "Long Beach, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Johnny Juzang",
+          "injury": null
+        },
+        "values": [
+          "3",
+          "G",
+          "6-7",
+          "215",
+          "Jr",
+          "Tarzana, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jake Kyman",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "G",
+          "6-7",
+          "215",
+          "Jr",
+          "Aliso Viejo, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Will McClendon",
+          "injury": {
+            "area": "Knee:"
+          }
+        },
+        "values": [
+          "4",
+          "G",
+          "6-2",
+          "210",
+          "Fr",
+          "Las Vegas, NV"
+        ]
+      },
+      {
+        "player": {
+          "name": "Kenneth Nwuba",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "F",
+          "6-10",
+          "255",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Cody Riley",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-9",
+          "250",
+          "Sr",
+          "Kansas City, KS"
+        ]
+      },
+      {
+        "player": {
+          "name": "David Singleton",
+          "injury": null
+        },
+        "values": [
+          "34",
+          "G",
+          "6-4",
+          "205",
+          "Sr",
+          "Los Angeles, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Russell Stong",
+          "injury": null
+        },
+        "values": [
+          "43",
+          "G",
+          "6-3",
+          "190",
+          "Sr",
+          "Northridge, CA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Peyton Watson",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "G",
+          "6-8",
+          "200",
+          "Fr",
+          "Long Beach, CA"
+        ]
+      }
+    ]
+  }
+}

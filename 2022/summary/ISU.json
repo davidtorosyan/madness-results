@@ -1,0 +1,580 @@
+{
+  "team": {
+    "index": 57,
+    "name": "Iowa State",
+    "abbrev": "ISU",
+    "seed": 11,
+    "safe_abbrev": "ISU"
+  },
+  "players": [
+    {
+      "name": "Carter Boothe",
+      "injury": null,
+      "info": {
+        "number": 15,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 200,
+        "school_class": "Sr",
+        "hometown": "Leon, IA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 6,
+          "games_started": 0,
+          "minutes_per_game": 1.3
+        },
+        "scoring": {
+          "points_per_game": 0.3,
+          "field_goals_made": 0,
+          "field_goals_attempted": 1,
+          "field_goal_percentage": 0.0,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 1,
+          "three_point_field_goal_percentage": 0.0,
+          "free_throws_made": 2,
+          "free_throws_attempted": 2,
+          "free_throw_percentage": 100.0
+        },
+        "defense": {
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "total_rebounds": 0,
+          "rebounds_per_game": 0.0,
+          "total_steals": 1,
+          "steals_per_game": 0.2,
+          "total_blocks": 0,
+          "blocks_per_game": 0.0
+        },
+        "assists": {
+          "total_assists": 1,
+          "assists_per_game": 0.2,
+          "turnovers": 0,
+          "turnovers_per_game": 0.0,
+          "assists_per_turnover": null
+        }
+      }
+    },
+    {
+      "name": "Izaiah Brockington",
+      "injury": null,
+      "info": {
+        "number": 1,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 196,
+        "school_class": "Sr",
+        "hometown": "Philadelphia, PA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 34.6
+        },
+        "scoring": {
+          "points_per_game": 17.2,
+          "field_goals_made": 210,
+          "field_goals_attempted": 457,
+          "field_goal_percentage": 46.0,
+          "three_point_field_goals_made": 32,
+          "three_point_field_goals_attempted": 85,
+          "three_point_field_goal_percentage": 37.6,
+          "free_throws_made": 99,
+          "free_throws_attempted": 128,
+          "free_throw_percentage": 77.3
+        },
+        "defense": {
+          "offensive_rebounds": 55,
+          "defensive_rebounds": 171,
+          "total_rebounds": 226,
+          "rebounds_per_game": 7.1,
+          "total_steals": 40,
+          "steals_per_game": 1.3,
+          "total_blocks": 8,
+          "blocks_per_game": 0.3
+        },
+        "assists": {
+          "total_assists": 53,
+          "assists_per_game": 1.7,
+          "turnovers": 61,
+          "turnovers_per_game": 1.9,
+          "assists_per_turnover": 0.9
+        }
+      }
+    },
+    {
+      "name": "George Conditt IV",
+      "injury": null,
+      "info": {
+        "number": 4,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 234,
+        "school_class": "Sr",
+        "hometown": "Chicago, IL"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 26,
+          "minutes_per_game": 18.5
+        },
+        "scoring": {
+          "points_per_game": 5.0,
+          "field_goals_made": 61,
+          "field_goals_attempted": 90,
+          "field_goal_percentage": 67.8,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 39,
+          "free_throws_attempted": 57,
+          "free_throw_percentage": 68.4
+        },
+        "defense": {
+          "offensive_rebounds": 45,
+          "defensive_rebounds": 66,
+          "total_rebounds": 111,
+          "rebounds_per_game": 3.5,
+          "total_steals": 16,
+          "steals_per_game": 0.5,
+          "total_blocks": 27,
+          "blocks_per_game": 0.8
+        },
+        "assists": {
+          "total_assists": 62,
+          "assists_per_game": 1.9,
+          "turnovers": 48,
+          "turnovers_per_game": 1.5,
+          "assists_per_turnover": 1.3
+        }
+      }
+    },
+    {
+      "name": "Tristan Enaruna",
+      "injury": null,
+      "info": {
+        "number": 23,
+        "position": "G",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 220,
+        "school_class": "Jr",
+        "hometown": null
+      },
+      "stats": {
+        "overall": {
+          "games_played": 30,
+          "games_started": 24,
+          "minutes_per_game": 15.1
+        },
+        "scoring": {
+          "points_per_game": 4.7,
+          "field_goals_made": 59,
+          "field_goals_attempted": 109,
+          "field_goal_percentage": 54.1,
+          "three_point_field_goals_made": 3,
+          "three_point_field_goals_attempted": 10,
+          "three_point_field_goal_percentage": 30.0,
+          "free_throws_made": 19,
+          "free_throws_attempted": 26,
+          "free_throw_percentage": 73.1
+        },
+        "defense": {
+          "offensive_rebounds": 33,
+          "defensive_rebounds": 57,
+          "total_rebounds": 90,
+          "rebounds_per_game": 3.0,
+          "total_steals": 16,
+          "steals_per_game": 0.5,
+          "total_blocks": 14,
+          "blocks_per_game": 0.5
+        },
+        "assists": {
+          "total_assists": 8,
+          "assists_per_game": 0.3,
+          "turnovers": 26,
+          "turnovers_per_game": 0.9,
+          "assists_per_turnover": 0.3
+        }
+      }
+    },
+    {
+      "name": "Caleb Grill",
+      "injury": null,
+      "info": {
+        "number": 2,
+        "position": "G",
+        "height": "6-3",
+        "height_inches": 75,
+        "weight_pounds": 198,
+        "school_class": "Jr",
+        "hometown": "Wichita, KS"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 0,
+          "minutes_per_game": 24.1
+        },
+        "scoring": {
+          "points_per_game": 6.5,
+          "field_goals_made": 73,
+          "field_goals_attempted": 178,
+          "field_goal_percentage": 41.0,
+          "three_point_field_goals_made": 53,
+          "three_point_field_goals_attempted": 144,
+          "three_point_field_goal_percentage": 36.8,
+          "free_throws_made": 10,
+          "free_throws_attempted": 16,
+          "free_throw_percentage": 62.5
+        },
+        "defense": {
+          "offensive_rebounds": 12,
+          "defensive_rebounds": 71,
+          "total_rebounds": 83,
+          "rebounds_per_game": 2.6,
+          "total_steals": 31,
+          "steals_per_game": 1.0,
+          "total_blocks": 6,
+          "blocks_per_game": 0.2
+        },
+        "assists": {
+          "total_assists": 49,
+          "assists_per_game": 1.5,
+          "turnovers": 21,
+          "turnovers_per_game": 0.7,
+          "assists_per_turnover": 2.3
+        }
+      }
+    },
+    {
+      "name": "Tyrese Hunter",
+      "injury": null,
+      "info": {
+        "number": 11,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 178,
+        "school_class": "Fr",
+        "hometown": "Racine, WI"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 31.9
+        },
+        "scoring": {
+          "points_per_game": 10.8,
+          "field_goals_made": 125,
+          "field_goals_attempted": 321,
+          "field_goal_percentage": 38.9,
+          "three_point_field_goals_made": 29,
+          "three_point_field_goals_attempted": 117,
+          "three_point_field_goal_percentage": 24.8,
+          "free_throws_made": 66,
+          "free_throws_attempted": 97,
+          "free_throw_percentage": 68.0
+        },
+        "defense": {
+          "offensive_rebounds": 18,
+          "defensive_rebounds": 92,
+          "total_rebounds": 110,
+          "rebounds_per_game": 3.4,
+          "total_steals": 60,
+          "steals_per_game": 1.9,
+          "total_blocks": 9,
+          "blocks_per_game": 0.3
+        },
+        "assists": {
+          "total_assists": 157,
+          "assists_per_game": 4.9,
+          "turnovers": 105,
+          "turnovers_per_game": 3.3,
+          "assists_per_turnover": 1.5
+        }
+      }
+    },
+    {
+      "name": "Tre Jackson",
+      "injury": null,
+      "info": {
+        "number": 3,
+        "position": "G",
+        "height": "6-0",
+        "height_inches": 72,
+        "weight_pounds": 185,
+        "school_class": "Jr",
+        "hometown": "Columbia, SC"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 25,
+          "games_started": 0,
+          "minutes_per_game": 13.6
+        },
+        "scoring": {
+          "points_per_game": 4.1,
+          "field_goals_made": 38,
+          "field_goals_attempted": 92,
+          "field_goal_percentage": 41.3,
+          "three_point_field_goals_made": 25,
+          "three_point_field_goals_attempted": 67,
+          "three_point_field_goal_percentage": 37.3,
+          "free_throws_made": 2,
+          "free_throws_attempted": 2,
+          "free_throw_percentage": 100.0
+        },
+        "defense": {
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 22,
+          "total_rebounds": 26,
+          "rebounds_per_game": 1.0,
+          "total_steals": 20,
+          "steals_per_game": 0.8,
+          "total_blocks": 2,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 20,
+          "assists_per_game": 0.8,
+          "turnovers": 22,
+          "turnovers_per_game": 0.9,
+          "assists_per_turnover": 0.9
+        }
+      }
+    },
+    {
+      "name": "Robert Jones",
+      "injury": null,
+      "info": {
+        "number": 12,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 245,
+        "school_class": "Jr",
+        "hometown": "Prior Lake, MN"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 31,
+          "games_started": 6,
+          "minutes_per_game": 11.7
+        },
+        "scoring": {
+          "points_per_game": 2.9,
+          "field_goals_made": 40,
+          "field_goals_attempted": 79,
+          "field_goal_percentage": 50.6,
+          "three_point_field_goals_made": 0,
+          "three_point_field_goals_attempted": 0,
+          "three_point_field_goal_percentage": null,
+          "free_throws_made": 11,
+          "free_throws_attempted": 33,
+          "free_throw_percentage": 33.3
+        },
+        "defense": {
+          "offensive_rebounds": 29,
+          "defensive_rebounds": 41,
+          "total_rebounds": 70,
+          "rebounds_per_game": 2.3,
+          "total_steals": 13,
+          "steals_per_game": 0.4,
+          "total_blocks": 15,
+          "blocks_per_game": 0.5
+        },
+        "assists": {
+          "total_assists": 24,
+          "assists_per_game": 0.8,
+          "turnovers": 24,
+          "turnovers_per_game": 0.8,
+          "assists_per_turnover": 1.0
+        }
+      }
+    },
+    {
+      "name": "Gabe Kalscheur",
+      "injury": null,
+      "info": {
+        "number": 22,
+        "position": "G",
+        "height": "6-4",
+        "height_inches": 76,
+        "weight_pounds": 198,
+        "school_class": "Sr",
+        "hometown": "Edina, MN"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 32,
+          "minutes_per_game": 30.7
+        },
+        "scoring": {
+          "points_per_game": 9.3,
+          "field_goals_made": 107,
+          "field_goals_attempted": 300,
+          "field_goal_percentage": 35.7,
+          "three_point_field_goals_made": 37,
+          "three_point_field_goals_attempted": 154,
+          "three_point_field_goal_percentage": 24.0,
+          "free_throws_made": 45,
+          "free_throws_attempted": 66,
+          "free_throw_percentage": 68.2
+        },
+        "defense": {
+          "offensive_rebounds": 13,
+          "defensive_rebounds": 58,
+          "total_rebounds": 71,
+          "rebounds_per_game": 2.2,
+          "total_steals": 37,
+          "steals_per_game": 1.2,
+          "total_blocks": 2,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 56,
+          "assists_per_game": 1.8,
+          "turnovers": 82,
+          "turnovers_per_game": 2.6,
+          "assists_per_turnover": 0.7
+        }
+      }
+    },
+    {
+      "name": "Tre King",
+      "injury": {
+        "area": "Not Injury Related"
+      },
+      "info": {
+        "number": 0,
+        "position": "F",
+        "height": "6-9",
+        "height_inches": 81,
+        "weight_pounds": 225,
+        "school_class": "Jr",
+        "hometown": "Lexington, KY"
+      },
+      "stats": null
+    },
+    {
+      "name": "Aljaz Kunc",
+      "injury": null,
+      "info": {
+        "number": 5,
+        "position": "F",
+        "height": "6-8",
+        "height_inches": 80,
+        "weight_pounds": 215,
+        "school_class": "Sr",
+        "hometown": null
+      },
+      "stats": {
+        "overall": {
+          "games_played": 32,
+          "games_started": 8,
+          "minutes_per_game": 21.8
+        },
+        "scoring": {
+          "points_per_game": 6.2,
+          "field_goals_made": 59,
+          "field_goals_attempted": 136,
+          "field_goal_percentage": 43.4,
+          "three_point_field_goals_made": 35,
+          "three_point_field_goals_attempted": 88,
+          "three_point_field_goal_percentage": 39.8,
+          "free_throws_made": 44,
+          "free_throws_attempted": 62,
+          "free_throw_percentage": 71.0
+        },
+        "defense": {
+          "offensive_rebounds": 31,
+          "defensive_rebounds": 93,
+          "total_rebounds": 124,
+          "rebounds_per_game": 3.9,
+          "total_steals": 26,
+          "steals_per_game": 0.8,
+          "total_blocks": 14,
+          "blocks_per_game": 0.4
+        },
+        "assists": {
+          "total_assists": 32,
+          "assists_per_game": 1.0,
+          "turnovers": 19,
+          "turnovers_per_game": 0.6,
+          "assists_per_turnover": 1.7
+        }
+      }
+    },
+    {
+      "name": "Eric Steyer",
+      "injury": null,
+      "info": {
+        "number": 25,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 180,
+        "school_class": "Sr",
+        "hometown": "Ames, IA"
+      },
+      "stats": null
+    },
+    {
+      "name": "Jaden Walker",
+      "injury": null,
+      "info": {
+        "number": 21,
+        "position": "G",
+        "height": "6-5",
+        "height_inches": 77,
+        "weight_pounds": 200,
+        "school_class": "Soph",
+        "hometown": "Lawrenceville, GA"
+      },
+      "stats": {
+        "overall": {
+          "games_played": 15,
+          "games_started": 0,
+          "minutes_per_game": 7.7
+        },
+        "scoring": {
+          "points_per_game": 2.1,
+          "field_goals_made": 12,
+          "field_goals_attempted": 24,
+          "field_goal_percentage": 50.0,
+          "three_point_field_goals_made": 1,
+          "three_point_field_goals_attempted": 3,
+          "three_point_field_goal_percentage": 33.3,
+          "free_throws_made": 7,
+          "free_throws_attempted": 14,
+          "free_throw_percentage": 50.0
+        },
+        "defense": {
+          "offensive_rebounds": 8,
+          "defensive_rebounds": 6,
+          "total_rebounds": 14,
+          "rebounds_per_game": 0.9,
+          "total_steals": 9,
+          "steals_per_game": 0.6,
+          "total_blocks": 1,
+          "blocks_per_game": 0.1
+        },
+        "assists": {
+          "total_assists": 9,
+          "assists_per_game": 0.6,
+          "turnovers": 12,
+          "turnovers_per_game": 0.8,
+          "assists_per_turnover": 0.8
+        }
+      }
+    }
+  ]
+}

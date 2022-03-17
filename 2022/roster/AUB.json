@@ -1,0 +1,287 @@
+{
+  "name": "Auburn Tigers - Roster",
+  "url": "https://www.cbssports.com/college-basketball/teams/AUBURN/auburn-tigers/roster/",
+  "table": {
+    "name": "All Players",
+    "header": [
+      {
+        "index": 0,
+        "name": "NO"
+      },
+      {
+        "index": 1,
+        "name": "POS"
+      },
+      {
+        "index": 2,
+        "name": "HT"
+      },
+      {
+        "index": 3,
+        "name": "WT"
+      },
+      {
+        "index": 4,
+        "name": "CLASS"
+      },
+      {
+        "index": 5,
+        "name": "Hometown"
+      }
+    ],
+    "rows": [
+      {
+        "player": {
+          "name": "Babatunde Akingbola",
+          "injury": null
+        },
+        "values": [
+          "23",
+          "C",
+          "6-10",
+          "245",
+          "Jr",
+          "\u2014"
+        ]
+      },
+      {
+        "player": {
+          "name": "Lior Berman",
+          "injury": null
+        },
+        "values": [
+          "24",
+          "G",
+          "6-4",
+          "215",
+          "Jr",
+          "Birmingham, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Devan Cambridge",
+          "injury": null
+        },
+        "values": [
+          "35",
+          "G",
+          "6-6",
+          "215",
+          "Jr",
+          "Nashville, TN"
+        ]
+      },
+      {
+        "player": {
+          "name": "Dylan Cardwell",
+          "injury": null
+        },
+        "values": [
+          "44",
+          "C",
+          "6-11",
+          "250",
+          "Soph",
+          "Augusta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Preston Cook",
+          "injury": null
+        },
+        "values": [
+          "14",
+          "G",
+          "6-4",
+          "205",
+          "Sr",
+          "Auburn, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Ty Cressman",
+          "injury": null
+        },
+        "values": [
+          "21",
+          "F",
+          "6-7",
+          "244",
+          "Jr",
+          "Greensboro, NC"
+        ]
+      },
+      {
+        "player": {
+          "name": "Allen Flanigan",
+          "injury": null
+        },
+        "values": [
+          "22",
+          "G",
+          "6-6",
+          "215",
+          "Jr",
+          "Little Rock, AR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Wendell Green Jr.",
+          "injury": null
+        },
+        "values": [
+          "1",
+          "G",
+          "5-11",
+          "175",
+          "Soph",
+          "Detroit, MI"
+        ]
+      },
+      {
+        "player": {
+          "name": "Zep Jasper",
+          "injury": null
+        },
+        "values": [
+          "12",
+          "G",
+          "6-1",
+          "185",
+          "Sr",
+          "Augusta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "K.D. Johnson",
+          "injury": null
+        },
+        "values": [
+          "0",
+          "G",
+          "6-0",
+          "204",
+          "Soph",
+          "Atlanta, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Walker Kessler",
+          "injury": null
+        },
+        "values": [
+          "13",
+          "F",
+          "7-1",
+          "245",
+          "Soph",
+          "Newnan, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chandler Leopard",
+          "injury": null
+        },
+        "values": [
+          "25",
+          "G",
+          "6-3",
+          "195",
+          "Jr",
+          "Athens, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chase Maasdorp",
+          "injury": null
+        },
+        "values": [
+          "33",
+          "G",
+          "6-0",
+          "175",
+          "Sr",
+          "Lakewood Ranch, FL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Chris Moore",
+          "injury": null
+        },
+        "values": [
+          "5",
+          "F",
+          "6-6",
+          "240",
+          "Soph",
+          "West Memphis, AR"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jabari Smith",
+          "injury": null
+        },
+        "values": [
+          "10",
+          "F",
+          "6-10",
+          "220",
+          "Fr",
+          "Fayetteville, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Carter Sobera",
+          "injury": null
+        },
+        "values": [
+          "20",
+          "G",
+          "6-5",
+          "187",
+          "Soph",
+          "Birminghan, AL"
+        ]
+      },
+      {
+        "player": {
+          "name": "Michael Whitmore",
+          "injury": null
+        },
+        "values": [
+          "31",
+          "G",
+          "5-10",
+          "160",
+          "Soph",
+          "Dunwoody, GA"
+        ]
+      },
+      {
+        "player": {
+          "name": "Jaylin Williams",
+          "injury": null
+        },
+        "values": [
+          "2",
+          "F",
+          "6-8",
+          "230",
+          "Jr",
+          "Nahunta, GA"
+        ]
+      }
+    ]
+  }
+}
